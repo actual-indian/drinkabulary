@@ -27,7 +27,7 @@ function mapProductToBeer(product: DotykackaProduct): Beer {
     : 'unknown';
 
   return {
-    id: product.id,
+    id: product.id.toString(),
     name: product.name || 'unknown',
     category,
     brewery: 'unknown', // Not available in Dotykacka API
