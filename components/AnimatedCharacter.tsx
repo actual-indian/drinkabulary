@@ -16,7 +16,12 @@ const greetings = [
   "Hi there!",
   "Welcome to Valhalla!",
   "What can I get you?",
-  "Greetings, friend!"
+  "Greetings, friend!",
+  "Howdy ho!",
+  "Fancy a beer, eh?",
+  "Skål, thirsty traveler!",
+  "Hop in - pun intended!",
+  "Ale yeah!"
 ];
 
 export default function AnimatedCharacter({ animationState, onWaveComplete, onClick }: AnimatedCharacterProps) {
@@ -154,17 +159,17 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
         />
       </div>
 
-      {/* Speech Bubble - Positioned above on mobile, to the right on desktop */}
+      {/* Speech Bubble - Positioned to the right on both mobile and desktop */}
       {showBubble && (
         <>
-          {/* Mobile: Above character */}
-          <div className="sm:hidden absolute left-1/2 -translate-x-1/2 bottom-full mb-2 animate-in fade-in slide-in-from-bottom-2 duration-300">
+          {/* Mobile: To the right of character, lower position */}
+          <div className="sm:hidden absolute left-full ml-2 top-1/2 -translate-y-1/4 animate-in fade-in slide-in-from-left-2 duration-300">
             <div className="relative bg-white dark:bg-stone-700 viking:bg-[#3D2B1F] rounded-2xl px-3 py-2 shadow-lg viking:shadow-[#8B1A1A]/30 viking:border viking:border-[#5C4A35] max-w-[180px]">
-              <p className="text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] font-medium text-xs sm:text-sm text-center">
+              <p className="text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] font-medium text-xs text-left">
                 {greeting}
               </p>
-              {/* Speech bubble tail pointing down */}
-              <div className="absolute left-1/2 -translate-x-1/2 bottom-0 translate-y-2 w-0 h-0 border-l-8 border-l-transparent border-r-8 border-r-transparent border-t-8 border-t-white dark:border-t-stone-700 viking:border-t-[#3D2B1F]"></div>
+              {/* Speech bubble tail pointing left */}
+              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 viking:border-r-[#3D2B1F]"></div>
             </div>
           </div>
 
