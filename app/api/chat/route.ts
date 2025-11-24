@@ -63,16 +63,13 @@ export async function POST(request: NextRequest) {
       const recommendations = JSON.parse(response) as Array<{ id: string; reason: string }>;
 
       // Match beer IDs with actual beer data and attach reasons
-      const matchedBeers = recommendations
-        .map(rec => {
-          const beer = beers.find(b => b.id === rec.id);
-          if (beer) {
-            // Create a new beer object with the reason attached
-            return { ...beer, reason: rec.reason };
-          }
-          return null;
-        })
-        .filter((beer): beer is Beer => beer !== null);
+      const matchedBeers: Beer[] = [];
+      for (const rec of recommendations) {
+        const beer = beers.find(b => b.id === rec.id);
+        if (beer) {
+          matchedBeers.push({ ...beer, reason: rec.reason });
+        }
+      }
 
       recommendedBeers = matchedBeers.slice(0, 2); // Ensure max 2 recommendations
 
