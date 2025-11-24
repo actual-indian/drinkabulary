@@ -163,7 +163,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
       {showBubble && (
         <>
           {/* Mobile: To the right of character, lower position */}
-          <div className="sm:hidden absolute left-full ml-2 top-1/2 -translate-y-1/4 animate-in fade-in slide-in-from-left-2 duration-300">
+          <div className="sm:hidden absolute left-full ml-2 top-1/2 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
             <div className="relative bg-white dark:bg-stone-700 viking:bg-[#3D2B1F] rounded-2xl px-3 py-2 shadow-lg viking:shadow-[#8B1A1A]/30 viking:border viking:border-[#5C4A35] max-w-[180px]">
               <p className="text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] font-medium text-xs text-left">
                 {greeting}
