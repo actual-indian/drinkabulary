@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import type { Beer } from '@/types/beer';
 import { dotykackaClient, DotykackaProduct } from '@/lib/dotykacka';
 
@@ -39,11 +39,10 @@ function mapProductToBeer(product: DotykackaProduct): Beer {
   };
 }
 
-export async function GET(request: Request) {
+export async function GET(request: NextRequest) {
   try {
     // Check for cache invalidation parameter
-    const { searchParams } = new URL(request.url);
-    const forceRefresh = searchParams.get('refresh') === 'true';
+    const forceRefresh = request.nextUrl.searchParams.get('refresh') === 'true';
 
     if (forceRefresh) {
       console.log('Force refresh requested - invalidating cache');
