@@ -68,10 +68,10 @@ export default function MainPage() {
 
       <main className="container mx-auto px-4 sm:px-6">
         {view === 'chat' && (
-          <div className="max-w-3xl mx-auto flex items-center min-h-[calc(100vh-8rem)] py-8">
-            <div className="relative w-full">
+          <div className="max-w-3xl mx-auto h-[calc(100vh-8rem)] flex flex-col justify-center py-4 sm:py-8">
+            <div className="relative w-full flex flex-col min-h-0">
               {/* Animated character positioned to overlap the chat box */}
-              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-15px] sm:mb-[-20px] relative z-10">
+              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-15px] sm:mb-[-20px] relative z-10 flex-shrink-0">
                 <AnimatedCharacter
                   animationState={animationState}
                   onWaveComplete={handleWaveComplete}
@@ -79,8 +79,10 @@ export default function MainPage() {
                 />
               </div>
 
-              {/* Chat box */}
-              <ChatBox onAnimationStateChange={handleAnimationStateChange} />
+              {/* Chat box with flex-shrink to prevent overflow */}
+              <div className="flex-shrink min-h-0">
+                <ChatBox onAnimationStateChange={handleAnimationStateChange} />
+              </div>
             </div>
           </div>
         )}
