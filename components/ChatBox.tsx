@@ -96,7 +96,7 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   return (
     <div className="bg-white dark:bg-stone-800 viking:bg-[#3D2B1F] rounded-lg shadow-lg viking:shadow-[#8B1A1A]/30 p-3 sm:p-4 w-full mx-auto transition-colors viking:border viking:border-[#5C4A35]">
       {(messages.length > 0 || isLoading) && (
-        <div className="max-h-[50vh] sm:max-h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3">
+        <div className="max-h-[65vh] sm:max-h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3">
           {messages.map((msg, idx) => (
             <div key={idx}>
               {/* Only show text bubble if there's content or if it's a user message */}
