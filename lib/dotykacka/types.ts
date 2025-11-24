@@ -7,7 +7,7 @@ export interface DotykackaTokenResponse {
 }
 
 export interface DotykackaProduct {
-  id: string; // Large number IDs from Dotykacka API
+  id: number;
   name: string;
   display: boolean;
   priceWithVat: number; // Price in Czech Crowns (CZK)
@@ -21,5 +21,4 @@ export interface DotykackaProduct {
 
 export interface DotykackaApiResponse<T> {
   data?: T[];
-  // Dotykacka may return array directly or wrapped in data field
 }
