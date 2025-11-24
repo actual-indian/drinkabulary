@@ -1,5 +1,5 @@
 export interface Beer {
-  id: number;
+  id: string; // Dotykacka IDs are large numbers, stored as strings
   category: string;
   brewery: string;
   name: string;
@@ -8,6 +8,7 @@ export interface Beer {
   price: string; // Can be "unknown" if missing
   url: string; // Can be "unknown" if missing
   urlDisplay?: string; // Masked/shortened URL for display
+  reason?: string; // LLM-generated reason for recommendation
 }
 
 export interface Message {

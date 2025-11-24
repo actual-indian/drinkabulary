@@ -1,90 +1,88 @@
 import { NextResponse } from 'next/server';
 import type { Beer } from '@/types/beer';
-import fs from 'fs';
-import path from 'path';
-import Papa from 'papaparse';
+import { dotykackaClient, DotykackaProduct } from '@/lib/dotykacka';
 
-// Helper function to mask URLs
-function maskUrl(url: string): string {
-  if (!url || url.trim() === '') return 'unknown';
+// In-memory cache for beers
+let cachedBeers: Beer[] | null = null;
+let cacheTimestamp: number | null = null;
+const CACHE_TTL = 5 * 60 * 1000; // 5 minutes cache
 
+/**
+ * Maps a Dotykacka product to our Beer interface
+ */
+function mapProductToBeer(product: DotykackaProduct): Beer {
+  // Extract category from tags (first tag if available)
+  const category = product.tags && product.tags.length > 0
+    ? product.tags[0]
+    : 'Uncategorized';
+
+  // Extract style from tags (second tag if available, or use first tag)
+  const style = product.tags && product.tags.length > 1
+    ? product.tags[1]
+    : (product.tags && product.tags.length > 0 ? product.tags[0] : 'unknown');
+
+  // Format price with CZK currency
+  const price = product.priceWithVat
+    ? `${product.priceWithVat} CZK`
+    : 'unknown';
+
+  return {
+    id: product.id,
+    name: product.name || 'unknown',
+    category,
+    brewery: 'unknown', // Not available in Dotykacka API
+    style,
+    abv: 'unknown', // Not available in Dotykacka API
+    price,
+    url: 'unknown', // Not available in Dotykacka API
+    urlDisplay: 'unknown',
+  };
+}
+
+export async function GET(request: Request) {
   try {
-    const urlObj = new URL(url);
-    const hostname = urlObj.hostname.replace('www.', '');
-    const pathParts = urlObj.pathname.split('/').filter(p => p);
-    const lastPart = pathParts[pathParts.length - 1] || '';
+    // Check for cache invalidation parameter
+    const { searchParams } = new URL(request.url);
+    const forceRefresh = searchParams.get('refresh') === 'true';
 
-    // Show domain + last path segment (truncated if too long)
-    const display = lastPart.length > 20
-      ? `${hostname}/...${lastPart.slice(-15)}`
-      : `${hostname}/${lastPart}`;
+    if (forceRefresh) {
+      console.log('Force refresh requested - invalidating cache');
+      cachedBeers = null;
+      cacheTimestamp = null;
+    }
 
-    return display;
-  } catch {
-    return 'unknown';
-  }
-}
+    // Check if cache is valid
+    const now = Date.now();
+    if (cachedBeers && cacheTimestamp && (now - cacheTimestamp) < CACHE_TTL) {
+      console.log(`Returning cached beers (${cachedBeers.length} items, age: ${Math.round((now - cacheTimestamp) / 1000)}s)`);
+      return NextResponse.json(cachedBeers);
+    }
 
-// Helper function to normalize ABV values
-function normalizeAbv(abv: string | undefined): string {
-  if (!abv || abv.trim() === '' || abv === '-') return 'unknown';
+    console.log('Cache miss or expired - fetching products from Dotykacka API...');
 
-  // Extract numeric value from various formats
-  const match = abv.match(/(\d+[,.]?\d*)/);
-  if (match) {
-    return match[1].replace(',', '.');
-  }
+    // Fetch active products from Dotykacka (display=true, deleted=false)
+    const products = await dotykackaClient.getActiveProducts();
 
-  return 'unknown';
-}
+    // Map Dotykacka products to Beer format
+    const beers: Beer[] = products.map(mapProductToBeer);
 
-// Helper function to normalize price
-function normalizePrice(price: string | undefined): string {
-  if (!price || price.trim() === '' || price === '-') return 'unknown';
-  return price;
-}
+    // Update cache
+    cachedBeers = beers;
+    cacheTimestamp = now;
 
-interface CSVRow {
-  category: string;
-  brewery: string;
-  beer_name: string;
-  style: string;
-  abv: string;
-  price_euro: string;
-  product_url: string;
-}
-
-export async function GET() {
-  try {
-    const csvPath = path.join(process.cwd(), 'app', 'beerlist', 'beers_with_categories.csv');
-    const fileContent = fs.readFileSync(csvPath, 'utf-8');
-
-    const parseResult = Papa.parse<CSVRow>(fileContent, {
-      header: true,
-      skipEmptyLines: true,
-    });
-
-    const beers: Beer[] = parseResult.data.map((row, index) => {
-      const url = row.product_url?.trim() || '';
-
-      return {
-        id: index + 1,
-        category: row.category || 'unknown',
-        brewery: row.brewery || 'unknown',
-        name: row.beer_name || 'unknown',
-        style: row.style || 'unknown',
-        abv: normalizeAbv(row.abv),
-        price: normalizePrice(row.price_euro),
-        url: url || 'unknown',
-        urlDisplay: maskUrl(url),
-      };
-    });
-
+    console.log(`Successfully fetched and cached ${beers.length} beers from Dotykacka`);
     return NextResponse.json(beers);
   } catch (error) {
-    console.error('Error reading beer list:', error);
+    console.error('Error fetching beers from Dotykacka:', error);
+
+    // If we have stale cache, return it as fallback
+    if (cachedBeers) {
+      console.log('Returning stale cache due to error');
+      return NextResponse.json(cachedBeers);
+    }
+
     return NextResponse.json(
-      { error: 'Failed to load beer list' },
+      { error: 'Failed to load beer list from Dotykacka API' },
       { status: 500 }
     );
   }

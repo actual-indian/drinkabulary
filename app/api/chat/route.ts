@@ -37,36 +37,53 @@ export async function POST(request: NextRequest) {
       ],
     });
 
-    // Format beer catalog for context with IDs
-    const beerCatalog = beers.map(beer =>
-      `[ID: ${beer.id}] ${beer.name} by ${beer.brewery} - ${beer.style}, ABV: ${beer.abv}, Price: ${beer.price}€, Category: ${beer.category}`
-    ).join('\n');
+    // Format menu catalog for context with IDs and tags
+    const beerCatalog = beers.map(beer => {
+      const tags = beer.category && beer.category !== 'Uncategorized'
+        ? `${beer.category}${beer.style && beer.style !== 'unknown' && beer.style !== beer.category ? ', ' + beer.style : ''}`
+        : (beer.style && beer.style !== 'unknown' ? beer.style : 'No tags');
+
+      return `[ID: ${beer.id}] ${beer.name} - Tags: [${tags}], Price: ${beer.price}`;
+    }).join('\n');
 
     const result = await chat.sendMessage(
-      `Available beers:\n${beerCatalog}\n\nUser message: ${message}`
+      `Available menu items:\n${beerCatalog}\n\nUser message: ${message}`
     );
 
     let response = result.response.text();
 
-    // Parse beer IDs from the tagged format: RECOMMENDED_BEERS: id1,id2
-    const tagMatch = response.match(/RECOMMENDED_BEERS:\s*([\d,\s]+)/);
+    // Clean up the response to extract pure JSON
+    // Remove markdown code blocks if present
+    response = response.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
+
     let recommendedBeers: Beer[] = [];
 
-    if (tagMatch) {
-      // Extract IDs from the tag
-      const idsString = tagMatch[1].trim();
-      const ids = idsString.split(',').map(id => parseInt(id.trim(), 10)).filter(id => !isNaN(id));
+    try {
+      // Parse the JSON array from LLM
+      const recommendations = JSON.parse(response) as Array<{ id: string; reason: string }>;
 
-      // Match beers by ID, limit to maximum of 2
-      recommendedBeers = beers
-        .filter(beer => ids.includes(beer.id))
-        .slice(0, 2);
+      // Match beer IDs with actual beer data and attach reasons
+      recommendedBeers = recommendations
+        .map(rec => {
+          const beer = beers.find(b => b.id === rec.id);
+          if (beer) {
+            // Create a new beer object with the reason attached
+            return { ...beer, reason: rec.reason };
+          }
+          return null;
+        })
+        .filter((beer): beer is Beer => beer !== null)
+        .slice(0, 2); // Ensure max 2 recommendations
 
-      // Remove the tag from the response so users don't see it
-      response = response.replace(/RECOMMENDED_BEERS:\s*[\d,\s]+/g, '').trim();
+    } catch (error) {
+      console.error('Failed to parse LLM response as JSON:', error);
+      console.error('Response was:', response);
+      // If JSON parsing fails, return empty recommendations
+      recommendedBeers = [];
     }
 
-    return NextResponse.json({ response, recommendedBeers });
+    // Return empty response text since we're only showing beer cards
+    return NextResponse.json({ response: '', recommendedBeers });
   } catch (error) {
     console.error('Gemini API error:', error);
     return NextResponse.json(

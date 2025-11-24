@@ -40,6 +40,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Claude 
+# Claude
 CLAUDE.md
 .claude/
+
+# Development/test files
+/scripts/
+/app/beerlist/
+/app/api/dotykacka-test/

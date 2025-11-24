@@ -13,7 +13,22 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [beers, setBeers] = useState<Beer[]>([]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+
+  // Fetch beers once on component mount
+  useEffect(() => {
+    const fetchBeers = async () => {
+      try {
+        const beersRes = await fetch('/api/beers');
+        const beersData: Beer[] = await beersRes.json();
+        setBeers(beersData);
+      } catch (error) {
+        console.error('Failed to fetch beers:', error);
+      }
+    };
+    fetchBeers();
+  }, []);
 
   // Auto-scroll to bottom when messages change
   useEffect(() => {
@@ -21,7 +36,7 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   }, [messages, isLoading]);
 
   const handleSubmit = async () => {
-    if (!input.trim() || isLoading) return;
+    if (!input.trim() || isLoading || beers.length === 0) return;
 
     const userMessage = input.trim();
     setInput('');
@@ -30,11 +45,7 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
     onAnimationStateChange('thinking'); // Switch to thinking animation
 
     try {
-      // Fetch beers
-      const beersRes = await fetch('/api/beers');
-      const beers: Beer[] = await beersRes.json();
-
-      // Send chat message
+      // Send chat message with cached beers
       const chatRes = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -85,28 +96,33 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   return (
     <div className="bg-white dark:bg-stone-800 viking:bg-[#3D2B1F] rounded-lg shadow-lg viking:shadow-[#8B1A1A]/30 p-3 sm:p-4 w-full mx-auto transition-colors viking:border viking:border-[#5C4A35]">
       {(messages.length > 0 || isLoading) && (
-        <div className="h-64 sm:h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3">
+        <div className="h-[calc(100vh-24rem)] sm:h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3">
           {messages.map((msg, idx) => (
             <div key={idx}>
-              <div
-                className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
-              >
+              {/* Only show text bubble if there's content or if it's a user message */}
+              {(msg.content || msg.role === 'user') && (
                 <div
-                  className={`max-w-[85%] sm:max-w-[80%] rounded-lg px-3 py-2 sm:px-4 text-sm sm:text-base ${
-                    msg.role === 'user'
-                      ? 'bg-stone-700 dark:bg-stone-600 viking:bg-[#8B1A1A] text-white viking:text-[#F5E6D3]'
-                      : 'bg-stone-100 dark:bg-stone-700 viking:bg-[#2B1F17] text-stone-900 dark:text-stone-100 viking:text-[#F5E6D3]'
-                  }`}
+                  className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
                 >
-                  {msg.content}
+                  <div
+                    className={`max-w-[85%] sm:max-w-[80%] rounded-lg px-3 py-2 sm:px-4 text-sm sm:text-base ${
+                      msg.role === 'user'
+                        ? 'bg-stone-700 dark:bg-stone-600 viking:bg-[#8B1A1A] text-white viking:text-[#F5E6D3]'
+                        : 'bg-stone-100 dark:bg-stone-700 viking:bg-[#2B1F17] text-stone-900 dark:text-stone-100 viking:text-[#F5E6D3]'
+                    }`}
+                  >
+                    {msg.content}
+                  </div>
                 </div>
-              </div>
+              )}
               {/* Display beer cards if this is an assistant message with recommendations */}
               {msg.role === 'assistant' && msg.beers && msg.beers.length > 0 && (
-                <div className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-3">
-                  {msg.beers.map((beer) => (
-                    <BeerCard key={beer.id} beer={beer} />
-                  ))}
+                <div className="mt-3 px-2 sm:px-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                    {msg.beers.map((beer) => (
+                      <BeerCard key={beer.id} beer={beer} />
+                    ))}
+                  </div>
                 </div>
               )}
             </div>

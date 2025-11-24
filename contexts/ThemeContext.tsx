@@ -12,7 +12,7 @@ interface ThemeContextType {
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  const [theme, setTheme] = useState<Theme>('light');
+  const [theme, setTheme] = useState<Theme>('viking');
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -20,6 +20,9 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
     const savedTheme = localStorage.getItem('theme') as Theme | null;
     if (savedTheme) {
       setTheme(savedTheme);
+    } else {
+      // Set Viking as default if no saved preference
+      setTheme('viking');
     }
   }, []);
 
@@ -52,7 +55,7 @@ export function useTheme() {
   const context = useContext(ThemeContext);
   if (context === undefined) {
     // Return default values if context is not available (e.g., during SSR)
-    return { theme: 'light' as Theme, setTheme: () => {} };
+    return { theme: 'viking' as Theme, setTheme: () => {} };
   }
   return context;
 }

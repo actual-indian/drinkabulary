@@ -4,7 +4,7 @@ import { ThemeProvider } from '@/contexts/ThemeContext';
 
 export const metadata: Metadata = {
   title: 'Valhalla Beer Club',
-  description: 'AI-powered beer recommendations',
+  description: 'Chat with beer recommendations',
 };
 
 export default function RootLayout({
