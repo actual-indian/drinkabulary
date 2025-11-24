@@ -63,7 +63,7 @@ export async function POST(request: NextRequest) {
       const recommendations = JSON.parse(response) as Array<{ id: string; reason: string }>;
 
       // Match beer IDs with actual beer data and attach reasons
-      recommendedBeers = recommendations
+      const matchedBeers = recommendations
         .map(rec => {
           const beer = beers.find(b => b.id === rec.id);
           if (beer) {
@@ -72,8 +72,9 @@ export async function POST(request: NextRequest) {
           }
           return null;
         })
-        .filter((beer): beer is Beer => beer !== null)
-        .slice(0, 2); // Ensure max 2 recommendations
+        .filter((beer): beer is Beer => beer !== null);
+
+      recommendedBeers = matchedBeers.slice(0, 2); // Ensure max 2 recommendations
 
     } catch (error) {
       console.error('Failed to parse LLM response as JSON:', error);
