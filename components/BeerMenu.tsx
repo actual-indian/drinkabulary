@@ -22,8 +22,13 @@ export default function BeerMenu() {
 
   if (isLoading) {
     return (
-      <div className="flex justify-center items-center h-64">
-        <div className="text-stone-600 dark:text-stone-400 viking:text-[#D4BFA0]">Loading menu...</div>
+      <div className="flex flex-col justify-center items-center h-64 animate-fade-in">
+        <div className="flex gap-2 mb-4">
+          <div className="w-3 h-3 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></div>
+          <div className="w-3 h-3 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></div>
+          <div className="w-3 h-3 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></div>
+        </div>
+        <div className="text-[var(--text-secondary)] dark:text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] font-body font-medium">Loading menu...</div>
       </div>
     );
   }
@@ -38,19 +43,35 @@ export default function BeerMenu() {
   }, {} as Record<string, Beer[]>);
 
   return (
-    <div className="max-w-5xl mx-auto py-6 sm:py-8">
-      <h2 className="text-2xl sm:text-3xl font-bold text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] mt-6 sm:mt-12 mb-6 sm:mb-8 text-center">
-        Our Beer Selection
-      </h2>
+    <div className="max-w-6xl mx-auto py-6 sm:py-12">
+      {/* Hero Title */}
+      <div className="text-center mb-10 sm:mb-16 animate-fade-in-up">
+        <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display uppercase tracking-wider bg-gradient-to-r from-[var(--accent-primary)] via-[var(--accent-secondary)] to-[var(--accent-primary)] dark:from-[var(--accent-secondary)] dark:via-[var(--accent-primary)] dark:to-[var(--accent-secondary)] viking:from-[var(--viking-secondary)] viking:via-[var(--viking-accent)] viking:to-[var(--viking-secondary)] bg-clip-text text-transparent mb-4 animate-fade-in-up">
+          Our Selection
+        </h2>
+        <div className="h-1 w-32 mx-auto bg-gradient-to-r from-transparent via-[var(--accent-primary)] to-transparent dark:via-[var(--accent-secondary)] viking:via-[var(--viking-secondary)] animate-fade-in-up stagger-1"></div>
+      </div>
 
-      {Object.entries(beersByCategory).map(([category, categoryBeers]) => (
-        <div key={category} className="mb-8 sm:mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold text-stone-700 dark:text-stone-200 viking:text-[#E5D5B7] mb-4 sm:mb-6 border-b-2 border-stone-300 dark:border-stone-600 viking:border-[#5C4A35] pb-2">
-            {category}
-          </h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
-            {categoryBeers.map((beer) => (
-              <BeerCard key={beer.id} beer={beer} />
+      {Object.entries(beersByCategory).map(([category, categoryBeers], categoryIndex) => (
+        <div key={category} className="mb-12 sm:mb-16 animate-fade-in-up" style={{ animationDelay: `${categoryIndex * 0.15}s` }}>
+          {/* Category Header */}
+          <div className="mb-6 sm:mb-8">
+            <h3 className="text-3xl sm:text-4xl font-display uppercase tracking-wide text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] mb-3 inline-block">
+              {category}
+            </h3>
+            <div className="h-0.5 w-full bg-gradient-to-r from-[var(--accent-primary)] via-[var(--border-color)] to-transparent dark:from-[var(--accent-secondary)] viking:from-[var(--viking-secondary)]"></div>
+          </div>
+
+          {/* Beer Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6">
+            {categoryBeers.map((beer, beerIndex) => (
+              <div
+                key={beer.id}
+                className="animate-scale-in"
+                style={{ animationDelay: `${(categoryIndex * 0.15) + (beerIndex * 0.1)}s`, opacity: 0 }}
+              >
+                <BeerCard beer={beer} />
+              </div>
             ))}
           </div>
         </div>

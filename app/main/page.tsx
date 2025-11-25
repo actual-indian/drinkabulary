@@ -58,7 +58,14 @@ export default function MainPage() {
   }
 
   return (
-    <div className="min-h-screen bg-stone-50 dark:bg-stone-900 viking:bg-[#1A1410] transition-colors">
+    <div className="min-h-screen bg-gradient-warmth transition-colors relative overflow-hidden">
+      {/* Atmospheric overlay for depth */}
+      <div className="fixed inset-0 pointer-events-none opacity-30 dark:opacity-20 viking:opacity-40 mix-blend-overlay"
+           style={{
+             backgroundImage: 'url("data:image/svg+xml,%3Csvg viewBox=\'0 0 400 400\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cfilter id=\'noiseFilter\'%3E%3CfeTurbulence type=\'fractalNoise\' baseFrequency=\'0.9\' numOctaves=\'4\' /%3E%3C/filter%3E%3Crect width=\'100%25\' height=\'100%25\' filter=\'url(%23noiseFilter)\' opacity=\'0.05\'/%3E%3C/svg%3E")',
+           }}
+      />
+
       <Header
         language={language}
         onLanguageChange={setLanguage}
@@ -66,12 +73,12 @@ export default function MainPage() {
         onViewChange={setView}
       />
 
-      <main className="container mx-auto px-4 sm:px-6">
+      <main className="container mx-auto px-4 sm:px-6 relative z-10">
         {view === 'chat' && (
-          <div className="max-w-3xl mx-auto h-[calc(100vh-8rem)] flex flex-col justify-center py-4 sm:py-8">
+          <div className="max-w-3xl mx-auto h-[calc(100vh-8rem)] flex flex-col justify-center py-4 sm:py-8 animate-fade-in">
             <div className="relative w-full flex flex-col min-h-0">
               {/* Animated character positioned to overlap the chat box */}
-              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-15px] sm:mb-[-20px] relative z-10 flex-shrink-0">
+              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-15px] sm:mb-[-20px] relative z-10 flex-shrink-0 animate-slide-in-right">
                 <AnimatedCharacter
                   animationState={animationState}
                   onWaveComplete={handleWaveComplete}
@@ -80,13 +87,13 @@ export default function MainPage() {
               </div>
 
               {/* Chat box with flex-shrink to prevent overflow */}
-              <div className="flex-shrink min-h-0">
+              <div className="flex-shrink min-h-0 animate-fade-in-up stagger-1">
                 <ChatBox onAnimationStateChange={handleAnimationStateChange} />
               </div>
             </div>
           </div>
         )}
-        
+
         {view === 'menu' && <BeerMenu />}
 
         {view === 'team' && <TeamInfo />}

@@ -50,78 +50,94 @@ export default function Header({ language, onLanguageChange, currentView, onView
   };
 
   return (
-    <header className="sticky top-0 z-50 bg-stone-800 viking:bg-[#2B1F17] text-stone-50 viking:text-[#F5E6D3] px-4 py-3 shadow-lg viking:shadow-[#5C4A35]/50">
-      <div className="max-w-7xl mx-auto">
+    <header className="sticky top-0 z-50 backdrop-blur-md bg-[var(--bg-secondary)]/95 dark:bg-[var(--bg-accent)]/95 viking:bg-[var(--viking-bg-secondary)]/95 border-b border-[var(--border-color)] viking:border-[var(--viking-border)] shadow-xl">
+      <div className="max-w-7xl mx-auto px-4 py-4">
         {/* Mobile and Desktop Layout */}
-        <div className="flex items-center justify-between gap-2">
+        <div className="flex items-center justify-between gap-3">
           {/* Left: Logo */}
-          <div className="flex items-center gap-2 min-w-0 flex-shrink">
-            <div className="relative w-8 h-8 flex-shrink-0">
+          <div className="flex items-center gap-3 min-w-0 flex-shrink group">
+            <div className="relative w-10 h-10 flex-shrink-0 rounded-full overflow-hidden ring-2 ring-[var(--accent-primary)] dark:ring-[var(--accent-secondary)] viking:ring-[var(--viking-secondary)] group-hover:ring-4 transition-all">
               <Image
                 src="/logo/valhalla.jpg"
                 alt="Valhalla Beer Club Logo"
                 fill
-                className="object-contain"
+                className="object-cover group-hover:scale-110 transition-transform duration-300"
                 priority
               />
             </div>
-            <h1 className="text-lg sm:text-xl font-bold truncate">
-              <span className="hidden sm:inline">Valhalla Beer Club</span>
-              <span className="sm:hidden">Valhalla</span>
+            <h1 className="text-xl sm:text-2xl font-display uppercase tracking-wider truncate text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)]">
+              <span className="hidden sm:inline bg-gradient-to-r from-[var(--accent-primary)] to-[var(--accent-secondary)] dark:from-[var(--accent-secondary)] dark:to-[var(--accent-primary)] viking:from-[var(--viking-secondary)] viking:to-[var(--viking-accent)] bg-clip-text text-transparent">Valhalla Beer Club</span>
+              <span className="sm:hidden bg-gradient-to-r from-[var(--accent-primary)] to-[var(--accent-secondary)] viking:from-[var(--viking-secondary)] viking:to-[var(--viking-accent)] bg-clip-text text-transparent">Valhalla</span>
             </h1>
           </div>
 
           {/* Center: Navigation - Hidden on mobile, shown on md+ */}
-          <div className="hidden md:flex items-center justify-center gap-4 lg:gap-6">
+          <nav className="hidden md:flex items-center justify-center gap-1 lg:gap-2">
             <button
               onClick={() => onViewChange('chat')}
-              className="hover:underline transition text-sm lg:text-base"
+              className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
+                currentView === 'chat'
+                  ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-lg'
+                  : 'text-[var(--text-secondary)] dark:text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)]'
+              }`}
             >
               Chat
             </button>
 
             <button
               onClick={() => onViewChange('menu')}
-              className="hover:underline transition text-sm lg:text-base"
+              className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
+                currentView === 'menu'
+                  ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-lg'
+                  : 'text-[var(--text-secondary)] dark:text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)]'
+              }`}
             >
               Menu
             </button>
 
             <button
               onClick={() => onViewChange('team')}
-              className="hover:underline transition text-sm lg:text-base"
+              className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
+                currentView === 'team'
+                  ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-lg'
+                  : 'text-[var(--text-secondary)] dark:text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)]'
+              }`}
             >
               Team
             </button>
 
             <button
               onClick={() => onViewChange('contacts')}
-              className="hover:underline transition text-sm lg:text-base"
+              className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
+                currentView === 'contacts'
+                  ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-lg'
+                  : 'text-[var(--text-secondary)] dark:text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)]'
+              }`}
             >
               Contacts
             </button>
-          </div>
+          </nav>
 
           {/* Right: Settings */}
-          <div className="flex items-center justify-end gap-2 sm:gap-4 flex-shrink-0">
+          <div className="flex items-center justify-end gap-2 sm:gap-3 flex-shrink-0">
             {/* Theme Selector */}
             <div className="relative" ref={themeRef}>
               <button
                 onClick={() => setIsThemeOpen(!isThemeOpen)}
-                className="flex items-center gap-1 hover:underline transition"
+                className="p-2 rounded-lg hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all flex items-center gap-1 text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)]"
                 aria-label="Select theme"
               >
                 {getThemeIcon()}
                 <ChevronDown className="w-4 h-4 hidden sm:inline" />
               </button>
               {isThemeOpen && (
-                <div className="absolute right-0 mt-1 bg-stone-700 rounded shadow-lg overflow-hidden z-10 min-w-[120px]">
+                <div className="absolute right-0 mt-2 bg-[var(--bg-secondary)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] rounded-xl shadow-2xl overflow-hidden z-10 min-w-[140px] border border-[var(--border-color)] viking:border-[var(--viking-border)] animate-scale-in">
                   <button
                     onClick={() => {
                       setTheme('light');
                       setIsThemeOpen(false);
                     }}
-                    className="flex items-center gap-2 w-full px-4 py-2 text-left hover:bg-stone-600 transition"
+                    className="flex items-center gap-3 w-full px-4 py-3 text-left hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body"
                   >
                     <Sun className="w-4 h-4" />
                     Light
@@ -131,7 +147,7 @@ export default function Header({ language, onLanguageChange, currentView, onView
                       setTheme('dark');
                       setIsThemeOpen(false);
                     }}
-                    className="flex items-center gap-2 w-full px-4 py-2 text-left hover:bg-stone-600 transition"
+                    className="flex items-center gap-3 w-full px-4 py-3 text-left hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body"
                   >
                     <Moon className="w-4 h-4" />
                     Dark
@@ -141,7 +157,7 @@ export default function Header({ language, onLanguageChange, currentView, onView
                       setTheme('viking');
                       setIsThemeOpen(false);
                     }}
-                    className="flex items-center gap-2 w-full px-4 py-2 text-left hover:bg-stone-600 transition"
+                    className="flex items-center gap-3 w-full px-4 py-3 text-left hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body"
                   >
                     <Axe className="w-4 h-4" />
                     Viking
@@ -154,19 +170,19 @@ export default function Header({ language, onLanguageChange, currentView, onView
             <div className="relative hidden sm:block" ref={languageRef}>
               <button
                 onClick={() => setIsLanguageOpen(!isLanguageOpen)}
-                className="flex items-center gap-1 hover:underline transition"
+                className="px-3 py-2 rounded-lg hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all flex items-center gap-1 text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body font-medium"
               >
                 {language}
                 <ChevronDown className="w-4 h-4" />
               </button>
               {isLanguageOpen && (
-                <div className="absolute right-0 mt-1 bg-stone-700 rounded shadow-lg overflow-hidden z-10">
+                <div className="absolute right-0 mt-2 bg-[var(--bg-secondary)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] rounded-xl shadow-2xl overflow-hidden z-10 min-w-[100px] border border-[var(--border-color)] viking:border-[var(--viking-border)] animate-scale-in">
                   <button
                     onClick={() => {
                       onLanguageChange('EN');
                       setIsLanguageOpen(false);
                     }}
-                    className="block w-full px-4 py-2 text-left hover:bg-stone-600 transition"
+                    className="block w-full px-4 py-2 text-left hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body"
                   >
                     EN
                   </button>
@@ -175,7 +191,7 @@ export default function Header({ language, onLanguageChange, currentView, onView
                       onLanguageChange('CS');
                       setIsLanguageOpen(false);
                     }}
-                    className="block w-full px-4 py-2 text-left hover:bg-stone-600 transition"
+                    className="block w-full px-4 py-2 text-left hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] viking:hover:bg-[var(--viking-bg-elevated)] transition-all text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] font-body"
                   >
                     CS
                   </button>
@@ -183,42 +199,58 @@ export default function Header({ language, onLanguageChange, currentView, onView
               )}
             </div>
 
-            <button className="hover:underline transition hidden sm:inline text-sm lg:text-base">
+            <button className="hidden sm:inline px-4 py-2 rounded-lg bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] viking:hover:bg-[var(--viking-accent)] transition-all text-sm lg:text-base font-body font-semibold shadow-lg hover:shadow-xl hover:scale-105">
               Login
             </button>
           </div>
         </div>
 
         {/* Mobile Navigation - Shown only on small screens */}
-        <div className="md:hidden flex items-center justify-center gap-4 mt-3 pt-3 border-t border-stone-600">
+        <nav className="md:hidden flex items-center justify-center gap-1 mt-3 pt-3 border-t border-[var(--border-color)] viking:border-[var(--viking-border)]">
           <button
             onClick={() => onViewChange('chat')}
-            className={`hover:underline transition text-sm ${currentView === 'chat' ? 'underline font-semibold' : ''}`}
+            className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
+              currentView === 'chat'
+                ? 'bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-md'
+                : 'text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] viking:hover:bg-[var(--viking-bg-elevated)]'
+            }`}
           >
             Chat
           </button>
 
           <button
             onClick={() => onViewChange('menu')}
-            className={`hover:underline transition text-sm ${currentView === 'menu' ? 'underline font-semibold' : ''}`}
+            className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
+              currentView === 'menu'
+                ? 'bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-md'
+                : 'text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] viking:hover:bg-[var(--viking-bg-elevated)]'
+            }`}
           >
             Menu
           </button>
 
           <button
             onClick={() => onViewChange('team')}
-            className={`hover:underline transition text-sm ${currentView === 'team' ? 'underline font-semibold' : ''}`}
+            className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
+              currentView === 'team'
+                ? 'bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-md'
+                : 'text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] viking:hover:bg-[var(--viking-bg-elevated)]'
+            }`}
           >
             Team
           </button>
 
           <button
             onClick={() => onViewChange('contacts')}
-            className={`hover:underline transition text-sm ${currentView === 'contacts' ? 'underline font-semibold' : ''}`}
+            className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
+              currentView === 'contacts'
+                ? 'bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white shadow-md'
+                : 'text-[var(--text-secondary)] viking:text-[var(--viking-text-secondary)] hover:bg-[var(--bg-accent)] viking:hover:bg-[var(--viking-bg-elevated)]'
+            }`}
           >
             Contacts
           </button>
-        </div>
+        </nav>
       </div>
     </header>
   );

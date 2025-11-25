@@ -94,89 +94,96 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   };
 
   return (
-    <div className="bg-white dark:bg-stone-800 viking:bg-[#3D2B1F] rounded-lg shadow-lg viking:shadow-[#8B1A1A]/30 p-3 sm:p-4 w-full mx-auto transition-colors viking:border viking:border-[#5C4A35]">
-      {(messages.length > 0 || isLoading) && (
-        <div className="max-h-[60vh] sm:max-h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3">
-          {messages.map((msg, idx) => (
-            <div key={idx}>
-              {/* Only show text bubble if there's content or if it's a user message */}
-              {(msg.content || msg.role === 'user') && (
-                <div
-                  className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
-                >
+    <div className="relative">
+      {/* Glowing backdrop */}
+      <div className="absolute inset-0 bg-gradient-to-br from-[var(--accent-primary)] to-[var(--accent-secondary)] opacity-5 dark:opacity-10 viking:opacity-15 rounded-2xl blur-xl" />
+
+      <div className="relative bg-[var(--bg-secondary)] backdrop-blur-sm rounded-2xl shadow-2xl p-3 sm:p-6 w-full mx-auto border border-[var(--border-color)] dark:border-[var(--border-color)] viking:border-[var(--viking-border-light)] viking:shadow-[var(--viking-glow)]">
+        {(messages.length > 0 || isLoading) && (
+          <div className="max-h-[60vh] sm:max-h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3 scroll-smooth">
+            {messages.map((msg, idx) => (
+              <div key={idx} className="animate-fade-in-up">
+                {/* Only show text bubble if there's content or if it's a user message */}
+                {(msg.content || msg.role === 'user') && (
                   <div
-                    className={`max-w-[85%] sm:max-w-[80%] rounded-lg px-3 py-2 sm:px-4 text-sm sm:text-base ${
-                      msg.role === 'user'
-                        ? 'bg-stone-700 dark:bg-stone-600 viking:bg-[#8B1A1A] text-white viking:text-[#F5E6D3]'
-                        : 'bg-stone-100 dark:bg-stone-700 viking:bg-[#2B1F17] text-stone-900 dark:text-stone-100 viking:text-[#F5E6D3]'
-                    }`}
+                    className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
                   >
-                    {msg.content}
+                    <div
+                      className={`max-w-[85%] sm:max-w-[80%] rounded-2xl px-4 py-3 sm:px-5 sm:py-3 text-sm sm:text-base font-body shadow-md hover:shadow-lg transition-all ${
+                        msg.role === 'user'
+                          ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white'
+                          : 'bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] border border-[var(--border-color)] viking:border-[var(--viking-border)]'
+                      }`}
+                    >
+                      {msg.content}
+                    </div>
                   </div>
-                </div>
-              )}
-              {/* Display beer cards if this is an assistant message with recommendations */}
-              {msg.role === 'assistant' && msg.beers && msg.beers.length > 0 && (
-                <div className="mt-3 px-2 sm:px-4">
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                    {msg.beers.map((beer) => (
-                      <BeerCard key={beer.id} beer={beer} />
-                    ))}
+                )}
+                {/* Display beer cards if this is an assistant message with recommendations */}
+                {msg.role === 'assistant' && msg.beers && msg.beers.length > 0 && (
+                  <div className="mt-3 px-0 sm:px-2">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                      {msg.beers.map((beer, beerIdx) => (
+                        <div key={beer.id} className="animate-scale-in" style={{ animationDelay: `${beerIdx * 0.1}s` }}>
+                          <BeerCard beer={beer} />
+                        </div>
+                      ))}
+                    </div>
                   </div>
-                </div>
-              )}
-            </div>
-          ))}
-          {isLoading && (
-            <div className="flex justify-start">
-              <div className="bg-stone-100 dark:bg-stone-700 viking:bg-[#2B1F17] rounded-lg px-3 py-2 sm:px-4">
-                <div className="flex gap-1">
-                  <div
-                    className="w-2 h-2 bg-stone-400 dark:bg-stone-300 viking:bg-[#CD7F32] rounded-full animate-bounce"
-                    style={{ animationDelay: '0ms' }}
-                  ></div>
-                  <div
-                    className="w-2 h-2 bg-stone-400 dark:bg-stone-300 viking:bg-[#CD7F32] rounded-full animate-bounce"
-                    style={{ animationDelay: '150ms' }}
-                  ></div>
-                  <div
-                    className="w-2 h-2 bg-stone-400 dark:bg-stone-300 viking:bg-[#CD7F32] rounded-full animate-bounce"
-                    style={{ animationDelay: '300ms' }}
-                  ></div>
+                )}
+              </div>
+            ))}
+            {isLoading && (
+              <div className="flex justify-start animate-fade-in">
+                <div className="bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] rounded-2xl px-5 py-3 shadow-md border border-[var(--border-color)] viking:border-[var(--viking-border)]">
+                  <div className="flex gap-1.5">
+                    <div
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      style={{ animationDelay: '0ms' }}
+                    ></div>
+                    <div
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      style={{ animationDelay: '150ms' }}
+                    ></div>
+                    <div
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      style={{ animationDelay: '300ms' }}
+                    ></div>
+                  </div>
                 </div>
               </div>
-            </div>
-          )}
-          {/* Invisible element to scroll to */}
-          <div ref={messagesEndRef} />
+            )}
+            {/* Invisible element to scroll to */}
+            <div ref={messagesEndRef} />
+          </div>
+        )}
+        <div className="flex gap-2 sm:gap-3 items-end">
+          <textarea
+            value={input}
+            onChange={handleInputChange}
+            onKeyDown={handleKeyPress}
+            placeholder="Ask me about our beers..."
+            className="flex-1 px-4 py-3 sm:px-5 sm:py-3 text-sm sm:text-base font-body border-2 border-[var(--border-color)] dark:border-[var(--border-color)] viking:border-[var(--viking-border)] bg-[var(--bg-secondary)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-secondary)] text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] placeholder-[var(--text-muted)] dark:placeholder-[var(--text-muted)] viking:placeholder-[var(--viking-text-muted)] rounded-xl focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)] dark:focus:ring-[var(--accent-secondary)] viking:focus:ring-[var(--viking-secondary)] focus:border-transparent transition-all resize-none min-h-[46px] max-h-[150px] sm:max-h-[200px] shadow-sm hover:shadow-md"
+            disabled={isLoading}
+            rows={1}
+            style={{
+              height: 'auto',
+              overflowY: input.split('\n').length > 5 ? 'auto' : 'hidden'
+            }}
+            onInput={(e) => {
+              const target = e.target as HTMLTextAreaElement;
+              target.style.height = 'auto';
+              target.style.height = target.scrollHeight + 'px';
+            }}
+          />
+          <button
+            onClick={handleSubmit}
+            disabled={isLoading || !input.trim()}
+            className="p-3 rounded-xl bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] viking:hover:bg-[var(--viking-accent)] disabled:bg-[var(--text-muted)] disabled:opacity-40 disabled:cursor-not-allowed transition-all flex-shrink-0 shadow-lg hover:shadow-xl hover:scale-105 active:scale-95"
+          >
+            <Send className="w-5 h-5 sm:w-5 sm:h-5" />
+          </button>
         </div>
-      )}
-      <div className="flex gap-2 items-end">
-        <textarea
-          value={input}
-          onChange={handleInputChange}
-          onKeyDown={handleKeyPress}
-          placeholder="Ask me about our beers..."
-          className="flex-1 px-3 py-2 sm:px-4 text-sm sm:text-base border border-stone-300 dark:border-stone-600 viking:border-[#5C4A35] dark:bg-stone-700 viking:bg-[#2B1F17] dark:text-white viking:text-[#F5E6D3] viking:placeholder-[#9B8767] rounded-lg focus:outline-none focus:ring-2 focus:ring-stone-500 dark:focus:ring-stone-400 viking:focus:ring-[#CD7F32] transition-colors resize-none min-h-[42px] max-h-[150px] sm:max-h-[200px]"
-          disabled={isLoading}
-          rows={1}
-          style={{
-            height: 'auto',
-            overflowY: input.split('\n').length > 5 ? 'auto' : 'hidden'
-          }}
-          onInput={(e) => {
-            const target = e.target as HTMLTextAreaElement;
-            target.style.height = 'auto';
-            target.style.height = target.scrollHeight + 'px';
-          }}
-        />
-        <button
-          onClick={handleSubmit}
-          disabled={isLoading || !input.trim()}
-          className="text-stone-800 dark:text-stone-50 viking:text-[#F5E6D3] hover:underline disabled:text-stone-400 dark:disabled:text-stone-500 viking:disabled:text-[#5C4A35] disabled:cursor-not-allowed disabled:no-underline transition flex-shrink-0"
-        >
-          <Send className="w-5 h-5 sm:w-6 sm:h-6" />
-        </button>
       </div>
     </div>
   );

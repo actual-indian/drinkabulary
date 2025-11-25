@@ -13,7 +13,12 @@ const config: Config = {
     { pattern: /^viking:/ },
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        display: ['Bebas Neue', 'Impact', 'sans-serif'],
+        body: ['Work Sans', 'system-ui', 'sans-serif'],
+      },
+    },
   },
   plugins: [
     plugin(function({ addVariant }) {
