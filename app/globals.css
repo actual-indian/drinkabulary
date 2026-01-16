@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Work+Sans:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-body;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+    letter-spacing: 0.02em;
+  }
+}
+
+/* Enhanced Color System with CSS Variables */
+:root {
+  /* Light Theme - Warm, Inviting Bar Atmosphere */
+  --bg-primary: #FAF8F3;
+  --bg-secondary: #FFFFFF;
+  --bg-accent: #FFF9F0;
+  --text-primary: #2C1810;
+  --text-secondary: #5C4A3A;
+  --text-muted: #8B7355;
+  --border-color: #E5DDD3;
+  --accent-primary: #D4761F;
+  --accent-secondary: #C45911;
+  --glow-color: rgba(212, 118, 31, 0.15);
+}
+
+.dark {
+  /* Dark Theme - Cozy Evening Ambiance */
+  --bg-primary: #1C1410;
+  --bg-secondary: #2A1F1A;
+  --bg-accent: #362820;
+  --text-primary: #F5EFE7;
+  --text-secondary: #D4C5B3;
+  --text-muted: #A89580;
+  --border-color: #4A3828;
+  --accent-primary: #E88F3F;
+  --accent-secondary: #F4A460;
+  --glow-color: rgba(232, 143, 63, 0.2);
+}
+
+/* Viking Theme - Enhanced Nordic/Medieval Atmosphere */
+.viking {
+  /* Primary colors - Rich burgundy and brass */
+  --viking-primary: #A52A2A; /* Rich burgundy */
+  --viking-secondary: #B8860B; /* Dark goldenrod/brass */
+  --viking-accent: #FFD700; /* Bright gold */
+
+  /* Backgrounds - Dramatic dark tones with warmth */
+  --viking-bg-primary: #0F0A08; /* Deep charcoal with warm undertone */
+  --viking-bg-secondary: #1F1410; /* Rich dark brown */
+  --viking-bg-card: #2F1F15; /* Warm card background */
+  --viking-bg-elevated: #3F2820; /* Elevated surfaces */
+
+  /* Text colors - Warm metallics and parchment */
+  --viking-text-primary: #FFEFD5; /* Papaya whip - warm cream */
+  --viking-text-secondary: #E6D2AC; /* Warm tan */
+  --viking-text-muted: #B8A080; /* Muted gold-tan */
+  --viking-text-accent: #FFD700; /* Gold highlights */
+
+  /* Borders and accents */
+  --viking-border: #4A3520; /* Dark bronze-brown */
+  --viking-border-light: #6B4E2C; /* Lighter bronze */
+  --viking-glow: rgba(184, 134, 11, 0.3); /* Golden glow */
+  --viking-glow-intense: rgba(255, 215, 0, 0.2); /* Intense gold glow */
+}
+
+/* Atmospheric Background Patterns */
+@keyframes grain {
+  0%, 100% { transform: translate(0, 0); }
+  10% { transform: translate(-5%, -10%); }
+  20% { transform: translate(-15%, 5%); }
+  30% { transform: translate(7%, -25%); }
+  40% { transform: translate(-5%, 25%); }
+  50% { transform: translate(-15%, 10%); }
+  60% { transform: translate(15%, 0%); }
+  70% { transform: translate(0%, 15%); }
+  80% { transform: translate(3%, 35%); }
+  90% { transform: translate(-10%, 10%); }
+}
+
+.bg-gradient-warmth {
+  background:
+    radial-gradient(circle at 20% 80%, rgba(212, 118, 31, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(184, 134, 11, 0.06) 0%, transparent 50%),
+    linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-accent) 100%);
+}
+
+.viking .bg-gradient-warmth {
+  background:
+    radial-gradient(circle at 20% 80%, var(--viking-glow) 0%, transparent 60%),
+    radial-gradient(circle at 80% 20%, var(--viking-glow-intense) 0%, transparent 70%),
+    linear-gradient(135deg, var(--viking-bg-primary) 0%, var(--viking-bg-secondary) 100%);
+}
+
+/* Smooth Transitions */
+* {
+  transition-property: background-color, border-color, color, fill, stroke, opacity, transform;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Entrance Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.5s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.6s ease-out forwards;
+}
+
+/* Stagger delays for sequential animations */
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+.stagger-6 { animation-delay: 0.6s; }
