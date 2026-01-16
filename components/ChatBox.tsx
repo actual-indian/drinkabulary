@@ -96,9 +96,9 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   return (
     <div className="relative">
       {/* Glowing backdrop */}
-      <div className="absolute inset-0 bg-gradient-to-br from-[var(--accent-primary)] to-[var(--accent-secondary)] opacity-5 dark:opacity-10 viking:opacity-15 rounded-2xl blur-xl" />
+      <div className="absolute inset-0 bg-gradient-to-br from-[var(--accent-primary)] to-[var(--accent-secondary)] opacity-5 dark:opacity-10 opacity-15 rounded-2xl blur-xl" />
 
-      <div className="relative bg-[var(--bg-secondary)] backdrop-blur-sm rounded-2xl shadow-2xl p-3 sm:p-6 w-full mx-auto border border-[var(--border-color)] dark:border-[var(--border-color)] viking:border-[var(--viking-border-light)] viking:shadow-[var(--viking-glow)]">
+      <div className="relative bg-[var(--bg-secondary)] backdrop-blur-sm rounded-2xl shadow-2xl p-3 sm:p-6 w-full mx-auto border border-[var(--border-color)] dark:border-[var(--border-color)] border-[] shadow-[]">
         {(messages.length > 0 || isLoading) && (
           <div className="max-h-[60vh] sm:max-h-96 overflow-y-auto mb-3 sm:mb-4 space-y-2 sm:space-y-3 scroll-smooth">
             {messages.map((msg, idx) => (
@@ -111,8 +111,8 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
                     <div
                       className={`max-w-[85%] sm:max-w-[80%] rounded-2xl px-4 py-3 sm:px-5 sm:py-3 text-sm sm:text-base font-body shadow-md hover:shadow-lg transition-all ${
                         msg.role === 'user'
-                          ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white'
-                          : 'bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] border border-[var(--border-color)] viking:border-[var(--viking-border)]'
+                          ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] bg-[] text-white'
+                          : 'bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] bg-[] text-[var(--text-primary)] dark:text-[var(--text-primary)] text-[] border border-[var(--border-color)] border-[]'
                       }`}
                     >
                       {msg.content}
@@ -135,18 +135,18 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
             ))}
             {isLoading && (
               <div className="flex justify-start animate-fade-in">
-                <div className="bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-card)] rounded-2xl px-5 py-3 shadow-md border border-[var(--border-color)] viking:border-[var(--viking-border)]">
+                <div className="bg-[var(--bg-accent)] dark:bg-[var(--bg-accent)] bg-[] rounded-2xl px-5 py-3 shadow-md border border-[var(--border-color)] border-[]">
                   <div className="flex gap-1.5">
                     <div
-                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] bg-[] rounded-full animate-bounce"
                       style={{ animationDelay: '0ms' }}
                     ></div>
                     <div
-                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] bg-[] rounded-full animate-bounce"
                       style={{ animationDelay: '150ms' }}
                     ></div>
                     <div
-                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] viking:bg-[var(--viking-secondary)] rounded-full animate-bounce"
+                      className="w-2.5 h-2.5 bg-[var(--accent-primary)] dark:bg-[var(--accent-secondary)] bg-[] rounded-full animate-bounce"
                       style={{ animationDelay: '300ms' }}
                     ></div>
                   </div>
@@ -163,7 +163,7 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
             onChange={handleInputChange}
             onKeyDown={handleKeyPress}
             placeholder="Ask me about our beers..."
-            className="flex-1 px-4 py-3 sm:px-5 sm:py-3 text-sm sm:text-base font-body border-2 border-[var(--border-color)] dark:border-[var(--border-color)] viking:border-[var(--viking-border)] bg-[var(--bg-secondary)] dark:bg-[var(--bg-accent)] viking:bg-[var(--viking-bg-secondary)] text-[var(--text-primary)] dark:text-[var(--text-primary)] viking:text-[var(--viking-text-primary)] placeholder-[var(--text-muted)] dark:placeholder-[var(--text-muted)] viking:placeholder-[var(--viking-text-muted)] rounded-xl focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)] dark:focus:ring-[var(--accent-secondary)] viking:focus:ring-[var(--viking-secondary)] focus:border-transparent transition-all resize-none min-h-[46px] max-h-[150px] sm:max-h-[200px] shadow-sm hover:shadow-md"
+            className="flex-1 px-4 py-3 sm:px-5 sm:py-3 text-sm sm:text-base font-body border-2 border-[var(--border-color)] dark:border-[var(--border-color)] border-[] bg-[var(--bg-secondary)] dark:bg-[var(--bg-accent)] bg-[] text-[var(--text-primary)] dark:text-[var(--text-primary)] text-[] placeholder-[var(--text-muted)] dark:placeholder-[var(--text-muted)] placeholder-[] rounded-xl focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)] dark:focus:ring-[var(--accent-secondary)] focus:ring-[] focus:border-transparent transition-all resize-none min-h-[46px] max-h-[150px] sm:max-h-[200px] shadow-sm hover:shadow-md"
             disabled={isLoading}
             rows={1}
             style={{
@@ -179,7 +179,7 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
           <button
             onClick={handleSubmit}
             disabled={isLoading || !input.trim()}
-            className="p-3 rounded-xl bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] viking:bg-[var(--viking-primary)] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] viking:hover:bg-[var(--viking-accent)] disabled:bg-[var(--text-muted)] disabled:opacity-40 disabled:cursor-not-allowed transition-all flex-shrink-0 shadow-lg hover:shadow-xl hover:scale-105 active:scale-95"
+            className="p-3 rounded-xl bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] bg-[] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] hover:bg-[] disabled:bg-[var(--text-muted)] disabled:opacity-40 disabled:cursor-not-allowed transition-all flex-shrink-0 shadow-lg hover:shadow-xl hover:scale-105 active:scale-95"
           >
             <Send className="w-5 h-5 sm:w-5 sm:h-5" />
           </button>

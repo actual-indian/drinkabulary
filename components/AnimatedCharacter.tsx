@@ -164,23 +164,23 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
         <>
           {/* Mobile: To the right of character, lower position */}
           <div className="sm:hidden absolute left-full ml-2 top-1/2 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-white dark:bg-stone-700 viking:bg-[#3D2B1F] rounded-2xl px-3 py-2 shadow-lg viking:shadow-[#8B1A1A]/30 viking:border viking:border-[#5C4A35] max-w-[180px]">
-              <p className="text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] font-medium text-xs text-left">
+            <div className="relative bg-white dark:bg-stone-700 bg-[#3D2B1F] rounded-2xl px-3 py-2 shadow-lg shadow-[#8B1A1A]/30 border border-[#5C4A35] max-w-[180px]">
+              <p className="text-stone-800 dark:text-stone-100 text-[#F5E6D3] font-medium text-xs text-left">
                 {greeting}
               </p>
               {/* Speech bubble tail pointing left */}
-              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 viking:border-r-[#3D2B1F]"></div>
+              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 border-r-[#3D2B1F]"></div>
             </div>
           </div>
 
           {/* Desktop: To the right of character */}
           <div className="hidden sm:block absolute left-full ml-4 top-6 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-white dark:bg-stone-700 viking:bg-[#3D2B1F] rounded-2xl px-4 py-3 shadow-lg viking:shadow-[#8B1A1A]/30 viking:border viking:border-[#5C4A35] min-w-[180px]">
-              <p className="text-stone-800 dark:text-stone-100 viking:text-[#F5E6D3] font-medium text-sm whitespace-nowrap">
+            <div className="relative bg-white dark:bg-stone-700 bg-[#3D2B1F] rounded-2xl px-4 py-3 shadow-lg shadow-[#8B1A1A]/30 border border-[#5C4A35] min-w-[180px]">
+              <p className="text-stone-800 dark:text-stone-100 text-[#F5E6D3] font-medium text-sm whitespace-nowrap">
                 {greeting}
               </p>
               {/* Speech bubble tail pointing left */}
-              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 viking:border-r-[#3D2B1F]"></div>
+              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 border-r-[#3D2B1F]"></div>
             </div>
           </div>
         </>

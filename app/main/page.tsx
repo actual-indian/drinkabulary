@@ -58,9 +58,12 @@ export default function MainPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-warmth transition-colors relative overflow-hidden">
+    <div className="min-h-screen bg-valhalla-bar transition-colors relative overflow-hidden">
+      {/* Dark overlay for text readability */}
+      <div className="fixed inset-0 pointer-events-none bg-gradient-to-b from-black/40 via-black/30 to-black/50 dark:from-black/60 dark:via-black/50 dark:to-black/70 from-black/50 via-black/40 to-black/60" />
+
       {/* Atmospheric overlay for depth */}
-      <div className="fixed inset-0 pointer-events-none opacity-30 dark:opacity-20 viking:opacity-40 mix-blend-overlay"
+      <div className="fixed inset-0 pointer-events-none opacity-20 dark:opacity-15 opacity-25 mix-blend-overlay"
            style={{
              backgroundImage: 'url("data:image/svg+xml,%3Csvg viewBox=\'0 0 400 400\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cfilter id=\'noiseFilter\'%3E%3CfeTurbulence type=\'fractalNoise\' baseFrequency=\'0.9\' numOctaves=\'4\' /%3E%3C/filter%3E%3Crect width=\'100%25\' height=\'100%25\' filter=\'url(%23noiseFilter)\' opacity=\'0.05\'/%3E%3C/svg%3E")',
            }}
