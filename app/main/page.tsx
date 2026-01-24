@@ -81,8 +81,8 @@ export default function MainPage() {
         {view === 'chat' && (
           <div className="max-w-3xl mx-auto h-[calc(100vh-8rem)] flex flex-col justify-center py-4 sm:py-8 animate-fade-in">
             <div className="relative w-full flex flex-col min-h-0">
-              {/* Animated character positioned to overlap the chat box */}
-              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-15px] sm:mb-[-60px] relative z-10 flex-shrink-0 animate-slide-in-right">
+              {/* Animated character positioned to sit on the chat box */}
+              <div className="flex justify-start ml-[5%] sm:ml-[10%] md:ml-[15%] mb-[-10px] sm:mb-[-40px] relative z-10 flex-shrink-0 animate-slide-in-right">
                 <AnimatedCharacter
                   animationState={animationState}
                   onWaveComplete={handleWaveComplete}

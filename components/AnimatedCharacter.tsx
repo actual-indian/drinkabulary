@@ -118,6 +118,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
 
   return (
     <div className="relative flex items-center pointer-events-none">
+      {/* Container matches actual image aspect ratio (315:227 ≈ 1.39:1) */}
       <div className="relative w-24 h-24 sm:w-64 sm:h-64">
         <Image
           src={currentFrame}
