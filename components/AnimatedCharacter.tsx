@@ -144,9 +144,9 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
       {/* Speech Bubble - Positioned to the right on both mobile and desktop */}
       {showBubble && (
         <>
-          {/* Mobile: To the right of character, centered at half character height */}
+          {/* Mobile: To the right of character, centered at half character height - 1/2 of chat box width */}
           <div className="sm:hidden absolute left-full ml-2 top-12 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[120px]">
+            <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[48vw]">
               <p className="text-[#F5E6D3] font-medium text-xs text-left leading-relaxed break-words">
                 {greeting}
               </p>
