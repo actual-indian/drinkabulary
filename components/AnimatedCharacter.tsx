@@ -117,18 +117,18 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
   }, [animationState, onWaveComplete]);
 
   return (
-    <div className="relative flex items-center">
+    <div className="relative flex items-center pointer-events-none">
       <div className="relative w-24 h-24 sm:w-64 sm:h-64">
         <Image
           src={currentFrame}
           alt="Animated character"
           fill
-          className="object-contain"
+          className="object-contain pointer-events-none"
           priority
         />
         {/* Clickable area - only covers visible part (top portion not overlapping chat) */}
         <div
-          className="absolute top-0 left-0 w-full h-[81px] sm:h-[196px] cursor-pointer hover:scale-105 transition-transform"
+          className="absolute top-0 left-0 w-full h-[81px] sm:h-[196px] cursor-pointer hover:scale-105 transition-transform pointer-events-auto"
           onClick={handleClick}
           role="button"
           tabIndex={0}
@@ -146,7 +146,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
         <>
           {/* Mobile: To the right of character, centered at half character height - 1/2 of chat box width */}
           <div className="sm:hidden absolute left-full ml-2 top-12 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[48vw]">
+            <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[48vw] pointer-events-auto">
               <p className="text-[#F5E6D3] font-medium text-xs text-left leading-relaxed break-words">
                 {greeting}
               </p>
@@ -157,7 +157,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
 
           {/* Desktop: To the right of character, centered at half character height - exactly 1/3 of max-w-3xl (768px) */}
           <div className="hidden sm:block absolute left-full ml-6 top-32 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-[#1F1410] rounded-2xl px-4 py-3 shadow-lg shadow-black/50 border border-[#3D2B1F] w-64">
+            <div className="relative bg-[#1F1410] rounded-2xl px-4 py-3 shadow-lg shadow-black/50 border border-[#3D2B1F] w-64 pointer-events-auto">
               <p className="text-[#F5E6D3] font-medium text-sm leading-relaxed break-words">
                 {greeting}
               </p>
