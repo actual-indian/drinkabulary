@@ -1,9 +1,8 @@
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
-import { ChevronDown, Sun, Moon } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 import Image from 'next/image';
-import { useTheme } from '@/contexts/ThemeContext';
 import type { View } from '@/types/beer';
 
 interface HeaderProps {
@@ -15,7 +14,6 @@ interface HeaderProps {
 
 export default function Header({ language, onLanguageChange, currentView, onViewChange }: HeaderProps) {
   const [isLanguageOpen, setIsLanguageOpen] = useState(false);
-  const { theme, setTheme } = useTheme();
 
   const languageRef = useRef<HTMLDivElement>(null);
 
@@ -31,15 +29,6 @@ export default function Header({ language, onLanguageChange, currentView, onView
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, []);
-
-  const getThemeIcon = () => {
-    if (theme === 'light') return <Sun className="w-5 h-5" />;
-    return <Moon className="w-5 h-5" />;
-  };
-
-  const toggleTheme = () => {
-    setTheme(theme === 'light' ? 'dark' : 'light');
-  };
 
   return (
     <header className="sticky top-0 z-50 backdrop-blur-md bg-[var(--bg-secondary)]/95 dark:bg-[var(--bg-accent)]/95 border-b border-[var(--border-color)] shadow-xl">
@@ -132,15 +121,6 @@ export default function Header({ language, onLanguageChange, currentView, onView
 
           {/* Right: Settings */}
           <div className="flex items-center justify-end gap-2 sm:gap-3 flex-shrink-0">
-            {/* Theme Toggle */}
-            <button
-              onClick={toggleTheme}
-              className="p-2 rounded-lg hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)] transition-all flex items-center gap-1 text-[var(--text-primary)] dark:text-[var(--text-primary)]"
-              aria-label="Toggle theme"
-            >
-              {getThemeIcon()}
-            </button>
-
             {/* Language Selector */}
             <div className="relative hidden sm:block" ref={languageRef}>
               <button

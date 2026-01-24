@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
+import funFactsData from '@/data/funfacts.json';
 
 export type AnimationState = 'wave' | 'idle' | 'thinking' | 'talking';
 
@@ -11,18 +12,7 @@ interface AnimatedCharacterProps {
   onClick?: () => void;
 }
 
-const greetings = [
-  "Heya stranger!",
-  "Hi there!",
-  "Welcome to Valhalla!",
-  "What can I get you?",
-  "Greetings, friend!",
-  "Howdy ho!",
-  "Fancy a beer, eh?",
-  "Skål, thirsty traveler!",
-  "Hop in - pun intended!",
-  "Ale yeah!"
-];
+const greetings = Object.values(funFactsData);
 
 export default function AnimatedCharacter({ animationState, onWaveComplete, onClick }: AnimatedCharacterProps) {
   const [currentFrame, setCurrentFrame] = useState('/frames/wave-hand-1.png');
@@ -34,22 +24,12 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
     setGreeting(randomGreeting);
     setShowBubble(true);
-
-    const timer = setTimeout(() => {
-      setShowBubble(false);
-    }, 4000);
-
-    return () => clearTimeout(timer);
   }, []);
 
   const handleClick = () => {
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
     setGreeting(randomGreeting);
     setShowBubble(true);
-
-    setTimeout(() => {
-      setShowBubble(false);
-    }, 3000);
 
     onClick?.();
   };
@@ -138,18 +118,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
 
   return (
     <div className="relative flex items-center">
-      <div
-        className="relative w-24 h-24 sm:w-32 sm:h-32 cursor-pointer hover:scale-105 transition-transform"
-        onClick={handleClick}
-        role="button"
-        tabIndex={0}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            handleClick();
-          }
-        }}
-        aria-label="Click to wave"
-      >
+      <div className="relative w-24 h-24 sm:w-64 sm:h-64">
         <Image
           src={currentFrame}
           alt="Animated character"
@@ -157,30 +126,43 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
           className="object-contain"
           priority
         />
+        {/* Clickable area - only covers visible part (top portion not overlapping chat) */}
+        <div
+          className="absolute top-0 left-0 w-full h-[81px] sm:h-[196px] cursor-pointer hover:scale-105 transition-transform"
+          onClick={handleClick}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              handleClick();
+            }
+          }}
+          aria-label="Click to wave"
+        />
       </div>
 
       {/* Speech Bubble - Positioned to the right on both mobile and desktop */}
       {showBubble && (
         <>
-          {/* Mobile: To the right of character, lower position */}
-          <div className="sm:hidden absolute left-full ml-2 top-1/2 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-white dark:bg-stone-700 bg-[#3D2B1F] rounded-2xl px-3 py-2 shadow-lg shadow-[#8B1A1A]/30 border border-[#5C4A35] max-w-[180px]">
-              <p className="text-stone-800 dark:text-stone-100 text-[#F5E6D3] font-medium text-xs text-left">
+          {/* Mobile: To the right of character, centered at half character height */}
+          <div className="sm:hidden absolute left-full ml-2 top-12 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
+            <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[120px]">
+              <p className="text-[#F5E6D3] font-medium text-xs text-left leading-relaxed break-words">
                 {greeting}
               </p>
               {/* Speech bubble tail pointing left */}
-              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 border-r-[#3D2B1F]"></div>
+              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-[#1F1410]"></div>
             </div>
           </div>
 
-          {/* Desktop: To the right of character */}
-          <div className="hidden sm:block absolute left-full ml-4 top-6 animate-in fade-in slide-in-from-left-2 duration-300">
-            <div className="relative bg-white dark:bg-stone-700 bg-[#3D2B1F] rounded-2xl px-4 py-3 shadow-lg shadow-[#8B1A1A]/30 border border-[#5C4A35] min-w-[180px]">
-              <p className="text-stone-800 dark:text-stone-100 text-[#F5E6D3] font-medium text-sm whitespace-nowrap">
+          {/* Desktop: To the right of character, centered at half character height - exactly 1/3 of max-w-3xl (768px) */}
+          <div className="hidden sm:block absolute left-full ml-6 top-32 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
+            <div className="relative bg-[#1F1410] rounded-2xl px-4 py-3 shadow-lg shadow-black/50 border border-[#3D2B1F] w-64">
+              <p className="text-[#F5E6D3] font-medium text-sm leading-relaxed break-words">
                 {greeting}
               </p>
               {/* Speech bubble tail pointing left */}
-              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-white dark:border-r-stone-700 border-r-[#3D2B1F]"></div>
+              <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-[#1F1410]"></div>
             </div>
           </div>
         </>
