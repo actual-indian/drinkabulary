@@ -88,6 +88,17 @@ export default function Header({ language, onLanguageChange, currentView, onView
             </button>
 
             <button
+              onClick={() => onViewChange('library')}
+              className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
+                currentView === 'library'
+                  ? 'bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] text-white shadow-lg'
+                  : 'text-[var(--text-secondary)] dark:text-[var(--text-secondary)] hover:bg-[var(--bg-accent)] dark:hover:bg-[var(--bg-primary)]'
+              }`}
+            >
+              Library
+            </button>
+
+            <button
               onClick={() => onViewChange('team')}
               className={`px-4 py-2 rounded-lg font-body font-medium transition-all text-sm lg:text-base ${
                 currentView === 'team'
@@ -170,7 +181,7 @@ export default function Header({ language, onLanguageChange, currentView, onView
         </div>
 
         {/* Mobile Navigation - Shown only on small screens */}
-        <nav className="md:hidden flex items-center justify-center gap-1 mt-3 pt-3 border-t border-[var(--border-color)]">
+        <nav className="md:hidden flex items-center justify-center gap-1 mt-3 pt-3 border-t border-[var(--border-color)] flex-wrap">
           <button
             onClick={() => onViewChange('chat')}
             className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
@@ -191,6 +202,17 @@ export default function Header({ language, onLanguageChange, currentView, onView
             }`}
           >
             Menu
+          </button>
+
+          <button
+            onClick={() => onViewChange('library')}
+            className={`px-3 py-1.5 rounded-lg font-body font-medium transition-all text-sm ${
+              currentView === 'library'
+                ? 'bg-[var(--accent-primary)] text-white shadow-md'
+                : 'text-[var(--text-secondary)] hover:bg-[var(--bg-accent)]'
+            }`}
+          >
+            Library
           </button>
 
           <button

@@ -17,7 +17,7 @@ export interface Message {
   beers?: Beer[];  // Optional recommended beers for assistant messages
 }
 
-export type View = 'chat' | 'menu' | 'team' | 'contacts';
+export type View = 'chat' | 'menu' | 'team' | 'contacts' | 'library';
 
 export interface TeamMemberDetail {
   label: string;

@@ -5,6 +5,7 @@ import Header from '@/components/Header';
 import AnimatedCharacter, { type AnimationState } from '@/components/AnimatedCharacter';
 import ChatBox from '@/components/ChatBox';
 import BeerMenu from '@/components/BeerMenu';
+import BeerLibrary from '@/components/BeerLibrary';
 import TeamInfo from '@/components/TeamInfo';
 import ContactsInfo from '@/components/ContactsInfo';
 import AgeVerification from '@/components/AgeVerification';
@@ -98,6 +99,8 @@ export default function MainPage() {
         )}
 
         {view === 'menu' && <BeerMenu />}
+
+        {view === 'library' && <BeerLibrary />}
 
         {view === 'team' && <TeamInfo />}
 
