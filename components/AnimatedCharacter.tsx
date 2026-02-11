@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import funFactsData from '@/data/funfacts.json';
+import greetingsData from '@/data/greetings.json';
 
 export type AnimationState = 'wave' | 'idle' | 'thinking' | 'talking';
 
@@ -12,24 +13,59 @@ interface AnimatedCharacterProps {
   onClick?: () => void;
 }
 
-const greetings = Object.values(funFactsData);
+const funFacts = Object.values(funFactsData);
+const greetings = greetingsData;
 
 export default function AnimatedCharacter({ animationState, onWaveComplete, onClick }: AnimatedCharacterProps) {
   const [currentFrame, setCurrentFrame] = useState('/frames/wave-hand-1.png');
   const [showBubble, setShowBubble] = useState(false);
-  const [greeting, setGreeting] = useState('');
+  const [bubbleText, setBubbleText] = useState('');
+  const hideTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
-  // Show greeting on mount
+  // Show greeting on mount, auto-hide after 4 seconds
   useEffect(() => {
     const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
-    setGreeting(randomGreeting);
+    setBubbleText(randomGreeting);
     setShowBubble(true);
+
+    // Auto-hide after 4 seconds
+    hideTimeoutRef.current = setTimeout(() => {
+      setShowBubble(false);
+    }, 4000);
+
+    return () => {
+      if (hideTimeoutRef.current) {
+        clearTimeout(hideTimeoutRef.current);
+      }
+    };
   }, []);
 
+  // Hide bubble when user starts typing or AI is responding
+  useEffect(() => {
+    if (animationState === 'thinking' || animationState === 'talking') {
+      // Clear any pending hide timeout
+      if (hideTimeoutRef.current) {
+        clearTimeout(hideTimeoutRef.current);
+      }
+      setShowBubble(false);
+    }
+  }, [animationState]);
+
   const handleClick = () => {
-    const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
-    setGreeting(randomGreeting);
+    // Clear any existing timeout
+    if (hideTimeoutRef.current) {
+      clearTimeout(hideTimeoutRef.current);
+    }
+
+    // Show random fun fact
+    const randomFact = funFacts[Math.floor(Math.random() * funFacts.length)];
+    setBubbleText(randomFact);
     setShowBubble(true);
+
+    // Auto-hide after 8 seconds
+    hideTimeoutRef.current = setTimeout(() => {
+      setShowBubble(false);
+    }, 8000);
 
     onClick?.();
   };
@@ -149,7 +185,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
           <div className="sm:hidden absolute left-full ml-2 top-12 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
             <div className="relative bg-[#1F1410] rounded-2xl px-3 py-2 shadow-lg shadow-black/50 border border-[#3D2B1F] w-[48vw] pointer-events-auto">
               <p className="text-[#F5E6D3] font-medium text-xs text-left leading-relaxed break-words">
-                {greeting}
+                {bubbleText}
               </p>
               {/* Speech bubble tail pointing left */}
               <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-[#1F1410]"></div>
@@ -160,7 +196,7 @@ export default function AnimatedCharacter({ animationState, onWaveComplete, onCl
           <div className="hidden sm:block absolute left-full ml-6 top-32 -translate-y-1/2 animate-in fade-in slide-in-from-left-2 duration-300">
             <div className="relative bg-[#1F1410] rounded-2xl px-4 py-3 shadow-lg shadow-black/50 border border-[#3D2B1F] w-64 pointer-events-auto">
               <p className="text-[#F5E6D3] font-medium text-sm leading-relaxed break-words">
-                {greeting}
+                {bubbleText}
               </p>
               {/* Speech bubble tail pointing left */}
               <div className="absolute left-0 top-1/2 -translate-x-2 -translate-y-1/2 w-0 h-0 border-t-8 border-t-transparent border-b-8 border-b-transparent border-r-8 border-r-[#1F1410]"></div>

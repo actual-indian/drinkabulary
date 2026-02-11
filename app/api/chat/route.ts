@@ -37,13 +37,35 @@ export async function POST(request: NextRequest) {
       ],
     });
 
-    // Format menu catalog for context with IDs and tags
+    // Format beer catalog for context with rich metadata
     const beerCatalog = beers.map(beer => {
-      const tags = beer.category && beer.category !== 'Uncategorized'
-        ? `${beer.category}${beer.style && beer.style !== 'unknown' && beer.style !== beer.category ? ', ' + beer.style : ''}`
-        : (beer.style && beer.style !== 'unknown' ? beer.style : 'No tags');
+      const parts = [
+        `[ID: ${beer.id}]`,
+        `"${beer.name}"`,
+        `by ${beer.brewery}`,
+      ];
 
-      return `[ID: ${beer.id}] ${beer.name} - Tags: [${tags}], Price: ${beer.price}`;
+      // Add style if available
+      if (beer.style && beer.style !== 'unknown') {
+        parts.push(`Style: ${beer.style}`);
+      }
+
+      // Add ABV if available
+      if (beer.abv && beer.abv !== 'unknown') {
+        parts.push(`ABV: ${beer.abv}`);
+      }
+
+      // Add IBU if available
+      if (beer.ibu) {
+        parts.push(`IBU: ${beer.ibu}`);
+      }
+
+      // Add rating if available
+      if (beer.rating) {
+        parts.push(`Rating: ${beer.rating}/5`);
+      }
+
+      return parts.join(' | ');
     }).join('\n');
 
     const result = await chat.sendMessage(

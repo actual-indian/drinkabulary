@@ -22,7 +22,10 @@ interface LibraryData {
 
 export default function BeerLibrary() {
   const [libraryData, setLibraryData] = useState<LibraryData | null>(null);
-  const [searchTerm, setSearchTerm] = useState('');
+  const [abvMin, setAbvMin] = useState<string>('');
+  const [abvMax, setAbvMax] = useState<string>('');
+  const [ratingMin, setRatingMin] = useState<string>('');
+  const [ratingMax, setRatingMax] = useState<string>('');
 
   useEffect(() => {
     fetch('/data/scraped-beers.json')
@@ -39,11 +42,19 @@ export default function BeerLibrary() {
     );
   }
 
-  const filteredBeers = libraryData.beers.filter(beer =>
-    beer.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    beer.brewery.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    beer.style?.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  const filteredBeers = libraryData.beers.filter(beer => {
+    // ABV filter
+    const beerAbv = beer.abv ? parseFloat(beer.abv.replace('%', '')) : null;
+    const matchesAbvMin = abvMin === '' || (beerAbv !== null && beerAbv >= parseFloat(abvMin));
+    const matchesAbvMax = abvMax === '' || (beerAbv !== null && beerAbv <= parseFloat(abvMax));
+
+    // Rating filter
+    const beerRating = beer.rating ? parseFloat(beer.rating) : null;
+    const matchesRatingMin = ratingMin === '' || (beerRating !== null && beerRating >= parseFloat(ratingMin));
+    const matchesRatingMax = ratingMax === '' || (beerRating !== null && beerRating <= parseFloat(ratingMax));
+
+    return matchesAbvMin && matchesAbvMax && matchesRatingMin && matchesRatingMax;
+  });
 
   return (
     <div className="min-h-screen py-8">
@@ -58,15 +69,87 @@ export default function BeerLibrary() {
           </p>
         </div>
 
-        {/* Search */}
-        <div className="mb-6">
-          <input
-            type="text"
-            placeholder="Search by name, brewery, or style..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full px-4 py-3 rounded-lg bg-[var(--bg-secondary)] border border-[var(--border-color)] text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)]"
-          />
+        {/* Filters */}
+        <div className="mb-4 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {/* ABV Range */}
+          <div className="bg-[var(--bg-secondary)] rounded-lg p-4 border border-[var(--border-color)]">
+            <label className="block text-sm font-medium text-[var(--text-primary)] mb-2">
+              ABV Range (%)
+            </label>
+            <div className="flex items-center gap-2">
+              <input
+                type="number"
+                placeholder="Min"
+                value={abvMin}
+                onChange={(e) => setAbvMin(e.target.value)}
+                step="0.1"
+                min="0"
+                className="w-full px-3 py-2 rounded-lg bg-[var(--bg-primary)] border border-[var(--border-color)] text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)]"
+              />
+              <span className="text-[var(--text-secondary)]">-</span>
+              <input
+                type="number"
+                placeholder="Max"
+                value={abvMax}
+                onChange={(e) => setAbvMax(e.target.value)}
+                step="0.1"
+                min="0"
+                className="w-full px-3 py-2 rounded-lg bg-[var(--bg-primary)] border border-[var(--border-color)] text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)]"
+              />
+            </div>
+          </div>
+
+          {/* Rating Range */}
+          <div className="bg-[var(--bg-secondary)] rounded-lg p-4 border border-[var(--border-color)]">
+            <label className="block text-sm font-medium text-[var(--text-primary)] mb-2">
+              Rating Range (⭐)
+            </label>
+            <div className="flex items-center gap-2">
+              <input
+                type="number"
+                placeholder="Min"
+                value={ratingMin}
+                onChange={(e) => setRatingMin(e.target.value)}
+                step="0.1"
+                min="0"
+                max="5"
+                className="w-full px-3 py-2 rounded-lg bg-[var(--bg-primary)] border border-[var(--border-color)] text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)]"
+              />
+              <span className="text-[var(--text-secondary)]">-</span>
+              <input
+                type="number"
+                placeholder="Max"
+                value={ratingMax}
+                onChange={(e) => setRatingMax(e.target.value)}
+                step="0.1"
+                min="0"
+                max="5"
+                className="w-full px-3 py-2 rounded-lg bg-[var(--bg-primary)] border border-[var(--border-color)] text-[var(--text-primary)] placeholder-[var(--text-secondary)] focus:outline-none focus:ring-2 focus:ring-[var(--accent-primary)]"
+              />
+            </div>
+          </div>
+        </div>
+
+        {/* Clear Filters Button */}
+        {(abvMin || abvMax || ratingMin || ratingMax) && (
+          <div className="mb-6 flex justify-end">
+            <button
+              onClick={() => {
+                setAbvMin('');
+                setAbvMax('');
+                setRatingMin('');
+                setRatingMax('');
+              }}
+              className="px-4 py-2 rounded-lg bg-[var(--accent-primary)] text-white hover:bg-[var(--accent-secondary)] transition-all font-medium text-sm"
+            >
+              Clear Filters
+            </button>
+          </div>
+        )}
+
+        {/* Results Counter */}
+        <div className="mb-4 text-sm text-[var(--text-secondary)]">
+          Showing {filteredBeers.length} of {libraryData.totalBeers} beers
         </div>
 
         {/* Beer List */}
@@ -124,7 +207,7 @@ export default function BeerLibrary() {
 
         {filteredBeers.length === 0 && (
           <div className="text-center py-12 text-[var(--text-secondary)]">
-            No beers found matching &quot;{searchTerm}&quot;
+            No beers found matching your filters. Try adjusting your search criteria.
           </div>
         )}
       </div>
