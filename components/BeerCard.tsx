@@ -42,22 +42,32 @@ export default function BeerCard({ beer }: BeerCardProps) {
       )}
 
       {/* Stats: ABV, IBU, Rating */}
-      <div className="flex flex-wrap items-center gap-2 pt-2 border-t border-[var(--border-color)] border-[]">
-        {beer.abv && beer.abv !== 'unknown' && (
-          <span className="px-2 py-1 rounded-full bg-[var(--accent-primary)]/20 text-[var(--accent-primary)] dark:text-[var(--accent-secondary)] text-[] text-xs font-medium">
-            {beer.abv}
+      <div className="pt-2 border-t border-[var(--border-color)] border-[] space-y-2">
+        <div className="flex flex-wrap items-center gap-2">
+          {beer.abv && beer.abv !== 'unknown' && (
+            <span className="px-2 py-1 rounded-full bg-[var(--accent-primary)]/20 text-[var(--accent-primary)] dark:text-[var(--accent-secondary)] text-[] text-xs font-medium">
+              {beer.abv}
+            </span>
+          )}
+          {beer.ibu && (
+            <span className="px-2 py-1 rounded-full bg-[var(--accent-secondary)]/20 text-[var(--accent-secondary)] dark:text-[var(--accent-primary)] text-[] text-xs font-medium">
+              {beer.ibu} IBU
+            </span>
+          )}
+          {beer.rating && (
+            <span className="px-2 py-1 rounded-full bg-yellow-500/20 text-yellow-600 dark:text-yellow-400 text-[] text-xs font-medium">
+              ⭐ {beer.rating}
+            </span>
+          )}
+        </div>
+
+        {/* Price */}
+        <div className="flex items-center justify-between text-xs">
+          <span className="text-[var(--text-secondary)] dark:text-[var(--text-secondary)] text-[] font-body">Price:</span>
+          <span className="font-medium text-[var(--text-primary)] dark:text-[var(--text-primary)] text-[]">
+            {beer.price && beer.price !== 'unknown' ? beer.price : 'N/A'}
           </span>
-        )}
-        {beer.ibu && (
-          <span className="px-2 py-1 rounded-full bg-[var(--accent-secondary)]/20 text-[var(--accent-secondary)] dark:text-[var(--accent-primary)] text-[] text-xs font-medium">
-            {beer.ibu} IBU
-          </span>
-        )}
-        {beer.rating && (
-          <span className="px-2 py-1 rounded-full bg-yellow-500/20 text-yellow-600 dark:text-yellow-400 text-[] text-xs font-medium">
-            ⭐ {beer.rating}
-          </span>
-        )}
+        </div>
       </div>
     </div>
   );
