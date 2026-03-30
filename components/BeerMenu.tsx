@@ -8,16 +8,18 @@ export default function BeerMenu() {
   const [beers, setBeers] = useState<Beer[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
+  const [scrapedAt, setScrapedAt] = useState<string | null>(null);
 
   useEffect(() => {
     fetch('/api/beers')
       .then((res) => res.json())
       .then((data) => {
         // Filter out 'stock' category
-        const filteredBeers = data.filter((beer: Beer) =>
+        const filteredBeers = data.beers.filter((beer: Beer) =>
           beer.category.toLowerCase() !== 'stock'
         );
         setBeers(filteredBeers);
+        setScrapedAt(data.scrapedAt ?? null);
         setIsLoading(false);
       })
       .catch(() => {
@@ -54,6 +56,11 @@ export default function BeerMenu() {
           Our Selection
         </h2>
         <div className="h-1 w-24 mx-auto bg-gradient-to-r from-transparent via-[var(--accent-primary)] to-transparent dark:via-[var(--accent-secondary)] via-[]"></div>
+        {scrapedAt && (
+          <p className="mt-3 text-[var(--text-secondary)] text-sm">
+            {beers.length} beers from Untappd • Updated {new Date(scrapedAt).toLocaleDateString()}
+          </p>
+        )}
       </div>
 
       {/* Category Filters */}

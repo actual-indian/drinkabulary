@@ -97,7 +97,11 @@ export async function GET() {
     );
 
     console.log(`Successfully loaded ${beers.length} beers from scraped-beers.json`);
-    return NextResponse.json(beers);
+    return NextResponse.json({
+      beers,
+      scrapedAt: scrapedData.scrapedAt,
+      totalBeers: scrapedData.totalBeers,
+    });
   } catch (error) {
     console.error('Error loading scraped beers:', error);
     return NextResponse.json(

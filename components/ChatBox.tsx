@@ -16,32 +16,15 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
   const [beers, setBeers] = useState<Beer[]>([]);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Fetch beers from library once on component mount
+  // Fetch beers once on component mount — same source as the menu
   useEffect(() => {
     const fetchBeers = async () => {
       try {
-        const libraryRes = await fetch('/data/scraped-beers.json');
-        const libraryData = await libraryRes.json();
-
-        // Add IDs based on array index and map to Beer format
-        const beersWithIds: Beer[] = libraryData.beers.map((beer: any, index: number) => ({
-          id: index.toString(),
-          name: beer.name,
-          brewery: beer.brewery,
-          category: 'Beer', // Library only has beers
-          style: beer.style || 'unknown',
-          abv: beer.abv || 'unknown',
-          price: 'unknown', // Library doesn't have price info
-          url: beer.url,
-          urlDisplay: beer.url,
-          rating: beer.rating,
-          ibu: beer.ibu,
-          description: beer.description,
-        }));
-
-        setBeers(beersWithIds);
+        const res = await fetch('/api/beers');
+        const data = await res.json();
+        setBeers(data.beers ?? []);
       } catch (error) {
-        console.error('Failed to fetch library beers:', error);
+        console.error('Failed to fetch beers:', error);
       }
     };
     fetchBeers();

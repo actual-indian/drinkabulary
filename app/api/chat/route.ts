@@ -72,38 +72,37 @@ export async function POST(request: NextRequest) {
       `Available menu items:\n${beerCatalog}\n\nUser message: ${message}`
     );
 
-    let response = result.response.text();
+    let rawResponse = result.response.text();
 
-    // Clean up the response to extract pure JSON
     // Remove markdown code blocks if present
-    response = response.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
+    rawResponse = rawResponse.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
 
+    let chatMessage = '';
     let recommendedBeers: Beer[] = [];
 
     try {
-      // Parse the JSON array from LLM
-      const recommendations = JSON.parse(response) as Array<{ id: string; reason: string }>;
+      const parsed = JSON.parse(rawResponse) as { message: string; recommendations: Array<{ id: string; reason: string }> };
+
+      chatMessage = parsed.message || '';
 
       // Match beer IDs with actual beer data and attach reasons
       const matchedBeers: Beer[] = [];
-      for (const rec of recommendations) {
+      for (const rec of parsed.recommendations ?? []) {
         const beer = beers.find(b => b.id === rec.id);
         if (beer) {
           matchedBeers.push({ ...beer, reason: rec.reason });
         }
       }
 
-      recommendedBeers = matchedBeers.slice(0, 2); // Ensure max 2 recommendations
+      recommendedBeers = matchedBeers.slice(0, 2);
 
     } catch (error) {
       console.error('Failed to parse LLM response as JSON:', error);
-      console.error('Response was:', response);
-      // If JSON parsing fails, return empty recommendations
-      recommendedBeers = [];
+      console.error('Response was:', rawResponse);
+      chatMessage = 'Sorry, I had trouble forming a response. Please try again.';
     }
 
-    // Return empty response text since we're only showing beer cards
-    return NextResponse.json({ response: '', recommendedBeers });
+    return NextResponse.json({ response: chatMessage, recommendedBeers });
   } catch (error) {
     console.error('Gemini API error:', error);
     return NextResponse.json(
