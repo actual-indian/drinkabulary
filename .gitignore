@@ -45,7 +45,6 @@ CLAUDE.md
 .claude/
 
 # Development/test files
-/scripts/
 /app/beerlist/
 /app/api/dotykacka-test/
 data/test_beer_devtools.html
