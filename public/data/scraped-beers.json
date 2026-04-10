@@ -1,80 +1,142 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-04-09T07:09:53.908Z",
-  "totalBeers": 138,
+  "scrapedAt": "2026-04-10T07:14:38.048Z",
+  "totalBeers": 140,
   "beers": [
     {
-      "name": "4. Fyr & Flamme",
-      "brewery": "HaandBryggeriet",
-      "url": "https://untappd.com/b/haandbryggeriet-fyr-and-flamme/124451",
-      "style": "IPA - American",
-      "abv": "6.5%",
-      "ibu": "66",
-      "rating": "3.674",
-      "description": "Fyr og Flamme is a dry hopped IPA in the US West Coast style with an exceptional aroma and hop flavours from Citra and Amarillo hops. ",
+      "name": "13. Deep Web",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-deep-web/6665495",
+      "style": "Stout - Other",
+      "abv": "5.5%",
       "containers": [
         {
           "size": "0.2L",
-          "price": "70.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "55.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "11. Haddock",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-haddock/6607552",
-      "style": "Pale Ale - Belgian",
-      "abv": "5%",
-      "ibu": "40",
-      "rating": "3.39",
-      "description": "We teamed up with the guys at White Labs to brew this crisp belgian pale ale! While Labs came over to us with a special belgian yeast blend and we brewed a light colored wort that we hopped heavily with Saaz, Tettnanger and Perle, both in the boil and post fermentation. The result is a refreshing crisp pale ale with lots of herbal hops, a distinct bitterness and just the right amount of belgian yeast touch.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "80.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "155.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "20. Global Pale Ale GPA",
-      "brewery": "Nøgne Ø",
-      "url": "https://untappd.com/b/nogne-o-global-pale-ale-gpa/347877",
-      "style": "Pale Ale - Other",
-      "abv": "4.7%",
-      "ibu": "40",
-      "rating": "3.545",
-      "description": "A beer where it is all about hops. But what kind of hops? We just couldn't decide which, and used hops from all over the world: England, Slovenia, New Zealand, Czech Republic, USA, Germany and Australia. A total of 13 different hops!",
-      "containers": [
-        {
-          "size": "0.35L",
           "price": "140.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "225.00",
           "currency": "CZK"
         },
         {
           "size": "Flights of 5/10",
           "price": "105.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "14. KISKALE",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-kiskale/765646",
+      "style": "Brown Ale - American",
+      "abv": "7.3%",
+      "ibu": "35",
+      "rating": "3.519",
+      "description": "Es tu turno así que apuesta fuerte por la malta en esta cerveza de color caoba oscuro y cuerpo medio en la que las notas maltosas y alicoradas te inundarán junto con un agradable dulzor en boca. Deliciosa, cremosa y sedosa de principio a fin.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "110.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "180.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "85.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "15. HACKERTZALE",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-hackertzale/6600432",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.2%",
+      "rating": "3.835",
+      "description": "Hazy IPA w/ Mosaic, Simcoe, Krush, Ariana and Monroe hops",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "239.98",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "16. Into the Void",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-into-the-void/6665608",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "8.5%",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "170.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "17. WAR REQUIEM",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
+      "style": "Stout - Imperial / Double",
+      "abv": "10.5%",
+      "rating": "4.216",
+      "description": "Imperial Stout Aged in Scotch Whisky Barrels",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "240.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "180.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "18. DARK RITUAL",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
+      "style": "Stout - Imperial / Double Coffee",
+      "abv": "10%",
+      "rating": "4.182",
+      "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "145.00",
           "currency": "CZK"
         }
       ]
@@ -105,6 +167,328 @@
       ]
     },
     {
+      "name": "1. Remastered Weissbier",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-remastered-weissbier/6137695",
+      "style": "Wheat Beer - Hefeweizen",
+      "abv": "5.5%",
+      "rating": "3.599",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "90.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "145.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "70.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "2. Qvittoq",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-qvittoq/6256724",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.3%",
+      "rating": "3.836",
+      "description": "Neipa con Motueka, Mosaic, Riwaka y Citra.\r\nColaboración con Hjört, de Dinamarca.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "3. Vicious",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-vicious/4737292",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "rating": "3.918",
+      "description": "New England IPA\r\nGalaxy & Wai iti Hops\r\n\r\nColab wirh Attik ",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "4. Lou (Memorial Series)",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-lou-memorial-series/5679508",
+      "style": "IPA - Imperial / Double",
+      "abv": "8.3%",
+      "rating": "3.849",
+      "description": "Cascade, Columbus,Citra y Mosaic.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "145.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "230.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "110.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "5. Whitney (Memorial Series)",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
+      "style": "Stout - Imperial / Double",
+      "abv": "10.7%",
+      "rating": "3.956",
+      "description": "Imperial Stout Speculoos & Cocoa",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "180.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "135.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "6. Rosetta (Memorial Series)",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
+      "style": "Stout - Imperial / Double",
+      "abv": "11%",
+      "rating": "4.028",
+      "description": "Imperial Stout con Haba Tonka.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "170.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "7. Mictlán",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-mictlan/4600521",
+      "style": "IPA - New England / Hazy",
+      "abv": "6%",
+      "rating": "3.961",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "8. Royal Flush",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-royal-flush/3562407",
+      "style": "IPA - New England / Hazy",
+      "abv": "6%",
+      "rating": "3.904",
+      "description": "New England IPA con sabores y aromas tropicales y cítricos. ",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "9. Yakuza",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-yakuza/5245034",
+      "style": "IPA - Other",
+      "abv": "6.1%",
+      "rating": "3.714",
+      "description": "Collab whith Ebina Beer.\r\nDDH Yuzu Ipa",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "10. Free Late Checkout",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-free-late-checkout/6646943",
+      "style": "IPA - Imperial / Double",
+      "abv": "8%",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "240.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "11. Chronic Haze",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-chronic-haze/3194708",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.1%",
+      "ibu": "50",
+      "rating": "3.907",
+      "description": "DDH DOUBLE SESSION NEIPA con lúpulos Amarillo Cashmere y Citra y levadura A38 Juice. Contiene avena y trigo. ",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "12. Galerna",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-galerna/1281308",
+      "style": "IPA - Rye",
+      "abv": "6.7%",
+      "ibu": "60",
+      "rating": "3.773",
+      "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "20. Global Pale Ale GPA",
+      "brewery": "Nøgne Ø",
+      "url": "https://untappd.com/b/nogne-o-global-pale-ale-gpa/347877",
+      "style": "Pale Ale - Other",
+      "abv": "4.7%",
+      "ibu": "40",
+      "rating": "3.545",
+      "description": "A beer where it is all about hops. But what kind of hops? We just couldn't decide which, and used hops from all over the world: England, Slovenia, New Zealand, Czech Republic, USA, Germany and Australia. A total of 13 different hops!",
+      "containers": [
+        {
+          "size": "0.35L",
+          "price": "140.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "105.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "22. Narangi",
       "brewery": "O/O Brewing ",
       "url": "https://untappd.com/b/o-o-brewing-narangi/1692471",
@@ -126,32 +510,6 @@
         {
           "size": "Flights of 5/10",
           "price": "55.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "27. Green Butterfly",
-      "brewery": "La Grúa",
-      "url": "https://untappd.com/b/la-grua-green-butterfly/4579016",
-      "style": "IPA - American",
-      "abv": "6.1%",
-      "rating": "3.807",
-      "description": "Lúpulos Citra, Strata y HBC630",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "180.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
           "currency": "CZK"
         }
       ]
@@ -184,38 +542,13 @@
       ]
     },
     {
-      "name": "2. Grizzly Pils",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-grizzly-pils/6384232",
-      "style": "Pilsner - American",
-      "abv": "5.4%",
-      "rating": "3.332",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "75.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "155.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "55.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "32. Krahulík 11",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-krahulik-11/2483912",
       "style": "Pilsner - Czech / Bohemian",
       "abv": "4.6%",
       "ibu": "40",
-      "rating": "3.522",
+      "rating": "3.523",
       "description": "Klasický spodně kvašený jedenáctistupňový ležák plzeňského typu z nejkvalitnějších sladů. Receptura je postavena na chmelu Harmonie. Příjemnou hořkostí vyzývá k opětovnému napití.\r\n\r\nClassic bottom-fermented eleven-degree lager of the Pilsen type made of the highest quality malts. The recipe is based on Harmonie hops. With a pleasant bitterness, it calls for re-drinking.",
       "containers": [
         {
@@ -294,78 +627,27 @@
       ]
     },
     {
-      "name": "8. Kalamansifeber",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-kalamansifeber/6147493",
+      "name": "25. Marvin",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-marvin/6482896",
       "style": "IPA - New England / Hazy",
-      "abv": "6.5%",
-      "rating": "3.597",
+      "abv": "6%",
+      "rating": "3.682",
+      "description": "Collab with Bustad (Sweden) , Akia (Sweden) , Laugar and La Grua\r\n\r\nHazy ipa brewed with Citra, Kohatu and Nelson Sauvin hops.",
       "containers": [
         {
           "size": "0.2L",
-          "price": "110.00",
+          "price": "95.00",
           "currency": "CZK"
         },
         {
           "size": "0.4L",
-          "price": "215.00",
+          "price": "170.00",
           "currency": "CZK"
         },
         {
           "size": "Flights of 5/10",
-          "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "10. Etienne",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-etienne/6508434",
-      "style": "IPA - New England / Hazy",
-      "abv": "7%",
-      "rating": "3.8",
-      "description": "A double oated NEIPA hopped with Dolcita and Citra Spectrum",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "215.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "17. Hazy Robin 12",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-hazy-robin-12/6517568",
-      "style": "IPA - New England / Hazy",
-      "abv": "5.1%",
-      "rating": "3.833",
-      "description": "Robin je dlouholetý parťák v naší základní řadě. Ale i ti nejlepší se občas potřebují převléknout. Proto jsme mu navlékli nový outfit, přidali pšeničné slady a ovesné vločky a vytvořili verzi, která jde s dobou – Hazy Robin. \r\n\r\nPšeničný slad přináší hebkost a plnost, ovesné vločky zase zakalí pivo do ikonického vzhledu mlžné NEIPA. Klasická dvojice Citra a Simcoe zůstává – jejich citrusové a tropické tóny dávají pivu charakter, který tě chytne a nepustí. Výsledkem je moderní Session NEIPA, která má lehkost, ovocnost i pitelnost. Zkrátka pivo, se kterým se ti nebude chtít loučit. ",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "60.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "100.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "45.00",
+          "price": "75.00",
           "currency": "CZK"
         }
       ]
@@ -393,79 +675,6 @@
         {
           "size": "Flight of 5",
           "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "24. Soft Hands",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-soft-hands/5855493",
-      "style": "IPA - Triple New England / Hazy",
-      "abv": "10%",
-      "rating": "3.825",
-      "description": "A double mashed TIPA concocted with our old friend and brother in arms Dio from Mikkeller Brew Pub London.\r\nThis is our biggest hoppy beer yet and we have thrown out all the stops using some of our favourite hops and products from the America and New Zealand.\r\nAll inclusive holiday pina colada, grapefruit soda, stone fruits and blue coloured berries.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "120.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "25. Marvin",
-      "brewery": "Drunken Bros",
-      "url": "https://untappd.com/b/drunken-bros-marvin/6482896",
-      "style": "IPA - New England / Hazy",
-      "abv": "6%",
-      "rating": "3.682",
-      "description": "Collab with Bustad (Sweden) , Akia (Sweden) , Laugar and La Grua\r\n\r\nHazy ipa brewed with Citra, Kohatu and Nelson Sauvin hops.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "95.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "170.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "75.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "28. Look What the Cat Dragged In",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
-      "style": "IPA - New England / Hazy",
-      "abv": "6%",
-      "rating": "3.764",
-      "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "105.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "180.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "80.00",
           "currency": "CZK"
         }
       ]
@@ -529,101 +738,27 @@
       ]
     },
     {
-      "name": "3. NIMBUS",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-nimbus/6496967",
-      "style": "Stout - Russian Imperial",
-      "abv": "11.3%",
-      "rating": "3.914",
-      "description": "Imperial stout with marshmallows",
+      "name": "36. Hazy Robin 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-hazy-robin-12/6517568",
+      "style": "IPA - New England / Hazy",
+      "abv": "5.1%",
+      "rating": "3.833",
+      "description": "Robin je dlouholetý parťák v naší základní řadě. Ale i ti nejlepší se občas potřebují převléknout. Proto jsme mu navlékli nový outfit, přidali pšeničné slady a ovesné vločky a vytvořili verzi, která jde s dobou – Hazy Robin. \r\n\r\nPšeničný slad přináší hebkost a plnost, ovesné vločky zase zakalí pivo do ikonického vzhledu mlžné NEIPA. Klasická dvojice Citra a Simcoe zůstává – jejich citrusové a tropické tóny dávají pivu charakter, který tě chytne a nepustí. Výsledkem je moderní Session NEIPA, která má lehkost, ovocnost i pitelnost. Zkrátka pivo, se kterým se ti nebude chtít loučit. ",
       "containers": [
         {
           "size": "0.2L",
-          "price": "150.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "115.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "5. Short",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-short/5988840",
-      "style": "Stout - Other",
-      "abv": "5.2%",
-      "rating": "3.553",
-      "description": "A small stout that's not short in flavor brewed with a carefully selected blend of dark, brown and crystal malts. Chocolatey and smooth with a gentle hint of roast malt character, simple and delicious.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "90.00",
+          "price": "60.00",
           "currency": "CZK"
         },
         {
           "size": "0.4L",
-          "price": "150.00",
+          "price": "100.00",
           "currency": "CZK"
         },
         {
           "size": "Flights of 5/10",
-          "price": "70.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "9. Night Knocker",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-night-knocker/6472612",
-      "style": "IPA - Black / Cascadian Dark Ale",
-      "abv": "7.5%",
-      "ibu": "40",
-      "rating": "3.607",
-      "description": "We havent brewed a black IPA for over a decade so it was about time to revisit this fantastic style! Roasted and chocolate notes meet American powerhouse hops and it sits just right in between a US IPA and a classic porter.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "215.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "18. Night Pusher",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-night-pusher/6548627",
-      "style": "Stout - American",
-      "abv": "10%",
-      "rating": "3.69",
-      "description": "American imperial stout",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "115.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "225.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
+          "price": "45.00",
           "currency": "CZK"
         }
       ]
@@ -634,7 +769,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.208",
+      "rating": "4.204",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -645,115 +780,6 @@
         {
           "size": "Flights of 5/10",
           "price": "190.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "6. Condensed",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-condensed/6479588",
-      "style": "Sour - Fruited",
-      "abv": "4.5%",
-      "rating": "3.494",
-      "description": "Our latest sour is playful and pudding like. Heaps of lime, lactose and vanilla rest upon a oat biscuit flavoured base to create a key lime pie/lime cheese cake flavoured sour. Bright, vibrant and silky with a balanced but moreish sweetness",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "130.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "210.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "100.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "13. Tropicopop",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-tropicopop/6248085",
-      "style": "Sour - Fruited",
-      "abv": "6%",
-      "rating": "3.635",
-      "description": "Fruited sour with pineapple, litchi & kalamansi",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "115.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "225.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "14. Salty Lemon",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-salty-lemon/5161405",
-      "style": "Sour - Fruited Berliner Weisse",
-      "abv": "4.7%",
-      "rating": "3.737",
-      "description": "This Berliner Weisse started its life as a Proto beer: 4 kegs for festivals only, but it was love at first taste! We just had to brew more. The base is tart with loads of lemon juice and lemon peel, but soon the liquorice root and vanilla make themselves known. This beer has everything: sweetness, acidity and saltiness, balanced in a unique blend. \r\n",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "105.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "205.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "80.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "16. Grandmother Gose",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
-      "style": "Sour - Fruited Gose",
-      "abv": "4.7%",
-      "rating": "3.532",
-      "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "115.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "225.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.33L Can",
-          "price": "115.00",
           "currency": "CZK"
         }
       ]
@@ -842,7 +868,7 @@
       "url": "https://untappd.com/b/brewski-talk-to-me-goose/6515493",
       "style": "Cider - Other Fruit",
       "abv": "4.5%",
-      "rating": "3.74",
+      "rating": "3.738",
       "description": "Apple cider with gooseberry and elderflower. Made with our friends at Kullamust!",
       "containers": [
         {
@@ -1026,6 +1052,22 @@
       ]
     },
     {
+      "name": "Grandmother Gose",
+      "brewery": "Brewski",
+      "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
+      "style": "Sour - Fruited Gose",
+      "abv": "4.7%",
+      "rating": "3.532",
+      "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
+      "containers": [
+        {
+          "size": "0.33L Can",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "Tuotsnav",
       "brewery": "Brewski",
       "url": "https://untappd.com/b/brewski-tuotsnav/5689591",
@@ -1096,7 +1138,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.103",
+      "rating": "4.102",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1127,7 +1169,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.964",
+      "rating": "3.963",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1175,7 +1217,7 @@
       "url": "https://untappd.com/b/goose-island-beer-co-big-news-2025/6504795",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "14.4%",
-      "rating": "4.312",
+      "rating": "4.316",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -1316,7 +1358,7 @@
       "url": "https://untappd.com/b/lervig-midnight-snack/6456575",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.153",
+      "rating": "4.152",
       "description": "Because self-control is overrated. Midnight Snack is a rich, velvety dessert stout loaded with chocolate, caramel, and a big hit of peanut butter. It’s thick, sweet, and unapologetically over the top — like raiding the cupboard after hours and finding everything you ever wanted in one sip.",
       "containers": [
         {
@@ -1800,7 +1842,7 @@
       "style": "IPA - Triple",
       "abv": "9.8%",
       "ibu": "80",
-      "rating": "3.989",
+      "rating": "3.988",
       "description": "Extra Lush is triple the tropical treat from the Pacific Northwest. Brewed with three times the amount of hand-selected malts and tropical hops. Live the Extra Lush Life!\r\n\r\nDown & Dirty: 2-Row Pale malt with Citra, Mosaic, Citra Cryo, Mosaic Quantum Brite, and Citra Quantum Brite hops.\r\n\r\nColor: Light orange\r\nAroma: Citrusy aromas of orange and grapefruit, resinous pine, stone fruit, and pineapple.\r\nFlavor: Gently sweet, mildly bitter, no saltiness and no sourness.                                                                                                                                             \r\n\r\nAvailability: Year-Round\r\n",
       "containers": [
         {
@@ -1976,7 +2018,7 @@
       "url": "https://untappd.com/b/frequentem-brewing-co-just-fruit-raspberry-orange-banana/5325224",
       "style": "Sour - Fruited",
       "abv": "5.1%",
-      "rating": "4.184",
+      "rating": "4.183",
       "description": "Thick and Jammy.\r\nWith large additions of Raspberry, Orange & Banana.",
       "containers": [
         {
@@ -1992,7 +2034,7 @@
       "url": "https://untappd.com/b/fermenterarna-purple-hand/6147834",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.855",
+      "rating": "3.854",
       "description": "Black currant\r\nGuava\r\nYuzu",
       "containers": [
         {
@@ -2055,7 +2097,7 @@
       "url": "https://untappd.com/b/lervig-le-grand-melange-by-rackhouse/4674610",
       "style": "Sour - Flanders Oud Bruin",
       "abv": "8%",
-      "rating": "4.077",
+      "rating": "4.078",
       "description": "This beer is truly old and has a few new parts too. Tucked in the furthest reaches of the brewery for years, a special blend of several of our mixed-culture projects has come to life with the addition of a brown strong ale and cherry juice from Telemark. Sweet notes of red fruits and vanilla meld seamlessly with wood and caramel flavours and a distinct sourness.\r\n\r\n\r\nServing: Flute glass. 4-5°C\r\n2019 vintage\r\n\r\n",
       "containers": [
         {
@@ -2383,23 +2425,6 @@
         {
           "size": "0.375L Lahev",
           "price": "440.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "In Extremis",
-      "brewery": "Nøgne Ø",
-      "url": "https://untappd.com/b/nogne-o-in-extremis/6215569",
-      "style": "Belgian Quadrupel",
-      "abv": "18%",
-      "ibu": "30",
-      "rating": "4.114",
-      "description": "In Extremis is a powerful Belgian quadrupel that has matured for three years in American and French red wine barrels. The barrels add a slightly spicy and fruity touch of cranberry, blackberry and licorice. ",
-      "containers": [
-        {
-          "size": "0.33L Bottle",
-          "price": "465.00",
           "currency": "CZK"
         }
       ]
