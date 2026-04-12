@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-04-11T06:47:55.404Z",
-  "totalBeers": 137,
+  "scrapedAt": "2026-04-12T07:02:47.718Z",
+  "totalBeers": 133,
   "beers": [
     {
       "name": "13. Deep Web",
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/laugar-brewery-deep-web/6665495",
       "style": "Stout - Other",
       "abv": "5.5%",
-      "rating": "3.725",
+      "rating": "3.746",
       "containers": [
         {
           "size": "0.2L",
@@ -61,7 +61,7 @@
       "url": "https://untappd.com/b/laugar-brewery-hackertzale/6600432",
       "style": "IPA - New England / Hazy",
       "abv": "6.2%",
-      "rating": "3.821",
+      "rating": "3.775",
       "description": "Hazy IPA w/ Mosaic, Simcoe, Krush, Ariana and Monroe hops",
       "containers": [
         {
@@ -87,7 +87,7 @@
       "url": "https://untappd.com/b/laugar-brewery-into-the-void/6665608",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
-      "rating": "3.814",
+      "rating": "3.783",
       "containers": [
         {
           "size": "0.2L",
@@ -107,7 +107,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.171",
+      "rating": "4.172",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -128,7 +128,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "10%",
-      "rating": "4.15",
+      "rating": "4.153",
       "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
       "containers": [
         {
@@ -149,7 +149,7 @@
       "url": "https://untappd.com/b/laugar-brewery-bitxia/4748034",
       "style": "Pale Ale - American",
       "abv": "4.5%",
-      "rating": "3.451",
+      "rating": "3.448",
       "containers": [
         {
           "size": "0.2L",
@@ -174,7 +174,7 @@
       "url": "https://untappd.com/b/drunken-bros-remastered-weissbier/6137695",
       "style": "Wheat Beer - Hefeweizen",
       "abv": "5.5%",
-      "rating": "3.589",
+      "rating": "3.578",
       "containers": [
         {
           "size": "0.2L",
@@ -199,7 +199,7 @@
       "url": "https://untappd.com/b/drunken-bros-qvittoq/6256724",
       "style": "IPA - New England / Hazy",
       "abv": "6.3%",
-      "rating": "3.832",
+      "rating": "3.834",
       "description": "Neipa con Motueka, Mosaic, Riwaka y Citra.\r\nColaboración con Hjört, de Dinamarca.",
       "containers": [
         {
@@ -225,7 +225,7 @@
       "url": "https://untappd.com/b/drunken-bros-vicious/4737292",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "3.907",
+      "rating": "3.904",
       "description": "New England IPA\r\nGalaxy & Wai iti Hops\r\n\r\nColab wirh Attik ",
       "containers": [
         {
@@ -251,7 +251,7 @@
       "url": "https://untappd.com/b/drunken-bros-lou-memorial-series/5679508",
       "style": "IPA - Imperial / Double",
       "abv": "8.3%",
-      "rating": "3.84",
+      "rating": "3.841",
       "description": "Cascade, Columbus,Citra y Mosaic.",
       "containers": [
         {
@@ -277,7 +277,7 @@
       "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
       "style": "Stout - Imperial / Double",
       "abv": "10.7%",
-      "rating": "3.96",
+      "rating": "3.965",
       "description": "Imperial Stout Speculoos & Cocoa",
       "containers": [
         {
@@ -298,7 +298,7 @@
       "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
       "style": "Stout - Imperial / Double",
       "abv": "11%",
-      "rating": "4.024",
+      "rating": "4.021",
       "description": "Imperial Stout con Haba Tonka.",
       "containers": [
         {
@@ -319,7 +319,7 @@
       "url": "https://untappd.com/b/la-grua-mictlan/4600521",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.953",
+      "rating": "3.952",
       "containers": [
         {
           "size": "0.2L",
@@ -344,7 +344,7 @@
       "url": "https://untappd.com/b/la-grua-royal-flush/3562407",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.894",
+      "rating": "3.896",
       "description": "New England IPA con sabores y aromas tropicales y cítricos. ",
       "containers": [
         {
@@ -370,7 +370,7 @@
       "url": "https://untappd.com/b/la-grua-yakuza/5245034",
       "style": "IPA - Other",
       "abv": "6.1%",
-      "rating": "3.706",
+      "rating": "3.71",
       "description": "Collab whith Ebina Beer.\r\nDDH Yuzu Ipa",
       "containers": [
         {
@@ -396,7 +396,7 @@
       "url": "https://untappd.com/b/la-grua-free-late-checkout/6646943",
       "style": "IPA - Imperial / Double",
       "abv": "8%",
-      "rating": "3.664",
+      "rating": "3.674",
       "containers": [
         {
           "size": "0.2L",
@@ -422,7 +422,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "6.1%",
       "ibu": "50",
-      "rating": "3.898",
+      "rating": "3.897",
       "description": "DDH DOUBLE SESSION NEIPA con lúpulos Amarillo Cashmere y Citra y levadura A38 Juice. Contiene avena y trigo. ",
       "containers": [
         {
@@ -449,7 +449,7 @@
       "style": "IPA - Rye",
       "abv": "6.7%",
       "ibu": "60",
-      "rating": "3.764",
+      "rating": "3.763",
       "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
       "containers": [
         {
@@ -528,59 +528,6 @@
       ]
     },
     {
-      "name": "37. Hody hody doprovody 13",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-hody-hody-doprovody-13/3156877",
-      "style": "Pilsner - Czech / Bohemian",
-      "abv": "5.5%",
-      "rating": "3.581",
-      "description": "Světlý spodně kvašený speciál je pivo vařené na měsíc duben, abyste měli čím odměnit koledníky za vyšupání. V Hody hody doprovody se krásně doplňuje kořenitost a peprnost Žateckého poloraného červeňáku a jemnost se sladší ovocitostí chmele Harmonie. Příjemně hořký, úžasně pitelný světlý speciál.\r\n\r\nA light bottom-fermented lager brewed for the month of April for the occasion of the Easter. Hody Hody 13 is beautifully complemented by the spiciness and pepperiness of the hop Saaz together with the softness and sweet fruitiness of the Harmonie hop. Pleasantly bitter, wonderfully drinkable light lager.\r\n\r\n",
-      "containers": [
-        {
-          "size": "0.3L",
-          "price": "55.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.5L",
-          "price": "95.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "39. Velikonoční Zelené",
-      "brewery": "Hradecký Klenot",
-      "url": "https://untappd.com/b/hradecky-klenot-velikonocni-zelene/3181399",
-      "style": "Spiced / Herbed Beer",
-      "abv": "4.8%",
-      "ibu": "32",
-      "rating": "3.122",
-      "description": "Náš nefiltrovaný Klenot ve velikonočním zeleném provedení.\r\n\r\nTradiční český ležák vařený na tři rmuty z české sladu a dvou druhů českého chmele. Pivo charakterizuje vyšší sladová plnost, tělnatost doplněná o střední chmelové tóny se středně vysokou hořkostí a lehká kvasnicová chuť. Celý zážitek je doplněn přírodní zelenou barvou – rostlinným chlorofylem.",
-      "containers": [
-        {
-          "size": "0.3L",
-          "price": "55.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.5L",
-          "price": "90.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "23. Whirl Domination",
       "brewery": "To Øl",
       "url": "https://untappd.com/b/to-ol-whirl-domination/3448881",
@@ -613,7 +560,7 @@
       "url": "https://untappd.com/b/la-grua-voodoo/3254315",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.924",
+      "rating": "3.922",
       "description": "Cerveza Estilo NEIPA con Lúpulos Nelson Sauvin, Cashmere, Citra y Mandarina Bavaria y levadura Eastcoast. Aromas a piña y coco.",
       "containers": [
         {
@@ -666,38 +613,12 @@
       ]
     },
     {
-      "name": "36. Hazy Robin 12",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-hazy-robin-12/6517568",
-      "style": "IPA - New England / Hazy",
-      "abv": "5.1%",
-      "rating": "3.829",
-      "description": "Robin je dlouholetý parťák v naší základní řadě. Ale i ti nejlepší se občas potřebují převléknout. Proto jsme mu navlékli nový outfit, přidali pšeničné slady a ovesné vločky a vytvořili verzi, která jde s dobou – Hazy Robin. \r\n\r\nPšeničný slad přináší hebkost a plnost, ovesné vločky zase zakalí pivo do ikonického vzhledu mlžné NEIPA. Klasická dvojice Citra a Simcoe zůstává – jejich citrusové a tropické tóny dávají pivu charakter, který tě chytne a nepustí. Výsledkem je moderní Session NEIPA, která má lehkost, ovocnost i pitelnost. Zkrátka pivo, se kterým se ti nebude chtít loučit. ",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "60.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "100.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "45.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "40. Valhalla Barrel Aged House Stout 2025",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.199",
+      "rating": "4.194",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -718,7 +639,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-raspberry-12/2846538",
       "style": "Sour - Fruited",
       "abv": "5.1%",
-      "rating": "3.792",
+      "rating": "3.793",
       "description": "Tento kyseláč z pivovaru Zichovec je až po okraj nacpaný malinami! Na jednu várku se spotřebovalo přesně 600 kg malinového pyré. Dvanáctka Sour Raspberry je tak intenzivně malinová, a to od prvotního přivonění až po dlouhé chuťové doznívání. Neuvěřitelně šťavnatá ovocná bomba s výraznější kyselostí. Pokud máte rádi zichovecké kyseláče, rozhodně nebudete zklamaní! \r\n\r\n\r\nWe love sours! We brewed it using the classic Kettle Souring method, in which Lactobacilli (also found in probiotics or yoghurts) are added to the beer in front of the boiling of wort, which lowers the pH of the beer. Compared to classic beers of this style, we have put the plato a little higher so that you can enjoy the greater complexity of the body. Subsequently, a generous amount of raspberries was added to the beer, in particular more than 20 % of the total amount of beer. The aroma and taste of raspberries in this drink is very pronounced. Beer has higher acidity and unreal drinkability. Have you had your dose of vitamins today?",
       "containers": [
         {
@@ -744,7 +665,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-bridge-please-12/6517573",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.762",
+      "rating": "3.763",
       "description": "Gose je historický německý pivní styl známý svou lehce slanou a kyselou chutí. My jsme si ho vzali jako základ pro jedinečné mezinárodní dobrodružství. Společně s finským pivovarem Tuju který za námi dorazil osobně na vaření, jsme vytvořili pivo, které propojuje dvě pivní kultury – nejen nápadem, ale i chutí. \r\n\r\nDo receptury jsme zvolili suroviny, které jsou tradičně spojené s českou i finskou krajinou – finské brusinky, české i severské šípky a jalovec, který má v obou zemích silné kořeny v lidové gastronomii a bylinkářství. Společně tvoří chutě, které připomínají procházku podzimním lesem: jasná ovocná kyselost brusinek, jemná sladkokyselá hloubka šípků a bylinná, kořenitá linka jalovce. Vše završuje decentní minerální slanost, typická pro styl Gose. \r\n\r\nBridge Please tak není jen pivo – je to symbol spojení. Most mezi minulostí a současností, mezi Finskem a Českem, mezi tradičními surovinami a moderní kreativitou. A tenhle most fakt stojí za to přejít.",
       "containers": [
         {
@@ -796,7 +717,7 @@
       "url": "https://untappd.com/b/brewski-talk-to-me-goose/6515493",
       "style": "Cider - Other Fruit",
       "abv": "4.5%",
-      "rating": "3.744",
+      "rating": "3.737",
       "description": "Apple cider with gooseberry and elderflower. Made with our friends at Kullamust!",
       "containers": [
         {
@@ -822,7 +743,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.37",
+      "rating": "3.369",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -900,22 +821,6 @@
       ]
     },
     {
-      "name": "Drink and Drive Ø",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-drive-o/5640863",
-      "style": "Non-Alcoholic - IPA",
-      "abv": "0.5%",
-      "rating": "3.52",
-      "description": "Pro naše druhé nealko jsme vyslechli vaše prosby a našli způsob jak pasterovat plechovky, můžete se tak těšit na naše první plechovkové nealko. Pro tuto verzi jsme si vybrali styl, který je nám nejblíž, kalnou voňavou IPA s chmely Cryo Pop a Citra Spectrum. Tak ochutnejte a buďte zodpovědní!\r\n\r\nFor our second non-alcoholic beer we listened to your requests and found a way to pasteurize the cans, so you can look forward to our first canned AF beer. For this release we chose the style that is closest to our hearts, a hazy fragrant IPA with Cryo Pop and Citra Spectrum hops. So give it a taste and stay resposible!",
-      "containers": [
-        {
-          "size": "0.5L Can",
-          "price": "110.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Evergreen",
       "brewery": "O/O Brewing ",
       "url": "https://untappd.com/b/o-o-brewing-evergreen/1058103",
@@ -938,7 +843,7 @@
       "url": "https://untappd.com/b/to-ol-fresh-hop-beer/6449081",
       "style": "Lager - Other",
       "abv": "4.8%",
-      "rating": "3.503",
+      "rating": "3.504",
       "containers": [
         {
           "size": "0.44L Can",
@@ -1002,7 +907,7 @@
       "style": "Stout - Russian Imperial",
       "abv": "11%",
       "ibu": "65",
-      "rating": "3.98",
+      "rating": "3.981",
       "description": "Stout with vanilla beans.",
       "containers": [
         {
@@ -1034,7 +939,7 @@
       "url": "https://untappd.com/b/friends-company-purple-wonderland/5956052",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.815",
+      "rating": "3.817",
       "description": "Sour Gose with Pomegranate, Blackcurrant and Raspberry. And a touch of Sea Salt.",
       "containers": [
         {
@@ -1051,7 +956,7 @@
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
       "ibu": "50",
-      "rating": "3.921",
+      "rating": "3.92",
       "containers": [
         {
           "size": "0.33L Can",
@@ -1097,7 +1002,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.962",
+      "rating": "3.95",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1129,7 +1034,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.081",
+      "rating": "4.075",
       "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
@@ -1270,7 +1175,7 @@
       "url": "https://untappd.com/b/lervig-paragon-2021-by-rackhouse/5072941",
       "style": "Barleywine - Other",
       "abv": "13.8%",
-      "rating": "4.237",
+      "rating": "4.236",
       "description": "BARLEY WINE AGED IN BOURBON BARRELS FOR 18 months\r\n\r\nParagon 2021 showcases our patient and considered approach to tending nearly 60 different bourbon barrels for over 12 months. This edition of our distinguished barley wine displays strong notes of caramel and oak-ageing with hints of tabacco, fruit cake and vanilla. The finish is distinctly bourbon forward and complex with a balanced bitterness and perceived sweetness that gives way to a warming sensation from the 13.8% alcohol.",
       "containers": [
         {
@@ -1432,7 +1337,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-black-canvas/5910719",
       "style": "Porter - American",
       "abv": "6%",
-      "rating": "3.741",
+      "rating": "3.739",
       "description": "Black Canvas is an American style porter. The dark malts gives the beer a complex aroma of chocolate, toffees and coffee. Pairs well with BBQ and chocolate desserts.",
       "containers": [
         {
@@ -1448,7 +1353,7 @@
       "url": "https://untappd.com/b/aben-if-aben-and-lervig-made-a-stout/6433262",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.924",
+      "rating": "3.925",
       "description": "If ÅBEN and Lervig Made A Double Mashed Stout, this would be it. Deep black, thick and rich with layers of coffee, cacao and vanilla, topped with an espresso-like foam. Brewed together with friends from Lervig.",
       "containers": [
         {
@@ -1481,7 +1386,7 @@
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
       "ibu": "20",
-      "rating": "4.266",
+      "rating": "4.265",
       "description": "This beer is a blend of 3 different base beers, using some of the ingredients from Mash Test Yummies. It was a case of having some wood barrels available and some spare beer to trial together and see how it came out after a year of aging. We hope you'll agree that it worked out very nicely!",
       "containers": [
         {
@@ -1497,7 +1402,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.947",
+      "rating": "3.944",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1512,7 +1417,7 @@
       "url": "https://untappd.com/b/to-ol-mexican-hot-chocolate-ba-imperial-stout-2022/4931662",
       "style": "Stout - Imperial / Double",
       "abv": "11%",
-      "rating": "4.066",
+      "rating": "4.065",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1527,7 +1432,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.167",
+      "rating": "4.17",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1558,7 +1463,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.285",
+      "rating": "4.286",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1622,7 +1527,7 @@
       "url": "https://untappd.com/b/la-grua-love-potion/4356109",
       "style": "IPA - American",
       "abv": "6.4%",
-      "rating": "3.873",
+      "rating": "3.871",
       "containers": [
         {
           "size": "44cl Can",
@@ -1703,7 +1608,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "35",
-      "rating": "4.094",
+      "rating": "4.093",
       "description": "This new double New England IPA is inspired from one of the biggest hoppy brewery from Boston area. After Niclas trip to the US in the beginning of May this year he got inspiration of the heavy yellow/orange hue the beer looks like in the glass. This beer have a different malt bill than we usually do. Creamy, fluffy and with a balanced bitterness and dry hopped in two stages with Citra, Nelson Sauvin, Rakau, Citra cryo and\r\nflowable Krush Hyperboost for flavours of orange juice, citrus and overripe mango.",
       "containers": [
         {
@@ -1720,7 +1625,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "15",
-      "rating": "4.079",
+      "rating": "4.08",
       "description": "Brand new juicy double New England IPA. The beer is brewed with a lot of oats and wheat for a fluffy mouthfeel. Dry hopped in two stage with the new harvest of Peacharine and Nelson Sauvin from Freestyle Hops, together with Citra cryo and the flowable potent Hyperboost Krush. All the hops together will bring out flavors of peaches, grapes, bubblegum and some dankness.",
       "containers": [
         {
@@ -1962,7 +1867,7 @@
       "url": "https://untappd.com/b/fermenterarna-purple-hand/6147834",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.854",
+      "rating": "3.855",
       "description": "Black currant\r\nGuava\r\nYuzu",
       "containers": [
         {
@@ -1993,7 +1898,7 @@
       "url": "https://untappd.com/b/fermenterarna-jam-juice/6147833",
       "style": "Sour - Fruited",
       "abv": "5.6%",
-      "rating": "3.836",
+      "rating": "3.835",
       "description": "Vegan",
       "containers": [
         {
@@ -2074,7 +1979,7 @@
       "url": "https://untappd.com/b/drunken-bros-prince-memorial-series/5301821",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.651",
+      "rating": "3.644",
       "description": "Gose elaborada con sal de Añana y Kiwi",
       "containers": [
         {
@@ -2155,7 +2060,7 @@
       "url": "https://untappd.com/b/marlobobo-s-megabear-blue-lava/6301023",
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
-      "rating": "4.075",
+      "rating": "4.074",
       "description": "Pulpy smoothie sour with blueberry, mango and banana.\r\n\r\nDreamt up by Marlobobo. Brewed for us by the best smoothie makers in the biz, Elmeleven❤️\r\n\r\nFlip the can a couple of times to mix up the smoothie before serving!",
       "containers": [
         {
@@ -2251,7 +2156,7 @@
       "style": "Wild Ale - Other",
       "abv": "6.2%",
       "ibu": "20",
-      "rating": "3.787",
+      "rating": "3.789",
       "description": "A selection of rye based hoppy mixed culture beer, aged between 3 and 16 Months in French oak Bariques and Puncheons.  Bottled with sugar for a natural carbonation.",
       "containers": [
         {
@@ -2317,7 +2222,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2021/5010424",
       "style": "Barleywine - English",
       "abv": "13.4%",
-      "rating": "4.123",
+      "rating": "4.119",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -2332,7 +2237,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2022/5481369",
       "style": "Barleywine - English",
       "abv": "9%",
-      "rating": "4.033",
+      "rating": "4.025",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -2427,7 +2332,7 @@
       "url": "https://untappd.com/b/marlobobo-kokemomo-2023/6151420",
       "style": "Mead - Melomel",
       "abv": "10%",
-      "rating": "4.394",
+      "rating": "4.387",
       "description": "Lingonberry mead aged on Ugandan vanilla beans.\r\n\r\nLingonberries are notoriously difficult to ferment due to their natural content of benzoic acid - one reason lingonberry jam keeps so well without added preservatives. Because of this, this melomel is crafted a bit differently than most of our fruit meads: water is added to help kickstart fermentation. It's still packed with fruit, though slightly less saturated with berries than our usual offerings.\r\n\r\nOver 6 months of aging on Ugandan vanilla beans not only softens the tannic grip of lingonberries, but also amplifies their tart and fruity character. Paired with honey, it reveals notes of caramel and marshmallow fluff. \r\n\r\n------------------------------ 2023 ------------------------------\r\n\r\nHoney variety:\r\nWildflower honey from Konnerud and Løten.\r\n\r\nLingonberry variety:\r\nWild lingonberries foraged from the forest (Sande and Kongsberg).\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -2491,7 +2396,7 @@
       "url": "https://untappd.com/b/marlobobo-schaarbee-cryo-2024/6398191",
       "style": "Mead - Melomel",
       "abv": "11%",
-      "rating": "4.795",
+      "rating": "4.772",
       "description": "A freeze-concentrated cherry mead (or ice melomel if you will).\r\n\r\nWhat happens when you take an already ultra-concentrated no-water melomel - and go even further by freeze-concentrating the cherry component, cutting its water content in half?\r\n\r\nYou get an insane saturation of pure cherry flavor, a glass-destroying lacing and an explosive acid/sweetness balance which let the flavors of pure cherry and honey linger forever.\r\n\r\nWell, that's our opinion. What's yours?\r\n\r\n\r\n------------------------------ 2024 ------------------------------\r\n\r\n\r\n*159 bottles made*\r\n\r\nHoney variety:\r\nWildflower from Tønsberg and Lillesand\r\n\r\nCherry variety:\r\nSchaarbeekse cherries from Lindheim, Telemark.\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -2507,7 +2412,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2023/5960135",
       "style": "Barleywine - English",
       "abv": "11.9%",
-      "rating": "4.023",
+      "rating": "4.022",
       "containers": [
         {
           "size": "0.2L",
