@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-04-16T07:18:20.419Z",
-  "totalBeers": 142,
+  "scrapedAt": "2026-04-17T07:18:10.201Z",
+  "totalBeers": 141,
   "beers": [
     {
       "name": "13. Deep Web",
@@ -107,7 +107,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.148",
+      "rating": "4.147",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -298,7 +298,7 @@
       "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
       "style": "Stout - Imperial / Double",
       "abv": "11%",
-      "rating": "4.016",
+      "rating": "4.017",
       "description": "Imperial Stout con Haba Tonka.",
       "containers": [
         {
@@ -476,7 +476,7 @@
       "style": "IPA - Black / Cascadian Dark Ale",
       "abv": "7.5%",
       "ibu": "40",
-      "rating": "3.61",
+      "rating": "3.611",
       "description": "We havent brewed a black IPA for over a decade so it was about time to revisit this fantastic style! Roasted and chocolate notes meet American powerhouse hops and it sits just right in between a US IPA and a classic porter.",
       "containers": [
         {
@@ -614,7 +614,7 @@
       "url": "https://untappd.com/b/brewski-etienne/6508434",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "3.796",
+      "rating": "3.795",
       "description": "A double oated NEIPA hopped with Dolcita and Citra Spectrum",
       "containers": [
         {
@@ -666,7 +666,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "60",
-      "rating": "3.991",
+      "rating": "3.99",
       "description": "Nejprodávanější new england ipa pivovaru. V chuti i vůni výrazné tóny ananasu, manga a žlutého melounu.\r\n\r\nV půlce roku 2019 vyhlášeno serverem Untappd.com nejlepším pivem v České republice.\r\n\r\nJedná se o námi zamilovaný styl NEIPA, pro který je typické extrémní množství použitého aromatického chmele v pozdních fázích výroby, to z důvodu, abychom dosáhli maximální možné ovocitosti ve vůni i v chuti, ale hořkost stále drželi na uzdě. Dále se používají ovesné vločky, které zjemní strukturu těla a pivo je pak krásně sametové. A v neposlední řadě, hraje významnou roli speciální kmen kvasnic.\r\n___\r\n\r\nThe brewery's best selling New England IPA. In taste and aroma, distinct notes of pineapple, mango and yellow melon.\r\n\r\nIn the middle of 2019, Untappd.com announced it as the best beer in the Czech Republic.\r\n\r\nThis is the NEIPA style we love, which is characterized by the extreme amount of aromatic hops used in the late stages of production, achieving maximum possible fruitiness in the aroma and taste.",
       "containers": [
         {
@@ -697,7 +697,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-everyday-juice-12/6619650",
       "style": "IPA - Session New England / Hazy",
       "abv": "5%",
-      "rating": "3.772",
+      "rating": "3.771",
       "description": "Everyday Juice je naše představa ideální „každodenní“ NEIPY. Nižší stupňovitost a 5 % alkoholu z ní dělají pivo, které si můžete dát klidně opakovaně, ale chuťově rozhodně nepůsobí lehce nebo prázdně. \r\n\r\nCitra přináší klasický citrusový základ – grep, limetku a šťavnaté tropické tóny. Dolcita dodává jemnější, lehce nasládlý exotický charakter s náznakem kokosu, který krásně doplňuje měkké tělo stylu. Hořkost je umírněná, aby vynikla šťavnatost a hladká textura. \r\n\r\nVýsledkem je vyvážená, svěží a velmi dobře pitelná Session NEIPA, která si zachovává plný chmelový projev, ale zůstává lehká a přístupná. Prostě džus na každý den. ",
       "containers": [
         {
@@ -723,7 +723,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-velvet-skyline-17/6619655",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "4.023",
+      "rating": "4.044",
       "description": "Velvet Skyline stojí na osvědčené kombinaci dvou moderních chmelů, které si spolu dlouhodobě rozumí. Citra přináší intenzivní citrusový charakter – grep, limetku a zralé tropické ovoce. Sabro k tomu přidává ananas, lehkou krémovost a typickou kokosovou linku, která pivu dává vlastní tvář. \r\n\r\nTělo je plné a jemné, jak se na styl sluší, s vyšším podílem ovesných složek pro hladkou texturu. Hořkost držíme spíš na uzdě, aby vynikla aromatika a šťavnatost. Výsledkem je výrazná, ale stále velmi dobře pitelná NEIPA, která baví čistým chmelovým projevem. ",
       "containers": [
         {
@@ -739,32 +739,6 @@
         {
           "size": "Flights of 5/10",
           "price": "20.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "26. Short",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-short/5988840",
-      "style": "Stout - Other",
-      "abv": "5.2%",
-      "rating": "3.555",
-      "description": "A small stout that's not short in flavor brewed with a carefully selected blend of dark, brown and crystal malts. Chocolatey and smooth with a gentle hint of roast malt character, simple and delicious.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "90.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "150.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "70.00",
           "currency": "CZK"
         }
       ]
@@ -848,7 +822,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-junos-on-the-horizon-12/6619654",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.893",
+      "rating": "3.902",
       "description": "Junos On The Horizon je naše společná várka s japonským pivovarem South Horizon z prefektury Koči. Inspirací bylo jejich pivo Junos Pandemic postavené na citrusovém charakteru yuzu (Citrus junos). Yuzu přináší ostrou a elegantní linku připomínající limetku a mandarinku, která v kyselém základu stylu gose působí mimořádně svěže. Jemná slanost citrus ještě zvýrazňuje. Sansho pepř dodává lehce štiplavý, citrusově kořeněný dozvuk s jemným brněním. Pivo propojuje nejen chutě, ale i Louny a japonské město Susaki.",
       "containers": [
         {
@@ -874,7 +848,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-bridge-please-12/6517573",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.748",
+      "rating": "3.743",
       "description": "Gose je historický německý pivní styl známý svou lehce slanou a kyselou chutí. My jsme si ho vzali jako základ pro jedinečné mezinárodní dobrodružství. Společně s finským pivovarem Tuju který za námi dorazil osobně na vaření, jsme vytvořili pivo, které propojuje dvě pivní kultury – nejen nápadem, ale i chutí. \r\n\r\nDo receptury jsme zvolili suroviny, které jsou tradičně spojené s českou i finskou krajinou – finské brusinky, české i severské šípky a jalovec, který má v obou zemích silné kořeny v lidové gastronomii a bylinkářství. Společně tvoří chutě, které připomínají procházku podzimním lesem: jasná ovocná kyselost brusinek, jemná sladkokyselá hloubka šípků a bylinná, kořenitá linka jalovce. Vše završuje decentní minerální slanost, typická pro styl Gose. \r\n\r\nBridge Please tak není jen pivo – je to symbol spojení. Most mezi minulostí a současností, mezi Finskem a Českem, mezi tradičními surovinami a moderní kreativitou. A tenhle most fakt stojí za to přejít.",
       "containers": [
         {
@@ -900,7 +874,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-sea-buckthorn-ginger-gose-11/6421743",
       "style": "Sour - Other Gose",
       "abv": "4.6%",
-      "rating": "3.678",
+      "rating": "3.677",
       "description": "Tohle není jen další ovocné gose. Tohle je podzimní elixír ve sklenici. Sea Buckthorn Ginger Gose jsme postavili na jednoduchém kyselém základu, který jsme napumpovali poctivou dávkou rakytníku a čerstvě odšťavněného zázvoru – dvou ingrediencí, které si s imunitou tykají.\r\nRakytník přináší jasnou kyselost a intenzivní ovocný nádech plný vitamínu C. Zázvor do toho vstupuje s jemnou štiplavostí a příjemně hřejivým dozníváním. Dohromady tvoří neotřelé spojení chutí, které osvěží a zároveň povzbudí. Lehce slané, jemně pikantní, svěží, ale přesto s duší podzimu.",
       "containers": [
         {
@@ -926,7 +900,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-plum-and-ginger-and-cranberries/5170886",
       "style": "Sour - Fruited",
       "abv": "3.7%",
-      "rating": "3.793",
+      "rating": "3.801",
       "description": "Sour ALE, zvaný též kyseláč, je moderním pivním druhem kombinující klasické svrchní kvašení a fermentaci pomocí bakterií mléčného kvašení Lactobacillus plantarum. Charakter piva výrazně dotváří přidané ovoce (zhruba 10% objemu) a koření.\r\n\r\nZvolili jsme výborně doplňující se švestku s brusinkou a příjemně štiplavý zázvor.",
       "containers": [
         {
@@ -1044,7 +1018,7 @@
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.395",
+      "rating": "3.396",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -1077,7 +1051,7 @@
       "url": "https://untappd.com/b/to-ol-fresh-hop-beer/6449081",
       "style": "Lager - Other",
       "abv": "4.8%",
-      "rating": "3.504",
+      "rating": "3.506",
       "containers": [
         {
           "size": "0.44L Can",
@@ -1205,7 +1179,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.103",
+      "rating": "4.102",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1236,7 +1210,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.945",
+      "rating": "3.944",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1315,7 +1289,7 @@
       "url": "https://untappd.com/b/goose-island-beer-co-bourbon-county-brand-chocolate-praline-stout-2025/6439269",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.6%",
-      "rating": "4.338",
+      "rating": "4.339",
       "description": "(2025) Bourbon County Brand Stout is a beer crafted for aging. Over time, Goose Island’s imperial stout undergoes an incredible transformation within the barrel. With patience and time, the beer not only absorbs the character of the freshly emptied bourbon barrels, but also develops expressions of toasted marzipan and dried fruit—signature to Original Stout.\r\n\r\nGoose Island brings these flavors to the forefront with 2025 Bourbon County Brand Chocolate Praline Stout. First aged in freshly emptied bourbon barrels, this stout draws inspiration from the underlying decadence of chocolate, caramel, and roasted nuts found in Original. Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, this full-bodied stout showcases the classic flavors of a chocolate praline while embracing the subtle nuances imparted by the bourbon barrel. 14.6% ABV.",
       "containers": [
         {
@@ -1331,7 +1305,7 @@
       "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
       "style": "Stout - Imperial / Double",
       "abv": "13.3%",
-      "rating": "4.33",
+      "rating": "4.329",
       "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
       "containers": [
         {
@@ -1637,7 +1611,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.943",
+      "rating": "3.94",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1730,7 +1704,7 @@
       "style": "Gluten-Free",
       "abv": "6%",
       "ibu": "57",
-      "rating": "3.473",
+      "rating": "3.474",
       "description": "Lanzamos nuestra nueva cerveza American IPA con lúpulos Citra y Cascade además de SIN GLUTEN. Esta Ipa con aromas cítricos y un amargor balanceado se convertirá rápidamente en una de tus favoritas de la marca.",
       "containers": [
         {
@@ -2133,7 +2107,7 @@
       "url": "https://untappd.com/b/fermenterarna-jam-juice/6147833",
       "style": "Sour - Fruited",
       "abv": "5.6%",
-      "rating": "3.833",
+      "rating": "3.834",
       "description": "Vegan",
       "containers": [
         {
@@ -2551,7 +2525,7 @@
       "url": "https://untappd.com/b/marlobobo-fanal-free-jazz-2023/5716140",
       "style": "Mead - Melomel",
       "abv": "11%",
-      "rating": "4.517",
+      "rating": "4.519",
       "description": "Fanal, single variety cherry mead (Spontaneously fermented and terroir-driven).\r\n\r\nNo added water or yeast. Solely fermented from the yeast and bacteria naturally present on the cherries. The cherries had 14 days of skin contact, before only free-run juice was collected.\r\n\r\n------------------------- 2023 --------------------------\r\n\r\nHoney variety:\r\nLate-harvested wildflower honey that was exceptionally dark, caramelly and complex.\r\n\r\nCherry variety:\r\nFanal\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -2631,7 +2605,7 @@
       "url": "https://untappd.com/b/marlobobo-schaarbee-cryo-2024/6398191",
       "style": "Mead - Melomel",
       "abv": "11%",
-      "rating": "4.763",
+      "rating": "4.762",
       "description": "A freeze-concentrated cherry mead (or ice melomel if you will).\r\n\r\nWhat happens when you take an already ultra-concentrated no-water melomel - and go even further by freeze-concentrating the cherry component, cutting its water content in half?\r\n\r\nYou get an insane saturation of pure cherry flavor, a glass-destroying lacing and an explosive acid/sweetness balance which let the flavors of pure cherry and honey linger forever.\r\n\r\nWell, that's our opinion. What's yours?\r\n\r\n\r\n------------------------------ 2024 ------------------------------\r\n\r\n\r\n*159 bottles made*\r\n\r\nHoney variety:\r\nWildflower from Tønsberg and Lillesand\r\n\r\nCherry variety:\r\nSchaarbeekse cherries from Lindheim, Telemark.\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
