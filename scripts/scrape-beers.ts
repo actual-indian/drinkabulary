@@ -1,12 +1,3 @@
-/**
- * Beer Scraper
- * Fetches beer data from Untappd's internal menu API (no browser required).
- *
- * Usage: npm run scrape
- *
- * Requires UNTAPPD_VENUE_ID in .env (default: 13672441 for Valhalla Beer Club).
- */
-
 import dotenv from 'dotenv';
 import fs from 'fs';
 import path from 'path';

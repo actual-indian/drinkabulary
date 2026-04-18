@@ -68,6 +68,18 @@ export default function BeerCard({ beer }: BeerCardProps) {
             {beer.price && beer.price !== 'unknown' ? beer.price : 'N/A'}
           </span>
         </div>
+
+        {/* Untappd link */}
+        {beer.url && beer.url !== 'unknown' && (
+          <a
+            href={beer.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-2 inline-block text-xs text-[var(--text-muted)] hover:text-[var(--accent-primary)] transition-colors font-body"
+          >
+            View on Untappd ↗
+          </a>
+        )}
       </div>
     </div>
   );

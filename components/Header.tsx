@@ -103,7 +103,7 @@ export default function Header({ language, onLanguageChange, currentView, onView
 
           {/* Right: Settings */}
           <div className="flex items-center justify-end gap-2 sm:gap-3 flex-shrink-0">
-            <a href="https://docs.google.com/forms/d/1jf_jQKGbF8Sgx0wCGk1pn6JJrYQd3Ih6kvgdTlAF6do" target="_blank" rel="noopener noreferrer" className="hidden sm:inline px-4 py-2 rounded-lg bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] transition-all text-sm lg:text-base font-body font-semibold shadow-lg hover:shadow-xl hover:scale-105">
+            <a href="https://forms.gle/y4zYUA6unAkzsWah6" target="_blank" rel="noopener noreferrer" className="hidden sm:inline px-4 py-2 rounded-lg bg-[var(--accent-primary)] dark:bg-[var(--accent-primary)] text-white hover:bg-[var(--accent-secondary)] dark:hover:bg-[var(--accent-secondary)] transition-all text-sm lg:text-base font-body font-semibold shadow-lg hover:shadow-xl hover:scale-105">
               Leave feedback
             </a>
           </div>
@@ -174,6 +174,15 @@ export default function Header({ language, onLanguageChange, currentView, onView
           >
             Untappd
           </a> */}
+
+          <a
+            href="https://forms.gle/y4zYUA6unAkzsWah6"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-3 py-1.5 rounded-lg font-body font-semibold transition-all text-sm bg-[var(--accent-primary)] text-white hover:bg-[var(--accent-secondary)]"
+          >
+            Leave feedback
+          </a>
         </nav>
       </div>
     </header>
