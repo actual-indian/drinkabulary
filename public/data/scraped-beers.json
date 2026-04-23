@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-04-22T07:19:08.811Z",
-  "totalBeers": 135,
+  "scrapedAt": "2026-04-23T07:21:17.859Z",
+  "totalBeers": 138,
   "beers": [
     {
       "name": "1. Remastered Weissbier",
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/drunken-bros-remastered-weissbier/6137695",
       "style": "Wheat Beer - Hefeweizen",
       "abv": "5.5%",
-      "rating": "3.572",
+      "rating": "3.571",
       "containers": [
         {
           "size": "0.2L",
@@ -35,7 +35,7 @@
       "style": "Wheat Beer - Witbier / Blanche",
       "abv": "4.3%",
       "ibu": "11",
-      "rating": "3.271",
+      "rating": "3.273",
       "description": "Světlá barva, typická chuť a vůně piva vařeného z pšeničného sladu, doplněná přídavkem pomerančové kůry a koriandru. Přirozeně zakalené díky zbylým kvasnicím, lehce chmelené žateckým chmele.",
       "containers": [
         {
@@ -61,7 +61,7 @@
       "url": "https://untappd.com/b/drunken-bros-lou-memorial-series/5679508",
       "style": "IPA - Imperial / Double",
       "abv": "8.3%",
-      "rating": "3.827",
+      "rating": "3.828",
       "description": "Cascade, Columbus,Citra y Mosaic.",
       "containers": [
         {
@@ -87,7 +87,7 @@
       "url": "https://untappd.com/b/la-grua-yakuza/5245034",
       "style": "IPA - Other",
       "abv": "6.1%",
-      "rating": "3.685",
+      "rating": "3.686",
       "description": "Collab whith Ebina Beer.\r\nDDH Yuzu Ipa",
       "containers": [
         {
@@ -113,7 +113,7 @@
       "url": "https://untappd.com/b/la-grua-free-late-checkout/6646943",
       "style": "IPA - Imperial / Double",
       "abv": "8%",
-      "rating": "3.64",
+      "rating": "3.643",
       "containers": [
         {
           "size": "0.2L",
@@ -139,7 +139,7 @@
       "style": "IPA - Rye",
       "abv": "6.7%",
       "ibu": "60",
-      "rating": "3.759",
+      "rating": "3.757",
       "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
       "containers": [
         {
@@ -292,6 +292,58 @@
       ]
     },
     {
+      "name": "24. Hinoki",
+      "brewery": "ÅBEN",
+      "url": "https://untappd.com/b/aben-hinoki/5766647",
+      "style": "Lager - Japanese Rice",
+      "abv": "5.1%",
+      "rating": "3.264",
+      "description": "Our Japanese influenced rice lager is brewed using heaps of flaked rice and a decoction mash schedule to promote dryness.\r\nWe then hopped it with Mittelfruh throughout the boil and finished it with Loral in the whirlpool for softer notes of lemon, orange blossom and floral steamed rice.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "80.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "140.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "60.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "27. Pine",
+      "brewery": "ÅBEN",
+      "url": "https://untappd.com/b/aben-pine/5087892",
+      "style": "Schwarzbier",
+      "abv": "5.1%",
+      "rating": "3.289",
+      "description": "Pine is the second lager in the Forest Tree series. With its dark and malty tones you can expect roast and malt depth with a touch of rauch smokiness.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "75.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "135.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "60.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "32. Krahulík 11",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-krahulik-11/2483912",
@@ -381,7 +433,7 @@
       "url": "https://untappd.com/b/la-grua-mictlan/4600521",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.946",
+      "rating": "3.947",
       "containers": [
         {
           "size": "0.2L",
@@ -501,6 +553,31 @@
       ]
     },
     {
+      "name": "26. 50/50: Strata/Mosaic",
+      "brewery": "O/O Brewing ",
+      "url": "https://untappd.com/b/o-o-brewing-50-50-strata-mosaic/6479820",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "rating": "3.801",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "105.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "175.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "80.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "33. Nectar of Happiness 17",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153",
@@ -538,7 +615,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-big-rizz-20/6666541",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "9%",
-      "rating": "4.105",
+      "rating": "4.117",
       "description": "Big Rizz představuje plnohodnotnou Double NEIPA, která staví na výrazném těle i intenzivní aromatice. \r\n\r\nZáklad tvoří kombinace chmelů Citra, Mosaic a Dolcita, které přinášejí vrstvy citrusů, tropického ovoce a šťavnatého ovocného charakteru. Celý profil je dále umocněn použitím Phantasmu – inovativního prášku z novozélandských hroznů Sauvignon Blanc, bohatého na thioly. \r\n\r\nPrávě tyto thioly výrazně zesilují chmelovou aromatiku a posouvají pivo do intenzivních tónů tropického ovoce a citrusů. Výsledkem je hutná, šťavnatá a výrazně chmelená Double NEIPA, která vyvažuje plnost s překvapivou pitelností. ",
       "containers": [
         {
@@ -564,7 +641,7 @@
       "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
       "style": "Stout - Imperial / Double",
       "abv": "10.7%",
-      "rating": "3.941",
+      "rating": "3.945",
       "description": "Imperial Stout Speculoos & Cocoa",
       "containers": [
         {
@@ -631,7 +708,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.149",
+      "rating": "4.151",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -689,6 +766,37 @@
       ]
     },
     {
+      "name": "20. Grandmother Gose",
+      "brewery": "Brewski",
+      "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
+      "style": "Sour - Fruited Gose",
+      "abv": "4.7%",
+      "rating": "3.533",
+      "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "115.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "225.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.33L Can",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "23. Tropicopop",
       "brewery": "Brewski",
       "url": "https://untappd.com/b/brewski-tropicopop/6248085",
@@ -720,7 +828,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-junos-on-the-horizon-12/6619654",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.828",
+      "rating": "3.825",
       "description": "Junos On The Horizon je naše společná várka s japonským pivovarem South Horizon z prefektury Koči. Inspirací bylo jejich pivo Junos Pandemic postavené na citrusovém charakteru yuzu (Citrus junos). Yuzu přináší ostrou a elegantní linku připomínající limetku a mandarinku, která v kyselém základu stylu gose působí mimořádně svěže. Jemná slanost citrus ještě zvýrazňuje. Sansho pepř dodává lehce štiplavý, citrusově kořeněný dozvuk s jemným brněním. Pivo propojuje nejen chutě, ale i Louny a japonské město Susaki.",
       "containers": [
         {
@@ -746,7 +854,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-bridge-please-12/6517573",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.742",
+      "rating": "3.743",
       "description": "Gose je historický německý pivní styl známý svou lehce slanou a kyselou chutí. My jsme si ho vzali jako základ pro jedinečné mezinárodní dobrodružství. Společně s finským pivovarem Tuju který za námi dorazil osobně na vaření, jsme vytvořili pivo, které propojuje dvě pivní kultury – nejen nápadem, ale i chutí. \r\n\r\nDo receptury jsme zvolili suroviny, které jsou tradičně spojené s českou i finskou krajinou – finské brusinky, české i severské šípky a jalovec, který má v obou zemích silné kořeny v lidové gastronomii a bylinkářství. Společně tvoří chutě, které připomínají procházku podzimním lesem: jasná ovocná kyselost brusinek, jemná sladkokyselá hloubka šípků a bylinná, kořenitá linka jalovce. Vše završuje decentní minerální slanost, typická pro styl Gose. \r\n\r\nBridge Please tak není jen pivo – je to symbol spojení. Most mezi minulostí a současností, mezi Finskem a Českem, mezi tradičními surovinami a moderní kreativitou. A tenhle most fakt stojí za to přejít.",
       "containers": [
         {
@@ -772,7 +880,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-grl-pwr-exploration-12/6664747",
       "style": "Sour - Fruited",
       "abv": "5.1%",
-      "rating": "3.775",
+      "rating": "3.788",
       "description": "Na Mezinárodní den žen jsme v našem pivovaru uspořádali den pro holky se speciálním workshopem, kde si účastnice pod vedením sládkové Emy vyzkoušely tvorbu piva od té nejzábavnější části – kombinování chutí. \r\n\r\nPracovaly úplně stejným způsobem, jakým vznikají i naše běžná piva. Ochutnávaly, ladily a hledaly ideální rovnováhu mezi jednotlivými složkami. Výsledkem je kyseláč, ve kterém se potkávají maliny, limetka a meduňka. \r\n\r\nMaliny přinášejí šťavnatou ovocnost a příjemnou kyselinku, limetka dodává svěží citrusový říz a meduňka celé pivo zjemňuje a doplňuje lehce bylinným, uklidňujícím tónem. \r\n\r\nGRL PWR: Exploration je svěží, hravé a skvěle pitelné pivo, které v sobě nese nejen výraznou chuť, ale i zážitek ze společného tvoření. ",
       "containers": [
         {
@@ -798,7 +906,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-plum-and-ginger-and-cranberries/5170886",
       "style": "Sour - Fruited",
       "abv": "3.7%",
-      "rating": "3.731",
+      "rating": "3.728",
       "description": "Sour ALE, zvaný též kyseláč, je moderním pivním druhem kombinující klasické svrchní kvašení a fermentaci pomocí bakterií mléčného kvašení Lactobacillus plantarum. Charakter piva výrazně dotváří přidané ovoce (zhruba 10% objemu) a koření.\r\n\r\nZvolili jsme výborně doplňující se švestku s brusinkou a příjemně štiplavý zázvor.",
       "containers": [
         {
@@ -917,7 +1025,7 @@
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.394",
+      "rating": "3.392",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -1046,7 +1154,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.103",
+      "rating": "4.104",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1077,7 +1185,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.95",
+      "rating": "3.948",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1508,7 +1616,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.176",
+      "rating": "4.179",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1701,7 +1809,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "15",
-      "rating": "4.073",
+      "rating": "4.072",
       "description": "Brand new juicy double New England IPA. The beer is brewed with a lot of oats and wheat for a fluffy mouthfeel. Dry hopped in two stage with the new harvest of Peacharine and Nelson Sauvin from Freestyle Hops, together with Citra cryo and the flowable potent Hyperboost Krush. All the hops together will bring out flavors of peaches, grapes, bubblegum and some dankness.",
       "containers": [
         {
@@ -1718,7 +1826,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "15",
-      "rating": "4.084",
+      "rating": "4.083",
       "description": "New juicy and fluffy double New England IPA. Big juicy mouthfeel from the heavy oat and wheat load in the mash. The beer is dry hopped with the new harvest of Motueka and Nelson Sauvin from Freestyle Hops that will bring out massive tropical flavors like pineapple, lime",
       "containers": [
         {
@@ -1815,7 +1923,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-fwd-hbc-638/6451468",
       "style": "IPA - Other",
       "abv": "6.5%",
-      "rating": "4.139",
+      "rating": "4.138",
       "description": "A single hop beer brewed in collaboration with Yakima Chief Ranches and their FWD program. \r\n\r\nFWD was created as a two-way innovation channel, where products are trialed by the intended users (us the brewers) and feedback is collected and utilized (from YOU, the drinker), which safeguards the investment of farmer partners and provides brewers with tools to expand and evolve their products. Basically it's a hop research program and it's delicious and you get to try it before anyone else!\r\n\r\nThis FWD beer was dry hopped exclusively with a brand new, still unnamed hop, called HBC 638. Let us know what you think!",
       "containers": [
         {
@@ -1837,22 +1945,6 @@
         {
           "size": "0.5L Can",
           "price": "500.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Grandmother Gose",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
-      "style": "Sour - Fruited Gose",
-      "abv": "4.7%",
-      "rating": "3.532",
-      "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
-      "containers": [
-        {
-          "size": "0.33L Can",
-          "price": "115.00",
           "currency": "CZK"
         }
       ]
@@ -2104,7 +2196,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-1-passion-fruit-guava-raspberry/5230635",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.821",
+      "rating": "3.822",
       "description": "This beer is part of the big fruited gose series, Mumbo Jumbo. Every Mumbo Jumbo is made with heaps and heaps of fruit. This full-bodied, lightly sour and salty gose is brewed with passion fruit, guava and raspberry.",
       "containers": [
         {
@@ -2376,7 +2468,7 @@
       "url": "https://untappd.com/b/marlobobo-stevnsberry-2024/6365785",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.578",
+      "rating": "4.577",
       "description": "Stevnsbær, single variety cherry mead.\r\n\r\nThe Stevns variety is known for its small size, deep red/burgundy color and its distinctively complex flavor. It shouldn't be taken lightly that it has been named \"Nordic Grape\" by many.\r\n\r\nExpect a cherry forward, semi-sweet mead with a lingering finish of honey, cherries, and notes of almond, cinnamon and vanilla. The well integrated tannins from cherry skins and oak ties it all together.\r\n\r\n-------------------------- 2024 --------------------------\r\n\r\nThis vintage is a blend of two threads. One that has aged in stainless steel and one that has conditioned on oak staves for about 6 months, adding some extra volume, structure and vanilla notes to the final blend.\r\n\r\nHoney variety:\r\nWildflower from Konnerud\r\n\r\nCherry variety:\r\nStevnsbær from Svelvik\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
