@@ -1,6 +1,6 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-04-28T08:03:56.625Z",
+  "scrapedAt": "2026-04-29T07:58:16.361Z",
   "totalBeers": 134,
   "beers": [
     {
@@ -36,7 +36,7 @@
       "url": "https://untappd.com/b/drunken-bros-lou-memorial-series/5679508",
       "style": "IPA - Imperial / Double",
       "abv": "8.3%",
-      "rating": "3.822",
+      "rating": "3.824",
       "description": "Cascade, Columbus,Citra y Mosaic.",
       "containers": [
         {
@@ -62,7 +62,7 @@
       "url": "https://untappd.com/b/la-grua-free-late-checkout/6646943",
       "style": "IPA - Imperial / Double",
       "abv": "8%",
-      "rating": "3.676",
+      "rating": "3.683",
       "containers": [
         {
           "size": "0.2L",
@@ -88,7 +88,7 @@
       "style": "IPA - Rye",
       "abv": "6.7%",
       "ibu": "60",
-      "rating": "3.757",
+      "rating": "3.756",
       "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
       "containers": [
         {
@@ -221,7 +221,7 @@
       "url": "https://untappd.com/b/aben-hinoki/5766647",
       "style": "Lager - Japanese Rice",
       "abv": "5.1%",
-      "rating": "3.268",
+      "rating": "3.269",
       "description": "Our Japanese influenced rice lager is brewed using heaps of flaked rice and a decoction mash schedule to promote dryness.\r\nWe then hopped it with Mittelfruh throughout the boil and finished it with Loral in the whirlpool for softer notes of lemon, orange blossom and floral steamed rice.",
       "containers": [
         {
@@ -247,7 +247,7 @@
       "url": "https://untappd.com/b/aben-pine/5087892",
       "style": "Schwarzbier",
       "abv": "5.1%",
-      "rating": "3.291",
+      "rating": "3.292",
       "description": "Pine is the second lager in the Forest Tree series. With its dark and malty tones you can expect roast and malt depth with a touch of rauch smokiness.",
       "containers": [
         {
@@ -331,7 +331,7 @@
       "url": "https://untappd.com/b/drunken-bros-vicious/4737292",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "3.893",
+      "rating": "3.892",
       "description": "New England IPA\r\nGalaxy & Wai iti Hops\r\n\r\nColab wirh Attik ",
       "containers": [
         {
@@ -509,7 +509,7 @@
       "url": "https://untappd.com/b/o-o-brewing-50-50-strata-mosaic/6479820",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "3.802",
+      "rating": "3.803",
       "containers": [
         {
           "size": "0.2L",
@@ -561,27 +561,28 @@
       ]
     },
     {
-      "name": "36. Winter Affair Gossip: Firstep",
+      "name": "36. Juicy Lucy 15",
       "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-firstep/6617292",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666",
       "style": "IPA - New England / Hazy",
-      "abv": "7.5%",
-      "rating": "3.957",
-      "description": "V rámci série Winter Affair Gossip, kterou vaříme při příležitosti každoročního festivalu Winter Affair, jsme si se slovenským pivovarem Firstep zaexperimentovali za hranice klasických chmelených NEIPA. Výsledkem je Weed NEIPA, šťavnaté pivo s Citrou, Nelson Sauvininem a konopnými terpeny – voňavé, netradiční a nezapomenutelné.",
+      "abv": "6.5%",
+      "ibu": "50",
+      "rating": "3.859",
+      "description": "Juicy Lucy je první New England IPA, kterou jsme kdy u nás uvařili.  Od té doby jsme si tento styl zamilovali. Pro piva tohoto stylu je typické opravdu vysoké množství použitého aromatického chmele v pozdních fázích výroby, za účelem dosažení maximální ovocné vůně a chuti. A díky tomuto procesu je možné hořkost stále držet na uzdě. Dále se používají ovesné vločky, které zjemní strukturu těla. Pivo je pak krásně sametové a napohled lehce kalné. V chuti i vůni Juicy Lucy naleznete tóny žlutých melounů, zralého manga a broskví.\r\n\r\n\r\nJuicy Lucy is the first New England IPA, which we brewed in our brewery. Since that we fell in love with this beer style. It is characterized by very high amount of used aromatic hops in later phases of production, in order to achieve maximum fruity aroma and taste. And thanks to this process, it is possible to keep the bitterness under control. Oatmeal is also used to soften the structure of the body. The beer is then beautifully velvety and slightly slightly cloudy. In the taste and aroma of Juicy Lucy you will find tones of yellow melons, ripe mango and peaches.",
       "containers": [
         {
           "size": "0.2L",
-          "price": "80.00",
+          "price": "70.00",
           "currency": "CZK"
         },
         {
           "size": "0.4L",
-          "price": "130.00",
+          "price": "110.00",
           "currency": "CZK"
         },
         {
           "size": "Flights of 5/10",
-          "price": "60.00",
+          "price": "55.00",
           "currency": "CZK"
         }
       ]
@@ -592,7 +593,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-heart-quake-17/6680106",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "3.807",
+      "rating": "3.821",
       "description": "Heart Quake je dalším přírůstkem do naší série New Zealand NEIPA, ve které dáváme prostor moderním odrůdám z Nového Zélandu a jejich nezaměnitelnému projevu. \r\n\r\nTentokrát jsme sáhli po kombinaci chmelů Superdelic a Rakau. Superdelic přináší intenzivní tóny červeného ovoce, citrusů a tropického ovoce, zatímco Rakau dodává plnější, kulatější ovocný charakter s náznaky peckovin a jemnou citrusovou linkou. \r\n\r\nVýsledkem je šťavnatá, plná a aromaticky výrazná NEIPA, která staví na kombinaci citrusů, tropického ovoce a jemně sladší ovocnosti. ",
       "containers": [
         {
@@ -706,7 +707,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.151",
+      "rating": "4.148",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -727,7 +728,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "10%",
-      "rating": "4.121",
+      "rating": "4.123",
       "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
       "containers": [
         {
@@ -774,7 +775,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.187",
+      "rating": "4.19",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -821,7 +822,7 @@
       "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
       "style": "Sour - Fruited Gose",
       "abv": "4.7%",
-      "rating": "3.531",
+      "rating": "3.532",
       "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
       "containers": [
         {
@@ -878,7 +879,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-bridge-please-12/6517573",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.747",
+      "rating": "3.752",
       "description": "Gose je historický německý pivní styl známý svou lehce slanou a kyselou chutí. My jsme si ho vzali jako základ pro jedinečné mezinárodní dobrodružství. Společně s finským pivovarem Tuju který za námi dorazil osobně na vaření, jsme vytvořili pivo, které propojuje dvě pivní kultury – nejen nápadem, ale i chutí. \r\n\r\nDo receptury jsme zvolili suroviny, které jsou tradičně spojené s českou i finskou krajinou – finské brusinky, české i severské šípky a jalovec, který má v obou zemích silné kořeny v lidové gastronomii a bylinkářství. Společně tvoří chutě, které připomínají procházku podzimním lesem: jasná ovocná kyselost brusinek, jemná sladkokyselá hloubka šípků a bylinná, kořenitá linka jalovce. Vše završuje decentní minerální slanost, typická pro styl Gose. \r\n\r\nBridge Please tak není jen pivo – je to symbol spojení. Most mezi minulostí a současností, mezi Finskem a Českem, mezi tradičními surovinami a moderní kreativitou. A tenhle most fakt stojí za to přejít.",
       "containers": [
         {
@@ -904,7 +905,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cherry-alchemy-sour/6679956",
       "style": "Sour - Other",
       "abv": "5.1%",
-      "rating": "3.71",
+      "rating": "3.714",
       "description": "Cherry Alchemy je tak trochu experiment, který ale dopadl přesně podle našich představ. Spojili jsme višně, vanilku a kolový ořech – kombinaci, která může znít netradičně, ale ve výsledku dává překvapivě smysl. \r\n\r\nZáklad tvoří svěží sour ale, do kterého jsme přidali pořádnou dávku višní. Ty pivu dávají výraznou ovocnou linku s příjemnou kyselinkou. Vanilka pak všechno zjemňuje a zakulacuje, zatímco kolový ořech přidává lehce kořeněný, specifický charakter, který v kombinaci s višněmi evokuje známou cola chuť. \r\n\r\nVýsledkem je šťavnaté, hravé a skvěle pitelné pivo, které balancuje mezi kyselostí, ovocností a jemnou sladkostí. Přesně ten typ kousku, který vás překvapí a bude vás bavit od prvního do posledního doušku. ",
       "containers": [
         {
@@ -930,7 +931,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-drive-na-grepu-o/6666542",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.62",
+      "rating": "3.617",
       "description": "Drink And Drive Na Grepu vychází z naší klasické nealkoholické Hazy IPA, kterou jsme tentokrát propojili s nápadem z našeho APA Robin Na Grepu. Vzniklo tak spojení dvou světů – šťavnaté hazy textury a výrazné grapefruitové linky, kterou už znáte. \r\n\r\nZáklad tvoří chmely Riwaka a Citra Cryo. Ty samy o sobě přinášejí intenzivní citrusové aroma plné limetek a grepu. Přidáním grepových silic jsme tenhle charakter ještě zvýraznili a nasměrovali ho přímočaře jedním směrem – čistý, svěží grep s lehce nahořklým dozvukem. \r\n\r\nVýsledkem je výrazné, osvěžující nealko, které má plnou chuť, šťavnatý projev a přitom si drží méně než 0,5 % alkoholu.  ",
       "containers": [
         {
@@ -1168,7 +1169,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.267",
+      "rating": "4.268",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1183,7 +1184,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.952",
+      "rating": "3.955",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1614,7 +1615,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.167",
+      "rating": "4.166",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1630,7 +1631,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.171",
+      "rating": "4.174",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -2145,7 +2146,7 @@
       "url": "https://untappd.com/b/aben-stolen-quince-and-pear/6212456",
       "style": "Sour - Fruited",
       "abv": "4.5%",
-      "rating": "3.463",
+      "rating": "3.461",
       "description": "Stolen Quince & Pear is a tantalizing kettle-soured beer that brings together the irresistible sweetness of ripe quince and pear, with a smooth touch of vanilla. \r\n\r\nThe tart, refreshing sourness creates a perfect balance, allowing the fruit to shine while the vanilla adds a creamy finish. Part of the Stolen Fruit series, this brew captures the essence of forbidden indulgence.",
       "containers": [
         {
@@ -2193,7 +2194,7 @@
       "url": "https://untappd.com/b/marlobobo-s-megabear-blue-lava/6301023",
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
-      "rating": "4.074",
+      "rating": "4.075",
       "description": "Pulpy smoothie sour with blueberry, mango and banana.\r\n\r\nDreamt up by Marlobobo. Brewed for us by the best smoothie makers in the biz, Elmeleven❤️\r\n\r\nFlip the can a couple of times to mix up the smoothie before serving!",
       "containers": [
         {
@@ -2369,7 +2370,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-choco-orange-jelly-wheat-wine-2024/5971828",
       "style": "Wheat Beer - Wheat Wine",
       "abv": "11%",
-      "rating": "4.191",
+      "rating": "4.184",
       "description": "Cílem tohoto blendu tří pšeničných piv bylo napodobit slavné v čokoládě zalité vánoční gumové bonbóny. Po 30 měsících staření v dřevěných sudech jsme tedy přidali, pomeranče, pomorančovou kůru, kakaové boby a osladili javorovým sirupem. Výsledek je velmi zábavný a překvapivě pitelný. Dizajn etikety nám propůjčila teplická multidisciplinární umělkyně Hannah Saleh.\r\n\r\nThe aim of this blend of three wheat beers was to emulate the famous chocolate-covered Christmas gummies. So after 30 months of aging in wooden barrels, we added, oranges, orange peel, cocoa beans and sweetened with maple syrup. The result is very fun and surprisingly drinkable. The label design was lent to us by the Teplice-based multidisciplinary artist Hannah Saleh.",
       "containers": [
         {
