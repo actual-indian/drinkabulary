@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-02T07:18:21.058Z",
-  "totalBeers": 135,
+  "scrapedAt": "2026-05-03T07:45:59.784Z",
+  "totalBeers": 134,
   "beers": [
     {
       "name": "6. Poor Exchange Rate",
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-poor-exchange-rate/5697074",
       "style": "Pilsner - German",
       "abv": "5.5%",
-      "rating": "3.495",
+      "rating": "3.494",
       "description": "Poor Exchange Rate is a collaboration with our friends from Mikkeller. We brewed a german style pilsner with Saaz, Tettnanger and Mittelfruth. The malty sweetness of the beer is balanced a complex and vibrant aroma of the noble hops. Enjoy with good friends.",
       "containers": [
         {
@@ -114,7 +114,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-1984-baltic-porter/5348149",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "10.6%",
-      "rating": "3.795",
+      "rating": "3.796",
       "description": "1984 is a baltic porter brewed with The Garden Brewery. The name is a tribute to a great literary work and is obviously in no way a comment on how hard it is for Norwegian breweries to communicate online.",
       "containers": [
         {
@@ -140,7 +140,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-amargeddon/6581587",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.996",
+      "rating": "3.989",
       "description": "AMARgeddon, a bond forged in malt.\r\nSome friendships are measured in years; ours is measured in shared brews. For this reunion with our dear friends at Amager (pronounced \"Amar\" just like this beer) we have created Amargeddon. This 12% imperial stout is a tribute to our shared history, brewed with Norwegian forest honey and tucked away for 14 months in aquavit barrels.",
       "containers": [
         {
@@ -152,6 +152,11 @@
           "size": "Flights of 5/10",
           "price": "220.00",
           "currency": "CZK"
+        },
+        {
+          "size": "0.33L Can",
+          "price": "420.00",
+          "currency": "CZK"
         }
       ]
     },
@@ -162,7 +167,7 @@
       "style": "Wheat Beer - Witbier / Blanche",
       "abv": "4.3%",
       "ibu": "11",
-      "rating": "3.273",
+      "rating": "3.271",
       "description": "Světlá barva, typická chuť a vůně piva vařeného z pšeničného sladu, doplněná přídavkem pomerančové kůry a koriandru. Přirozeně zakalené díky zbylým kvasnicím, lehce chmelené žateckým chmele.",
       "containers": [
         {
@@ -183,38 +188,13 @@
       ]
     },
     {
-      "name": "10. Free Late Checkout",
-      "brewery": "La Grúa",
-      "url": "https://untappd.com/b/la-grua-free-late-checkout/6646943",
-      "style": "IPA - Imperial / Double",
-      "abv": "8%",
-      "rating": "3.713",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "150.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "240.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "115.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "12. Galerna",
       "brewery": "La Grúa",
       "url": "https://untappd.com/b/la-grua-galerna/1281308",
       "style": "IPA - Rye",
       "abv": "6.7%",
       "ibu": "60",
-      "rating": "3.757",
+      "rating": "3.756",
       "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
       "containers": [
         {
@@ -374,7 +354,7 @@
       "url": "https://untappd.com/b/aben-hinoki/5766647",
       "style": "Lager - Japanese Rice",
       "abv": "5.1%",
-      "rating": "3.271",
+      "rating": "3.272",
       "description": "Our Japanese influenced rice lager is brewed using heaps of flaked rice and a decoction mash schedule to promote dryness.\r\nWe then hopped it with Mittelfruh throughout the boil and finished it with Loral in the whirlpool for softer notes of lemon, orange blossom and floral steamed rice.",
       "containers": [
         {
@@ -432,7 +412,7 @@
       "url": "https://untappd.com/b/drunken-bros-qvittoq/6256724",
       "style": "IPA - New England / Hazy",
       "abv": "6.3%",
-      "rating": "3.826",
+      "rating": "3.827",
       "description": "Neipa con Motueka, Mosaic, Riwaka y Citra.\r\nColaboración con Hjört, de Dinamarca.",
       "containers": [
         {
@@ -562,7 +542,7 @@
       "url": "https://untappd.com/b/laugar-brewery-hackertzale/6600432",
       "style": "IPA - New England / Hazy",
       "abv": "6.2%",
-      "rating": "3.766",
+      "rating": "3.736",
       "description": "Hazy IPA w/ Mosaic, Simcoe, Krush, Ariana and Monroe hops",
       "containers": [
         {
@@ -588,7 +568,7 @@
       "url": "https://untappd.com/b/laugar-brewery-into-the-void/6665608",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
-      "rating": "3.757",
+      "rating": "3.768",
       "description": "Hazy DIPA w/ Citra, Mosaic, Ariana and Lilly hops",
       "containers": [
         {
@@ -604,65 +584,12 @@
       ]
     },
     {
-      "name": "36. Juicy Lucy 15",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666",
-      "style": "IPA - New England / Hazy",
-      "abv": "6.5%",
-      "ibu": "50",
-      "rating": "3.859",
-      "description": "Juicy Lucy je první New England IPA, kterou jsme kdy u nás uvařili.  Od té doby jsme si tento styl zamilovali. Pro piva tohoto stylu je typické opravdu vysoké množství použitého aromatického chmele v pozdních fázích výroby, za účelem dosažení maximální ovocné vůně a chuti. A díky tomuto procesu je možné hořkost stále držet na uzdě. Dále se používají ovesné vločky, které zjemní strukturu těla. Pivo je pak krásně sametové a napohled lehce kalné. V chuti i vůni Juicy Lucy naleznete tóny žlutých melounů, zralého manga a broskví.\r\n\r\n\r\nJuicy Lucy is the first New England IPA, which we brewed in our brewery. Since that we fell in love with this beer style. It is characterized by very high amount of used aromatic hops in later phases of production, in order to achieve maximum fruity aroma and taste. And thanks to this process, it is possible to keep the bitterness under control. Oatmeal is also used to soften the structure of the body. The beer is then beautifully velvety and slightly slightly cloudy. In the taste and aroma of Juicy Lucy you will find tones of yellow melons, ripe mango and peaches.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "70.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "55.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "37. Heart Quake 17",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-heart-quake-17/6680106",
-      "style": "IPA - New England / Hazy",
-      "abv": "7%",
-      "rating": "3.958",
-      "description": "Heart Quake je dalším přírůstkem do naší série New Zealand NEIPA, ve které dáváme prostor moderním odrůdám z Nového Zélandu a jejich nezaměnitelnému projevu. \r\n\r\nTentokrát jsme sáhli po kombinaci chmelů Superdelic a Rakau. Superdelic přináší intenzivní tóny červeného ovoce, citrusů a tropického ovoce, zatímco Rakau dodává plnější, kulatější ovocný charakter s náznaky peckovin a jemnou citrusovou linkou. \r\n\r\nVýsledkem je šťavnatá, plná a aromaticky výrazná NEIPA, která staví na kombinaci citrusů, tropického ovoce a jemně sladší ovocnosti. ",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "40.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "75.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "1. NIMBUS",
       "brewery": "Laugar Brewery",
       "url": "https://untappd.com/b/laugar-brewery-nimbus/6496967",
       "style": "Stout - Russian Imperial",
       "abv": "11.3%",
-      "rating": "3.898",
+      "rating": "3.9",
       "description": "Imperial stout with marshmallows",
       "containers": [
         {
@@ -683,7 +610,7 @@
       "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
       "style": "Stout - Imperial / Double",
       "abv": "10.7%",
-      "rating": "3.951",
+      "rating": "3.948",
       "description": "Imperial Stout Speculoos & Cocoa",
       "containers": [
         {
@@ -704,7 +631,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.148",
+      "rating": "4.152",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -725,7 +652,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "10%",
-      "rating": "4.117",
+      "rating": "4.116",
       "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
       "containers": [
         {
@@ -746,7 +673,7 @@
       "url": "https://untappd.com/b/brewski-night-pusher/6548627",
       "style": "Stout - American",
       "abv": "10%",
-      "rating": "3.685",
+      "rating": "3.691",
       "description": "American imperial stout",
       "containers": [
         {
@@ -772,7 +699,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.191",
+      "rating": "4.196",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -850,7 +777,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-kren/6576572",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.549",
+      "rating": "3.55",
       "description": "Křen je pivo, které si nebere servítky. Stylově vychází z německého gose, ale chuťově jde úplně vlastní cestou. Do základu jsme přidali pořádnou dávku čerstvého křenu, který přináší ostrou štiplavost, svěžest a nepřehlédnutelný charakter. Doplnili jsme ho špetkou čerstvého kopru, který pivu přidává lehce bylinný tón a spolu s typickou slaností tvoří překvapivě vyvážený a chuťově vrstevnatý celek. Kyselost drží vše hezky pohromadě a dává pivu osvěžující říz. Výsledek? Pivo jako křen. Osvěžující, výrazné, hravé – ideální pro všechny, kdo se nebojí vybočit ze zajetých pivních kolejí.",
       "containers": [
         {
@@ -876,7 +803,7 @@
       "url": "https://untappd.com/b/chroust-bengalsky-tygr/6524870",
       "style": "Sour - Fruited Gose",
       "abv": "4.8%",
-      "rating": "3.817",
+      "rating": "3.813",
       "description": " Mango, Pineapple, Smoked Salt, Bergamot, Turmenic and Kampot Pepper Gose 12°\r\n\r\nExotický kyseláč inspirovaný chutěmi Indie, pojmenovaný po bengálském tygrovi, králi tamních džunglí. Ve vůni dominuje šťavnatý ananas doplněný jemným nádechem bergamotu. Kurkuma propůjčuje pivu sytě zlatou, až tygří barvu a podporuje jeho kořeněný charakter.V chuti se projevuje mango a svěží slanost typická pro Gose, která nechává vyniknout ovocné složce. Závěr pak ovládá hřejivý kampotský pepř, který přináší jemně pikantní a dlouhou dochuť. Výsledkem je exotické, vrstevnaté a pořádně divoké Gose.",
       "containers": [
         {
@@ -902,7 +829,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cherry-alchemy-sour/6679956",
       "style": "Sour - Other",
       "abv": "5.1%",
-      "rating": "3.762",
+      "rating": "3.752",
       "description": "Cherry Alchemy je tak trochu experiment, který ale dopadl přesně podle našich představ. Spojili jsme višně, vanilku a kolový ořech – kombinaci, která může znít netradičně, ale ve výsledku dává překvapivě smysl. \r\n\r\nZáklad tvoří svěží sour ale, do kterého jsme přidali pořádnou dávku višní. Ty pivu dávají výraznou ovocnou linku s příjemnou kyselinkou. Vanilka pak všechno zjemňuje a zakulacuje, zatímco kolový ořech přidává lehce kořeněný, specifický charakter, který v kombinaci s višněmi evokuje známou cola chuť. \r\n\r\nVýsledkem je šťavnaté, hravé a skvěle pitelné pivo, které balancuje mezi kyselostí, ovocností a jemnou sladkostí. Přesně ten typ kousku, který vás překvapí a bude vás bavit od prvního do posledního doušku. ",
       "containers": [
         {
@@ -954,7 +881,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.373",
+      "rating": "3.375",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -980,7 +907,7 @@
       "url": "https://untappd.com/b/marlobobo-confused-interfusion-2022/5716190",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.398",
+      "rating": "4.399",
       "description": "Blend of wildberry mead and bourbon barrel-aged barley wine and imperial stout.\r\n\r\nA caramel-forward braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a wildberry mead with a bourbon barrel-aged barley wine and imperial stout (Golden Tears). The beers added heavy caramel notes, dried fruit and light notes of vanilla to the mead. Making it very barley wine-esque in the flavor profile, while still primarily being a mead. \r\n\r\nThe combination of light roast from the stout and acidity from the fruit, makes the caramel notes from the barley wine feel almost salty and savory.\r\n\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -1012,16 +939,17 @@
       ]
     },
     {
-      "name": "Drink And Buď! Fuck Cancer",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
-      "style": "Non-Alcoholic - Sour",
-      "rating": "3.39",
-      "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
+      "name": "Handsfree Alcohol Free IPA",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
+      "style": "Non-Alcoholic - IPA",
+      "abv": "0.5%",
+      "rating": "3.234",
+      "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
-          "size": "0.5L Can",
-          "price": "130.00",
+          "size": "0.33L Can",
+          "price": "90.00",
           "currency": "CZK"
         }
       ]
@@ -1049,7 +977,7 @@
       "url": "https://untappd.com/b/to-ol-fresh-hop-beer/6449081",
       "style": "Lager - Other",
       "abv": "4.8%",
-      "rating": "3.499",
+      "rating": "3.498",
       "containers": [
         {
           "size": "0.44L Can",
@@ -1091,13 +1019,45 @@
       ]
     },
     {
+      "name": "Humlesus LITE",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-humlesus-lite/6137098",
+      "style": "Pale Ale - Other",
+      "abv": "4.3%",
+      "rating": "3.159",
+      "description": "Humlesus Lite er en Glutenfri, lys, leskende og lettdrikkelig pale ale. Med et sus av tropiske frukter og en snert av forfriskende bitterhet. Ølet har 30% færre kalorier og 70% færre karbohydrater enn klassisk Humlesus. Den avstemte bitterheten og den humledrevne aromaen gjør det til et godt valg til pizza og varianter av taco. Serveres på 2-5 grader.",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "If ÅBEN & Lervig Made A Stout...",
+      "brewery": "ÅBEN",
+      "url": "https://untappd.com/b/aben-if-aben-and-lervig-made-a-stout/6433262",
+      "style": "Stout - Imperial / Double",
+      "abv": "12%",
+      "rating": "3.921",
+      "description": "If ÅBEN and Lervig Made A Double Mashed Stout, this would be it. Deep black, thick and rich with layers of coffee, cacao and vanilla, topped with an espresso-like foam. Brewed together with friends from Lervig.",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "240.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "Tuotsnav",
       "brewery": "Brewski",
       "url": "https://untappd.com/b/brewski-tuotsnav/5689591",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
       "ibu": "65",
-      "rating": "3.98",
+      "rating": "3.981",
       "description": "Stout with vanilla beans.",
       "containers": [
         {
@@ -1113,7 +1073,7 @@
       "url": "https://untappd.com/b/brewski-blacpac/5717959",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "10.5%",
-      "rating": "4.036",
+      "rating": "4.037",
       "description": "Imperial Stout with liquorice and vanilla.",
       "containers": [
         {
@@ -1156,63 +1116,16 @@
       ]
     },
     {
-      "name": "Coconut Vanilla Cocoa Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
-      "style": "Stout - Imperial / Double",
-      "abv": "13.5%",
-      "rating": "4.268",
-      "containers": [
-        {
-          "size": "0.375L Bottle",
-          "price": "400.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Coco Noir 20",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
-      "style": "Stout - Imperial / Double Oatmeal",
-      "abv": "9%",
-      "rating": "3.948",
-      "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
-      "containers": [
-        {
-          "size": "0.5L Can",
-          "price": "155.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Sounds Good BA 2022",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-sounds-good-ba-2022/4959025",
-      "style": "Stout - Imperial / Double",
-      "abv": "15.4%",
-      "rating": "4.298",
-      "description": "A beer that tastes even better than it sounds. Our barrel aged Imperial stout we made in collaboration with the talented people across the pond, Fuerst Wiacek. Aged in Bourbon barrels for 13 months, with additions of pecan nuts, cacao nibs, vanilla, and cinnamon.",
-      "containers": [
-        {
-          "size": "37.5cl Bottle ",
-          "price": "350.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "DREAMTHIEF",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
+      "name": "Black & Deep ",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-black-and-deep/1254820",
       "style": "Stout - Russian Imperial",
-      "abv": "11%",
-      "rating": "4.071",
-      "description": "Imperial stout aged in Bourbon whisky barrels",
+      "abv": "11.3%",
+      "rating": "4.121",
+      "description": "Ultima edición 2022.\r\nRussian Imperial Stout con café de Colombia y envejecida con astillas de barrica de Whisky escocés.\r\nIlustración Antonio Bravo.\r\n\r\n",
       "containers": [
         {
-          "size": "0.33L",
+          "size": "44cl Can",
           "price": "250.00",
           "currency": "CZK"
         }
@@ -1224,7 +1137,7 @@
       "url": "https://untappd.com/b/goose-island-beer-co-big-news-2025/6504795",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "14.4%",
-      "rating": "4.306",
+      "rating": "4.295",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -1266,247 +1179,6 @@
       ]
     },
     {
-      "name": "Cocoa Vanilla Deth",
-      "brewery": "Revolution Brewing",
-      "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
-      "style": "Stout - Imperial / Double",
-      "abv": "13.3%",
-      "rating": "4.33",
-      "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
-      "containers": [
-        {
-          "size": "0,55L",
-          "price": "1447.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Arctos Imperial Stout 2022 Bourbon Barrel Aged",
-      "brewery": "O/O Brewing ",
-      "url": "https://untappd.com/b/o-o-brewing-arctos-imperial-stout-2022-bourbon-barrel-aged/6088835",
-      "style": "Stout - Imperial / Double",
-      "abv": "12.5%",
-      "rating": "4.357",
-      "containers": [
-        {
-          "size": "33cl Bottle",
-          "price": "420.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Arctos Imperial Stout 2022",
-      "brewery": "O/O Brewing ",
-      "url": "https://untappd.com/b/o-o-brewing-arctos-imperial-stout-2022/5551772",
-      "style": "Stout - Imperial / Double",
-      "abv": "10%",
-      "rating": "4.044",
-      "containers": [
-        {
-          "size": "33cl Bottle",
-          "price": "226.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Anniversary Baltic Porter (2021)",
-      "brewery": "O/O Brewing ",
-      "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2021/4172935",
-      "style": "Porter - Imperial / Double Baltic",
-      "abv": "11.3%",
-      "ibu": "55",
-      "rating": "4.01",
-      "containers": [
-        {
-          "size": "33cl Bottle",
-          "price": "226.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Paragon 2022 By Rackhouse",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-paragon-2022-by-rackhouse/5579205",
-      "style": "Barleywine - Other",
-      "abv": "14.4%",
-      "rating": "4.282",
-      "description": "Paragon 2022 brings together bourbon barrel-aged barley wine and masterfully expresses notes of dried figs, raisins, and vanilla, complemented by caramel, toffee, and chocolate notes from the malt. The result is a symphony of flavors that envelops your palate, disguising the alcohol content with finesse. It’s a testament to our dedication to the old style and the artistry of brewing, encapsulated in every bottle.",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "670.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Paragon 2021 By Rackhouse",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-paragon-2021-by-rackhouse/5072941",
-      "style": "Barleywine - Other",
-      "abv": "13.8%",
-      "rating": "4.236",
-      "description": "BARLEY WINE AGED IN BOURBON BARRELS FOR 18 months\r\n\r\nParagon 2021 showcases our patient and considered approach to tending nearly 60 different bourbon barrels for over 12 months. This edition of our distinguished barley wine displays strong notes of caramel and oak-ageing with hints of tabacco, fruit cake and vanilla. The finish is distinctly bourbon forward and complex with a balanced bitterness and perceived sweetness that gives way to a warming sensation from the 13.8% alcohol.",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "670.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Midnight Snack",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-midnight-snack/6456575",
-      "style": "Stout - Imperial / Double Pastry",
-      "abv": "11%",
-      "rating": "4.15",
-      "description": "Because self-control is overrated. Midnight Snack is a rich, velvety dessert stout loaded with chocolate, caramel, and a big hit of peanut butter. It’s thick, sweet, and unapologetically over the top — like raiding the cupboard after hours and finding everything you ever wanted in one sip.",
-      "containers": [
-        {
-          "size": "330ml Can",
-          "price": "195.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Trouble Maker",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
-      "style": "Stout - Imperial / Double Pastry",
-      "abv": "11%",
-      "rating": "4.115",
-      "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
-      "containers": [
-        {
-          "size": "330ml Can",
-          "price": "195.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Sweet Tooth",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
-      "style": "Stout - Imperial / Double Pastry",
-      "abv": "11%",
-      "rating": "4.106",
-      "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
-      "containers": [
-        {
-          "size": "330ml Can",
-          "price": "195.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "AUPA TOVARISCH",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-aupa-tovarisch/353348",
-      "style": "Stout - Russian Imperial",
-      "abv": "12%",
-      "ibu": "92",
-      "rating": "4.057",
-      "description": "Una cerveza que no olvidarás, una vez la pruebes soñarás con enrolarte en el oscuro ejército tovarisch. De profundo color negro opaco de cuerpo medio alto y cremoso. Marcado aroma tostado y torrefacto que se envuelve en toques licorosos y de frutos secos. Contundente y compleja en sabor con predominio de notas a café y chocolate con un amargor ligero y sutil en retrogusto.",
-      "containers": [
-        {
-          "size": "0.33L Bottle",
-          "price": "170.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "BASATIA",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-basatia/1885751",
-      "style": "Stout - Imperial / Double",
-      "abv": "8%",
-      "ibu": "35",
-      "rating": "3.75",
-      "description": "Su carácter salvaje se debe a su gran cuerpo y cremosidad, Pásate al lado oscuro con esta bestialidad deliciosa llena de sabores a chocolate negro y café tostado.",
-      "containers": [
-        {
-          "size": "0.33L Bottle",
-          "price": "130.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Konrad’s Stout",
-      "brewery": "LERVIG",
-      "url": "https://untappd.com/b/lervig-konrad-s-stout/65947",
-      "style": "Stout - Russian Imperial",
-      "abv": "10.4%",
-      "ibu": "70",
-      "rating": "3.851",
-      "description": "A Scandinavian inspired Imperial Stout. Konrad’s is a smooth, supple stout with lots of chocolate and coffee flavor with a touch of licorice. At 70IBU there is more than enough bitterness to balance out the sweetness. ",
-      "containers": [
-        {
-          "size": "33cl Can",
-          "price": "140.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "The Space Between the Stars",
-      "brewery": "HaandBryggeriet",
-      "url": "https://untappd.com/b/haandbryggeriet-the-space-between-the-stars/5669814",
-      "style": "Stout - Imperial / Double",
-      "abv": "14%",
-      "rating": "4.152",
-      "description": "A refined  blend of 3 year old Bourbon Barrel aged stout (70%) and three year old Bourbon barrel aged barley wine (30%). The space between the stars refers to the interstellar space between star systems and their atmoshpheres  in a galaxy, and not the intergalactic void.",
-      "containers": [
-        {
-          "size": "33cl Can",
-          "price": "395.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Dark Inception Tairora Edition",
-      "brewery": "HaandBryggeriet",
-      "url": "https://untappd.com/b/haandbryggeriet-dark-inception-taiora-edition/5128527",
-      "style": "Stout - Imperial / Double Coffee",
-      "abv": "16%",
-      "rating": "4.194",
-      "description": "Dark Inception is a Tairora coffee variant of our barrel aged stout Epilogue. The coffee was roasted by our friends Solberg & Hansen.",
-      "containers": [
-        {
-          "size": "33cl Can",
-          "price": "395.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Black & Deep ",
-      "brewery": "Drunken Bros",
-      "url": "https://untappd.com/b/drunken-bros-black-and-deep/1254820",
-      "style": "Stout - Russian Imperial",
-      "abv": "11.3%",
-      "rating": "4.121",
-      "description": "Ultima edición 2022.\r\nRussian Imperial Stout con café de Colombia y envejecida con astillas de barrica de Whisky escocés.\r\nIlustración Antonio Bravo.\r\n\r\n",
-      "containers": [
-        {
-          "size": "44cl Can",
-          "price": "250.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Black Canvas",
       "brewery": "HaandBryggeriet",
       "url": "https://untappd.com/b/haandbryggeriet-black-canvas/5910719",
@@ -1514,22 +1186,6 @@
       "abv": "6%",
       "rating": "3.737",
       "description": "Black Canvas is an American style porter. The dark malts gives the beer a complex aroma of chocolate, toffees and coffee. Pairs well with BBQ and chocolate desserts.",
-      "containers": [
-        {
-          "size": "0.44L Can",
-          "price": "240.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "If ÅBEN & Lervig Made A Stout...",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-if-aben-and-lervig-made-a-stout/6433262",
-      "style": "Stout - Imperial / Double",
-      "abv": "12%",
-      "rating": "3.92",
-      "description": "If ÅBEN and Lervig Made A Double Mashed Stout, this would be it. Deep black, thick and rich with layers of coffee, cacao and vanilla, topped with an espresso-like foam. Brewed together with friends from Lervig.",
       "containers": [
         {
           "size": "0.44L Can",
@@ -1555,48 +1211,290 @@
       ]
     },
     {
-      "name": "Double Dip BA 2023",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-double-dip-ba-2023/5673536",
-      "style": "Stout - Imperial / Double Pastry",
-      "abv": "13.5%",
-      "ibu": "20",
-      "rating": "4.266",
-      "description": "This beer is a blend of 3 different base beers, using some of the ingredients from Mash Test Yummies. It was a case of having some wood barrels available and some spare beer to trial together and see how it came out after a year of aging. We hope you'll agree that it worked out very nicely!",
+      "name": "Dark Inception Tairora Edition",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-dark-inception-taiora-edition/5128527",
+      "style": "Stout - Imperial / Double Coffee",
+      "abv": "16%",
+      "rating": "4.194",
+      "description": "Dark Inception is a Tairora coffee variant of our barrel aged stout Epilogue. The coffee was roasted by our friends Solberg & Hansen.",
+      "containers": [
+        {
+          "size": "33cl Can",
+          "price": "395.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "The Space Between the Stars",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-the-space-between-the-stars/5669814",
+      "style": "Stout - Imperial / Double",
+      "abv": "14%",
+      "rating": "4.153",
+      "description": "A refined  blend of 3 year old Bourbon Barrel aged stout (70%) and three year old Bourbon barrel aged barley wine (30%). The space between the stars refers to the interstellar space between star systems and their atmoshpheres  in a galaxy, and not the intergalactic void.",
+      "containers": [
+        {
+          "size": "33cl Can",
+          "price": "395.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Dark Inception #3 Salty Caramel Edition",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-dark-inception-3-salty-caramel-edition/5669764",
+      "style": "Stout - Imperial / Double Coffee",
+      "abv": "12%",
+      "rating": "4.018",
+      "description": "Dark Inception 3 salty caramel edition, is a bourbon barrel aged stout with salty caramel, and coffee from the Varghese family farm in the south of India. The coffee adds flavour to an already complex aroma with notes of salty caramel, chocolate, cocoa, and molasses.",
+      "containers": [
+        {
+          "size": "0.33L Can",
+          "price": "480.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Dark Inception #4 Espresso Edition",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-dark-inception-4/6254625",
+      "style": "Stout - Imperial / Double Coffee",
+      "abv": "12.5%",
+      "rating": "3.901",
+      "description": "Dark Inception 4 is a bourbon barrel-aged espresso stout.",
+      "containers": [
+        {
+          "size": "0.33L Can",
+          "price": "480.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "BASATIA",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-basatia/1885751",
+      "style": "Stout - Imperial / Double",
+      "abv": "8%",
+      "ibu": "35",
+      "rating": "3.75",
+      "description": "Su carácter salvaje se debe a su gran cuerpo y cremosidad, Pásate al lado oscuro con esta bestialidad deliciosa llena de sabores a chocolate negro y café tostado.",
       "containers": [
         {
           "size": "0.33L Bottle",
-          "price": "270.00",
+          "price": "130.00",
           "currency": "CZK"
         }
       ]
     },
     {
-      "name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
-      "style": "Stout - Imperial / Double Pastry",
-      "abv": "13.5%",
-      "rating": "3.944",
+      "name": "AUPA TOVARISCH",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-aupa-tovarisch/353348",
+      "style": "Stout - Russian Imperial",
+      "abv": "12%",
+      "ibu": "92",
+      "rating": "4.057",
+      "description": "Una cerveza que no olvidarás, una vez la pruebes soñarás con enrolarte en el oscuro ejército tovarisch. De profundo color negro opaco de cuerpo medio alto y cremoso. Marcado aroma tostado y torrefacto que se envuelve en toques licorosos y de frutos secos. Contundente y compleja en sabor con predominio de notas a café y chocolate con un amargor ligero y sutil en retrogusto.",
       "containers": [
         {
-          "size": "0.375L Bottle",
-          "price": "400.00",
+          "size": "0.33L Bottle",
+          "price": "170.00",
           "currency": "CZK"
         }
       ]
     },
     {
-      "name": "Mexican Hot Chocolate BA Imperial Stout (2022)",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-mexican-hot-chocolate-ba-imperial-stout-2022/4931662",
-      "style": "Stout - Imperial / Double",
+      "name": "DREAMTHIEF",
+      "brewery": "Laugar Brewery",
+      "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
+      "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.066",
+      "rating": "4.07",
+      "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
-          "size": "0.375L Bottle",
-          "price": "410.00",
+          "size": "0.33L",
+          "price": "250.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Konrad’s Stout",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-konrad-s-stout/65947",
+      "style": "Stout - Russian Imperial",
+      "abv": "10.4%",
+      "ibu": "70",
+      "rating": "3.851",
+      "description": "A Scandinavian inspired Imperial Stout. Konrad’s is a smooth, supple stout with lots of chocolate and coffee flavor with a touch of licorice. At 70IBU there is more than enough bitterness to balance out the sweetness. ",
+      "containers": [
+        {
+          "size": "33cl Can",
+          "price": "140.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Tooth",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
+      "style": "Stout - Imperial / Double Pastry",
+      "abv": "11%",
+      "rating": "4.107",
+      "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
+      "containers": [
+        {
+          "size": "330ml Can",
+          "price": "195.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Trouble Maker",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
+      "style": "Stout - Imperial / Double Pastry",
+      "abv": "11%",
+      "rating": "4.116",
+      "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
+      "containers": [
+        {
+          "size": "330ml Can",
+          "price": "195.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Snack",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-midnight-snack/6456575",
+      "style": "Stout - Imperial / Double Pastry",
+      "abv": "11%",
+      "rating": "4.151",
+      "description": "Because self-control is overrated. Midnight Snack is a rich, velvety dessert stout loaded with chocolate, caramel, and a big hit of peanut butter. It’s thick, sweet, and unapologetically over the top — like raiding the cupboard after hours and finding everything you ever wanted in one sip.",
+      "containers": [
+        {
+          "size": "330ml Can",
+          "price": "195.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Paragon 2021 By Rackhouse",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-paragon-2021-by-rackhouse/5072941",
+      "style": "Barleywine - Other",
+      "abv": "13.8%",
+      "rating": "4.236",
+      "description": "BARLEY WINE AGED IN BOURBON BARRELS FOR 18 months\r\n\r\nParagon 2021 showcases our patient and considered approach to tending nearly 60 different bourbon barrels for over 12 months. This edition of our distinguished barley wine displays strong notes of caramel and oak-ageing with hints of tabacco, fruit cake and vanilla. The finish is distinctly bourbon forward and complex with a balanced bitterness and perceived sweetness that gives way to a warming sensation from the 13.8% alcohol.",
+      "containers": [
+        {
+          "size": "375ml Bottle",
+          "price": "670.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Paragon 2022 By Rackhouse",
+      "brewery": "LERVIG",
+      "url": "https://untappd.com/b/lervig-paragon-2022-by-rackhouse/5579205",
+      "style": "Barleywine - Other",
+      "abv": "14.4%",
+      "rating": "4.282",
+      "description": "Paragon 2022 brings together bourbon barrel-aged barley wine and masterfully expresses notes of dried figs, raisins, and vanilla, complemented by caramel, toffee, and chocolate notes from the malt. The result is a symphony of flavors that envelops your palate, disguising the alcohol content with finesse. It’s a testament to our dedication to the old style and the artistry of brewing, encapsulated in every bottle.",
+      "containers": [
+        {
+          "size": "375ml Bottle",
+          "price": "670.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Anniversary Baltic Porter (2021)",
+      "brewery": "O/O Brewing ",
+      "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2021/4172935",
+      "style": "Porter - Imperial / Double Baltic",
+      "abv": "11.3%",
+      "ibu": "55",
+      "rating": "4.01",
+      "containers": [
+        {
+          "size": "33cl Bottle",
+          "price": "226.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Arctos Imperial Stout 2022",
+      "brewery": "O/O Brewing ",
+      "url": "https://untappd.com/b/o-o-brewing-arctos-imperial-stout-2022/5551772",
+      "style": "Stout - Imperial / Double",
+      "abv": "10%",
+      "rating": "4.042",
+      "containers": [
+        {
+          "size": "33cl Bottle",
+          "price": "226.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Arctos Imperial Stout 2022 Bourbon Barrel Aged",
+      "brewery": "O/O Brewing ",
+      "url": "https://untappd.com/b/o-o-brewing-arctos-imperial-stout-2022-bourbon-barrel-aged/6088835",
+      "style": "Stout - Imperial / Double",
+      "abv": "12.5%",
+      "rating": "4.356",
+      "containers": [
+        {
+          "size": "33cl Bottle",
+          "price": "420.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Cocoa Vanilla Deth",
+      "brewery": "Revolution Brewing",
+      "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
+      "style": "Stout - Imperial / Double",
+      "abv": "13.3%",
+      "rating": "4.328",
+      "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
+      "containers": [
+        {
+          "size": "0,55L",
+          "price": "1447.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Coco Noir 20",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
+      "style": "Stout - Imperial / Double Oatmeal",
+      "abv": "9%",
+      "rating": "3.947",
+      "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
+      "containers": [
+        {
+          "size": "0.5L Can",
+          "price": "155.00",
           "currency": "CZK"
         }
       ]
@@ -1618,12 +1516,12 @@
       ]
     },
     {
-      "name": "Mexican Hot Chocolate Stout 2025",
+      "name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
       "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
-      "abv": "14.5%",
-      "rating": "4.175",
+      "abv": "13.5%",
+      "rating": "3.944",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1648,17 +1546,79 @@
       ]
     },
     {
-      "name": "Dark Inception #3 Salty Caramel Edition",
-      "brewery": "HaandBryggeriet",
-      "url": "https://untappd.com/b/haandbryggeriet-dark-inception-3-salty-caramel-edition/5669764",
-      "style": "Stout - Imperial / Double Coffee",
-      "abv": "12%",
-      "rating": "4.018",
-      "description": "Dark Inception 3 salty caramel edition, is a bourbon barrel aged stout with salty caramel, and coffee from the Varghese family farm in the south of India. The coffee adds flavour to an already complex aroma with notes of salty caramel, chocolate, cocoa, and molasses.",
+      "name": "Coconut Vanilla Cocoa Stout 2025",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
+      "style": "Stout - Imperial / Double",
+      "abv": "13.5%",
+      "rating": "4.269",
       "containers": [
         {
-          "size": "0.33L Can",
-          "price": "480.00",
+          "size": "0.375L Bottle",
+          "price": "400.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Mexican Hot Chocolate Stout 2025",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
+      "style": "Stout - Imperial / Double Pastry",
+      "abv": "14.5%",
+      "rating": "4.177",
+      "containers": [
+        {
+          "size": "0.375L Bottle",
+          "price": "400.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Double Dip BA 2023",
+      "brewery": "To Øl",
+      "url": "https://untappd.com/b/to-ol-double-dip-ba-2023/5673536",
+      "style": "Stout - Imperial / Double Pastry",
+      "abv": "13.5%",
+      "ibu": "20",
+      "rating": "4.266",
+      "description": "This beer is a blend of 3 different base beers, using some of the ingredients from Mash Test Yummies. It was a case of having some wood barrels available and some spare beer to trial together and see how it came out after a year of aging. We hope you'll agree that it worked out very nicely!",
+      "containers": [
+        {
+          "size": "0.33L Bottle",
+          "price": "270.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Sounds Good BA 2022",
+      "brewery": "To Øl",
+      "url": "https://untappd.com/b/to-ol-sounds-good-ba-2022/4959025",
+      "style": "Stout - Imperial / Double",
+      "abv": "15.4%",
+      "rating": "4.298",
+      "description": "A beer that tastes even better than it sounds. Our barrel aged Imperial stout we made in collaboration with the talented people across the pond, Fuerst Wiacek. Aged in Bourbon barrels for 13 months, with additions of pecan nuts, cacao nibs, vanilla, and cinnamon.",
+      "containers": [
+        {
+          "size": "37.5cl Bottle ",
+          "price": "350.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Mexican Hot Chocolate BA Imperial Stout (2022)",
+      "brewery": "To Øl",
+      "url": "https://untappd.com/b/to-ol-mexican-hot-chocolate-ba-imperial-stout-2022/4931662",
+      "style": "Stout - Imperial / Double",
+      "abv": "11%",
+      "rating": "4.067",
+      "containers": [
+        {
+          "size": "0.375L Bottle",
+          "price": "410.00",
           "currency": "CZK"
         }
       ]
@@ -1750,7 +1710,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-3/5775282",
       "style": "Belgian Tripel",
       "abv": "9%",
-      "rating": "3.811",
+      "rating": "3.812",
       "description": "Hoppy tripel ale brewed with the iconic black metal band 1349.",
       "containers": [
         {
@@ -1784,7 +1744,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "35",
-      "rating": "4.089",
+      "rating": "4.088",
       "description": "This new double New England IPA is inspired from one of the biggest hoppy brewery from Boston area. After Niclas trip to the US in the beginning of May this year he got inspiration of the heavy yellow/orange hue the beer looks like in the glass. This beer have a different malt bill than we usually do. Creamy, fluffy and with a balanced bitterness and dry hopped in two stages with Citra, Nelson Sauvin, Rakau, Citra cryo and\r\nflowable Krush Hyperboost for flavours of orange juice, citrus and overripe mango.",
       "containers": [
         {
@@ -1963,7 +1923,7 @@
       "url": "https://untappd.com/b/cascade-brewing-figaro-2022/5139785",
       "style": "Sour - Fruited",
       "abv": "9.5%",
-      "rating": "4.087",
+      "rating": "4.088",
       "description": "The 2022 release of Figaro features our sour triple blond ales aged in oak barrels for up to 15 months with dried white figs, bergamot peel, and lemon peel. Elegant and complex, Figaro showcases flavors of dried figs with delicate hints of citrus fruit and a crisp, clean finish.",
       "containers": [
         {
@@ -2187,7 +2147,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.477",
+      "rating": "3.476",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -2300,7 +2260,7 @@
       "style": "Wild Ale - Other",
       "abv": "10%",
       "ibu": "15",
-      "rating": "3.962",
+      "rating": "3.963",
       "description": "Rigs and Ratlines is a blend of wild fermented vintages matured on oak with raspberry added before bottling. This gives a semi-dry and balanced acidity with a full mouthfeel and ﬂavors of raspberries, cloudberries, citrus, sour apricot and grapes.",
       "containers": [
         {
@@ -2379,7 +2339,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-choco-orange-jelly-wheat-wine-2024/5971828",
       "style": "Wheat Beer - Wheat Wine",
       "abv": "11%",
-      "rating": "4.184",
+      "rating": "4.185",
       "description": "Cílem tohoto blendu tří pšeničných piv bylo napodobit slavné v čokoládě zalité vánoční gumové bonbóny. Po 30 měsících staření v dřevěných sudech jsme tedy přidali, pomeranče, pomorančovou kůru, kakaové boby a osladili javorovým sirupem. Výsledek je velmi zábavný a překvapivě pitelný. Dizajn etikety nám propůjčila teplická multidisciplinární umělkyně Hannah Saleh.\r\n\r\nThe aim of this blend of three wheat beers was to emulate the famous chocolate-covered Christmas gummies. So after 30 months of aging in wooden barrels, we added, oranges, orange peel, cocoa beans and sweetened with maple syrup. The result is very fun and surprisingly drinkable. The label design was lent to us by the Teplice-based multidisciplinary artist Hannah Saleh.",
       "containers": [
         {
