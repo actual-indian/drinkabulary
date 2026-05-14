@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-13T08:32:30.913Z",
-  "totalBeers": 134,
+  "scrapedAt": "2026-05-14T08:26:23.274Z",
+  "totalBeers": 135,
   "beers": [
     {
       "name": "6. Poor Exchange Rate",
@@ -275,13 +275,40 @@
       ]
     },
     {
+      "name": "2. Organic Hazy IPA",
+      "brewery": "To Øl",
+      "url": "https://untappd.com/b/to-ol-organic-hazy-ipa/6203379",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "ibu": "30",
+      "rating": "3.669",
+      "description": "Our Organic Hazy IPA showcases the best organic malts and hops carefully selected by our brewers. The hop blend is a mix of German Amira, Cascade, Callista and Hallertauer Blanc plus some exciting Pacific Gem from New Zealand. This fruity/juicy combo pairs well with the malt bill designed for some gorgeous haze. Crafted to be a fuller bodied, sweet and delicious IPA. For those who tried our organic IPA in 2024, this is a very different beer.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "110.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "180.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "85.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "4. Celestial Horizon DDH",
       "brewery": "Friends Company",
       "url": "https://untappd.com/b/friends-company-celestial-horizon-ddh/6500013",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.904",
+      "rating": "3.906",
       "description": "Hazy New England IPA Double Dry Hopped with 20g/L of Citra, Nelson Sauvin and Nectaron Cryo hops. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -332,7 +359,7 @@
       "url": "https://untappd.com/b/laugar-brewery-hackertzale/6600432",
       "style": "IPA - New England / Hazy",
       "abv": "6.2%",
-      "rating": "3.719",
+      "rating": "3.721",
       "description": "Hazy IPA w/ Mosaic, Simcoe, Krush, Ariana and Monroe hops",
       "containers": [
         {
@@ -379,7 +406,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-chariot-of-sol-16/6682919",
       "style": "IPA - New England / Hazy",
       "abv": "6.8%",
-      "rating": "3.824",
+      "rating": "3.84",
       "description": "Po Eye of Odin se vracíme do severské mytologie s dalším Vallhalovým pivem. Tentokrát vzdáváme hold bohyni Sól, která podle legendy brázdila oblohu na svém slunečním voze. A přesně takhle má působit i tohle pivo – zářivě, energicky a nespoutaně. \r\n\r\nZáklad tvoří New England IPA, kterou jsme prokvasili norskými kveik kvasnicemi. To pivu dodává lehce rustikální charakter a zároveň podporuje ovocnost celého profilu. Do toho jsme přidali pomeranče v několika podobách – jak šťávu, tak i kůru – což se propisuje do výrazné, šťavnaté citrusové linky s lehce nahořklým, kůrovým dozvukem. \r\n\r\nChmelová kombinace Citra Dynaboost, Krush a Amarillo pak celé pivo posouvá ještě dál. Přináší vrstvy citrusů, sladkého ovoce a jemné pryskyřičnosti, které se krásně doplňují s pomerančovou linkou. Výsledkem je plné, aromatické pivo s lehce divokým charakterem, které vás sveze stejně nekompromisně jako sluneční vůz bohyně Sól. ",
       "containers": [
         {
@@ -430,7 +457,7 @@
       "url": "https://untappd.com/b/chroust-mahuri/6603343",
       "style": "Pale Ale - New England / Hazy",
       "abv": "4.9%",
-      "rating": "3.852",
+      "rating": "3.851",
       "description": "Pro tento týden jsme navařili pořádný banger! Naši přátelé z farmy Pikimai hops z Nového Zélandu sklidili \"Māhuri\" Riwaku z nové chmelnice, která oproti Riwace ze starších chmelnic má prominentnější aroma tropického ovoce. Do tohoto piva jsme Māhuri Riwaky nacpali opravdu požehnaně a jemně ji podpořili malým množstvím Mosaicu. Výsledkem je krásně zakalené, šťavnatě tropické pivo s výraznou mučenkou, doplněné o typické novozélandské tóny bobulovin a hroznů.",
       "containers": [
         {
@@ -477,7 +504,7 @@
       "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
       "style": "Stout - Imperial / Double",
       "abv": "10.7%",
-      "rating": "3.951",
+      "rating": "3.955",
       "description": "Imperial Stout Speculoos & Cocoa",
       "containers": [
         {
@@ -498,7 +525,7 @@
       "url": "https://untappd.com/b/aben-pine/5087892",
       "style": "Schwarzbier",
       "abv": "5.1%",
-      "rating": "3.298",
+      "rating": "3.297",
       "description": "Pine is the second lager in the Forest Tree series. With its dark and malty tones you can expect roast and malt depth with a touch of rauch smokiness.",
       "containers": [
         {
@@ -524,7 +551,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.135",
+      "rating": "4.136",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -545,7 +572,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "10%",
-      "rating": "4.116",
+      "rating": "4.117",
       "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
       "containers": [
         {
@@ -592,7 +619,7 @@
       "url": "https://untappd.com/b/brewski-night-pusher/6548627",
       "style": "Stout - American",
       "abv": "10%",
-      "rating": "3.68",
+      "rating": "3.682",
       "description": "American imperial stout",
       "containers": [
         {
@@ -618,7 +645,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.192",
+      "rating": "4.191",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -774,7 +801,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-redcurrant-12/6698015",
       "style": "Sour - Fruited",
       "abv": "5.1%",
-      "rating": "3.866",
+      "rating": "3.86",
       "description": "Naše kysláče stojí na čistém, lehkém základu, který nechává vyniknout použité ovoce. Tentokrát jsme sáhli po červeném rybízu, který v sobě kombinuje výraznou kyselost s lehkou ovocnou sladkostí. \r\n\r\nRybíz pivu dodává šťavnatý, lehce svíravý charakter a příjemnou ovocnou linku, která není přehnaně sladká. Díky tomu zůstává pivo krásně suché, osvěžující a velmi dobře pitelné. \r\n\r\nLehké tělo, čistý profil a kyselost, která vás bude bavit od prvního do posledního loku. ",
       "containers": [
         {
@@ -1067,7 +1094,7 @@
       "url": "https://untappd.com/b/aben-if-aben-and-lervig-made-a-stout/6433262",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.927",
+      "rating": "3.93",
       "description": "If ÅBEN and Lervig Made A Double Mashed Stout, this would be it. Deep black, thick and rich with layers of coffee, cacao and vanilla, topped with an espresso-like foam. Brewed together with friends from Lervig.",
       "containers": [
         {
@@ -1117,7 +1144,7 @@
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
       "ibu": "50",
-      "rating": "3.922",
+      "rating": "3.923",
       "containers": [
         {
           "size": "0.33L Can",
@@ -1374,7 +1401,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.107",
+      "rating": "4.108",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1390,7 +1417,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.114",
+      "rating": "4.113",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1438,7 +1465,7 @@
       "url": "https://untappd.com/b/lervig-paragon-2022-by-rackhouse/5579205",
       "style": "Barleywine - Other",
       "abv": "14.4%",
-      "rating": "4.282",
+      "rating": "4.281",
       "description": "Paragon 2022 brings together bourbon barrel-aged barley wine and masterfully expresses notes of dried figs, raisins, and vanilla, complemented by caramel, toffee, and chocolate notes from the malt. The result is a symphony of flavors that envelops your palate, disguising the alcohol content with finesse. It’s a testament to our dedication to the old style and the artistry of brewing, encapsulated in every bottle.",
       "containers": [
         {
@@ -1485,7 +1512,7 @@
       "url": "https://untappd.com/b/o-o-brewing-arctos-imperial-stout-2022-bourbon-barrel-aged/6088835",
       "style": "Stout - Imperial / Double",
       "abv": "12.5%",
-      "rating": "4.356",
+      "rating": "4.357",
       "containers": [
         {
           "size": "33cl Bottle",
@@ -1754,7 +1781,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "35",
-      "rating": "4.087",
+      "rating": "4.088",
       "description": "This new double New England IPA is inspired from one of the biggest hoppy brewery from Boston area. After Niclas trip to the US in the beginning of May this year he got inspiration of the heavy yellow/orange hue the beer looks like in the glass. This beer have a different malt bill than we usually do. Creamy, fluffy and with a balanced bitterness and dry hopped in two stages with Citra, Nelson Sauvin, Rakau, Citra cryo and\r\nflowable Krush Hyperboost for flavours of orange juice, citrus and overripe mango.",
       "containers": [
         {
@@ -1965,7 +1992,7 @@
       "url": "https://untappd.com/b/cascade-brewing-la-rita-loca/4786882",
       "style": "Sour - Fruited",
       "abv": "7.1%",
-      "rating": "4.022",
+      "rating": "4.021",
       "description": "La Rita Loca features our sour blond and wheat ales aged in tequila barrels and foudres for up to a year with late infusions of lime zest, Oregon coast sea salt and ground coriander. In the midst of this crazy life take some time to unwind with the margarita inspired La Rita Loca.",
       "containers": [
         {
@@ -2271,7 +2298,7 @@
       "style": "Wild Ale - Other",
       "abv": "6.8%",
       "ibu": "35",
-      "rating": "3.868",
+      "rating": "3.869",
       "description": "A collaboration of Belgian tradition and modern mixed culture brewing. After a visit to our much admired friends at Oud Beersel in Belgium, a plan was hatched to blend our two beers together. Comprising 33% Lambic, 33% of our oak aged wild ale, and the rest being hoppy 3 month old Saison. The character of both breweries shines equally well. Packaged with raw honey in green glass bottles for a natural carbonation.",
       "containers": [
         {
