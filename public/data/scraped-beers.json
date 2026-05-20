@@ -1,6 +1,6 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-19T08:56:37.047Z",
+  "scrapedAt": "2026-05-20T08:51:48.615Z",
   "totalBeers": 134,
   "beers": [
     {
@@ -174,7 +174,7 @@
       "url": "https://untappd.com/b/la-grua-la-grua-session-ipa/3384257",
       "style": "IPA - Session",
       "abv": "4.5%",
-      "rating": "3.377",
+      "rating": "3.378",
       "containers": [
         {
           "size": "0.2L",
@@ -278,7 +278,7 @@
       "url": "https://untappd.com/b/aben-oceanic/6573932",
       "style": "IPA - Other",
       "abv": "7%",
-      "rating": "3.634",
+      "rating": "3.642",
       "description": "West Coast IPA ",
       "containers": [
         {
@@ -304,7 +304,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-lil-freeze-10/6691637",
       "style": "IPA - Cold",
       "abv": "4.1%",
-      "rating": "3.811",
+      "rating": "3.782",
       "description": "Cold IPA je moderní styl, který si bere to nejlepší z několika pivních světů najednou. Nabízí chmelovou intenzitu a aromatickou expresi IPA, ale zároveň si zachovává velmi suché, čisté a osvěžující tělo. Právě tahle kombinace z něj dělá ideální plátno pro chmely, které mají co říct, a novozélandské odrůdy tuhle disciplínu zvládají s naprostou lehkostí. \r\n\r\nLil Freeze jsme postavili na trojici chmelů Nelson Sauvin, Riwaka a Superdelic. Nelson Sauvin přináší svůj typický elegantní projev připomínající bílé hrozny a vinný charakter, Riwaka do piva posílá výraznou citrusovou linku plnou limetek a grepů a Superdelic všechno zakulacuje šťavnatou ovocností s tropickým přesahem. Výsledkem je pivo, které působí lehce a suše, ale přitom rozhodně ne nudně. Naopak, Lil Freeze je přesně ten typ piva, který vás okamžitě osvěží a pak vás donutí dát si další doušek. ",
       "containers": [
         {
@@ -358,7 +358,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.846",
+      "rating": "3.848",
       "description": "Single hop hazy IPA featuring the amazing Citra hop, double dry hopped with 20g/L. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -384,7 +384,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.693",
+      "rating": "3.696",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -462,7 +462,7 @@
       "brewery": "Hradecký Klenot",
       "url": "https://untappd.com/b/hradecky-klenot-alora-hazy-ale-12-deg/6647271",
       "style": "Pale Ale - New England / Hazy",
-      "rating": "3.637",
+      "rating": "3.636",
       "description": "Single Hop Alora Hazy ALE 12% je zakalený pale ale s jednoodrůdovým intenzivním chmelením, a to konkrétně novým chmelem z USA - Alora.\r\n\r\nHořkost je spíše nižší s pozvolným dozníváním. \r\n\r\nO to výraznější je však chmelový profil. Můžete v něm cítit nádechy citrusů, tropického ovoce, broskví, meruněk a květin.\r\n\r\nTo dělá tento ovocno - květnatý pivní džus nebezpečně pitelným.\r\n\r\nPlné, svrchně kvašené, nefiltrované pivo.",
       "containers": [
         {
@@ -509,7 +509,7 @@
       "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2024/6179669",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11%",
-      "rating": "3.895",
+      "rating": "3.896",
       "containers": [
         {
           "size": "0.2L",
@@ -635,7 +635,7 @@
       "url": "https://untappd.com/b/friends-company-dream-smoojee-nordic-forest/5956060",
       "style": "Sour - Smoothie / Pastry",
       "abv": "6%",
-      "rating": "3.418",
+      "rating": "3.421",
       "description": "Smoothie Sour Gose with Blueberry, Blackcurrant, Lingonberry and Spruce tips. And a touch of Sea salt.",
       "containers": [
         {
@@ -661,7 +661,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.768",
+      "rating": "3.764",
       "containers": [
         {
           "size": "0.2L",
@@ -686,7 +686,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-kren/6576572",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.517",
+      "rating": "3.518",
       "description": "Křen je pivo, které si nebere servítky. Stylově vychází z německého gose, ale chuťově jde úplně vlastní cestou. Do základu jsme přidali pořádnou dávku čerstvého křenu, který přináší ostrou štiplavost, svěžest a nepřehlédnutelný charakter. Doplnili jsme ho špetkou čerstvého kopru, který pivu přidává lehce bylinný tón a spolu s typickou slaností tvoří překvapivě vyvážený a chuťově vrstevnatý celek. Kyselost drží vše hezky pohromadě a dává pivu osvěžující říz. Výsledek? Pivo jako křen. Osvěžující, výrazné, hravé – ideální pro všechny, kdo se nebojí vybočit ze zajetých pivních kolejí.",
       "containers": [
         {
@@ -712,7 +712,8 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "4.018",
+      "rating": "4.024",
+      "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
       "containers": [
         {
           "size": "0.2L",
@@ -840,7 +841,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.865",
+      "rating": "3.866",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -866,7 +867,7 @@
       "url": "https://untappd.com/b/marlobobo-confused-interfusion-2022/5716190",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.398",
+      "rating": "4.396",
       "description": "Blend of wildberry mead and bourbon barrel-aged barley wine and imperial stout.\r\n\r\nA caramel-forward braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a wildberry mead with a bourbon barrel-aged barley wine and imperial stout (Golden Tears). The beers added heavy caramel notes, dried fruit and light notes of vanilla to the mead. Making it very barley wine-esque in the flavor profile, while still primarily being a mead. \r\n\r\nThe combination of light roast from the stout and acidity from the fruit, makes the caramel notes from the barley wine feel almost salty and savory.\r\n\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -882,7 +883,7 @@
       "url": "https://untappd.com/b/marlobobo-misanthropic-topographer-2022/5258596",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.359",
+      "rating": "4.356",
       "description": "Blackberry and strawberry mead.\r\n\r\nA blackberry mead and strawberry mead were fermented separately, and thoughtfully blended to what we felt was the perfect expression of both berry varieties together.\r\n\r\nA thick and velvety concoction of fresh, jammy blackberries, strawberries and wildflower honey.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nBlackberry variety:\r\nLoch Ness\r\n\r\nStrawberry variety:\r\nPolka\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -1434,7 +1435,7 @@
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11.3%",
       "ibu": "55",
-      "rating": "4.01",
+      "rating": "4.011",
       "containers": [
         {
           "size": "33cl Bottle",
@@ -1527,7 +1528,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.944",
+      "rating": "3.945",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1572,7 +1573,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.174",
+      "rating": "4.173",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1699,7 +1700,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-3/5775282",
       "style": "Belgian Tripel",
       "abv": "9%",
-      "rating": "3.813",
+      "rating": "3.814",
       "description": "Hoppy tripel ale brewed with the iconic black metal band 1349.",
       "containers": [
         {
@@ -1912,7 +1913,7 @@
       "url": "https://untappd.com/b/cascade-brewing-figaro-2022/5139785",
       "style": "Sour - Fruited",
       "abv": "9.5%",
-      "rating": "4.08",
+      "rating": "4.079",
       "description": "The 2022 release of Figaro features our sour triple blond ales aged in oak barrels for up to 15 months with dried white figs, bergamot peel, and lemon peel. Elegant and complex, Figaro showcases flavors of dried figs with delicate hints of citrus fruit and a crisp, clean finish.",
       "containers": [
         {
