@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-20T08:51:48.615Z",
-  "totalBeers": 134,
+  "scrapedAt": "2026-05-21T08:54:12.525Z",
+  "totalBeers": 132,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -111,32 +111,6 @@
         {
           "size": "Flights of 5/10",
           "price": "55.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "7. Mangofeber IPA 4.2%",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-mangofeber-ipa-4-2/4755177",
-      "style": "IPA - Session",
-      "abv": "4.2%",
-      "rating": "3.316",
-      "description": "A fresh take on our flagship double IPA, where real mango and American hops combine to lift each other to new heights. This version is lighter and more quaffable, but still full of flavor!\r\n",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "165.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "65.00",
           "currency": "CZK"
         }
       ]
@@ -304,7 +278,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-lil-freeze-10/6691637",
       "style": "IPA - Cold",
       "abv": "4.1%",
-      "rating": "3.782",
+      "rating": "3.827",
       "description": "Cold IPA je moderní styl, který si bere to nejlepší z několika pivních světů najednou. Nabízí chmelovou intenzitu a aromatickou expresi IPA, ale zároveň si zachovává velmi suché, čisté a osvěžující tělo. Právě tahle kombinace z něj dělá ideální plátno pro chmely, které mají co říct, a novozélandské odrůdy tuhle disciplínu zvládají s naprostou lehkostí. \r\n\r\nLil Freeze jsme postavili na trojici chmelů Nelson Sauvin, Riwaka a Superdelic. Nelson Sauvin přináší svůj typický elegantní projev připomínající bílé hrozny a vinný charakter, Riwaka do piva posílá výraznou citrusovou linku plnou limetek a grepů a Superdelic všechno zakulacuje šťavnatou ovocností s tropickým přesahem. Výsledkem je pivo, které působí lehce a suše, ale přitom rozhodně ne nudně. Naopak, Lil Freeze je přesně ten typ piva, který vás okamžitě osvěží a pak vás donutí dát si další doušek. ",
       "containers": [
         {
@@ -410,7 +384,7 @@
       "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.766",
+      "rating": "3.768",
       "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
       "containers": [
         {
@@ -453,31 +427,6 @@
         {
           "size": "Flights of 5/10",
           "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "38. Alora Hazy ALE 12°",
-      "brewery": "Hradecký Klenot",
-      "url": "https://untappd.com/b/hradecky-klenot-alora-hazy-ale-12-deg/6647271",
-      "style": "Pale Ale - New England / Hazy",
-      "rating": "3.636",
-      "description": "Single Hop Alora Hazy ALE 12% je zakalený pale ale s jednoodrůdovým intenzivním chmelením, a to konkrétně novým chmelem z USA - Alora.\r\n\r\nHořkost je spíše nižší s pozvolným dozníváním. \r\n\r\nO to výraznější je však chmelový profil. Můžete v něm cítit nádechy citrusů, tropického ovoce, broskví, meruněk a květin.\r\n\r\nTo dělá tento ovocno - květnatý pivní džus nebezpečně pitelným.\r\n\r\nPlné, svrchně kvašené, nefiltrované pivo.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "60.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "100.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "45.00",
           "currency": "CZK"
         }
       ]
@@ -551,7 +500,7 @@
       "style": "Bock - Doppelbock",
       "abv": "10.6%",
       "ibu": "20",
-      "rating": "3.777",
+      "rating": "3.778",
       "description": "This beer is actually in the triple bock style. It has lots of flavorful malts (munich, caramunich, double roasted crystal) and a little roasted malt for color. Aged for 365 days in calvados and cognac barrels in our lagering cellar.",
       "containers": [
         {
@@ -588,33 +537,12 @@
       ]
     },
     {
-      "name": "18. DARK RITUAL",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-dark-ritual/6613456",
-      "style": "Stout - Imperial / Double Coffee",
-      "abv": "10%",
-      "rating": "4.017",
-      "description": "Imperial coffee stout.\r\n(Ethiopian coffee)",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "190.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "145.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "36. Valhalla Barrel Aged House Stout 2025",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.189",
+      "rating": "4.188",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -661,7 +589,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.764",
+      "rating": "3.765",
       "containers": [
         {
           "size": "0.2L",
@@ -686,7 +614,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-kren/6576572",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.518",
+      "rating": "3.519",
       "description": "Křen je pivo, které si nebere servítky. Stylově vychází z německého gose, ale chuťově jde úplně vlastní cestou. Do základu jsme přidali pořádnou dávku čerstvého křenu, který přináší ostrou štiplavost, svěžest a nepřehlédnutelný charakter. Doplnili jsme ho špetkou čerstvého kopru, který pivu přidává lehce bylinný tón a spolu s typickou slaností tvoří překvapivě vyvážený a chuťově vrstevnatý celek. Kyselost drží vše hezky pohromadě a dává pivu osvěžující říz. Výsledek? Pivo jako křen. Osvěžující, výrazné, hravé – ideální pro všechny, kdo se nebojí vybočit ze zajetých pivních kolejí.",
       "containers": [
         {
@@ -707,12 +635,38 @@
       ]
     },
     {
+      "name": "38. Apricot Symphony",
+      "brewery": "Hradecký Klenot",
+      "url": "https://untappd.com/b/hradecky-klenot-apricot-symphony/5715042",
+      "style": "Sour - Smoothie / Pastry",
+      "abv": "6.2%",
+      "rating": "3.846",
+      "description": "Kooperace Haksna",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "115.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "185.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "85.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "40. Thyme Is Now 12",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "4.024",
+      "rating": "3.936",
       "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
       "containers": [
         {
@@ -763,7 +717,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-taste-superdelic-o/6637121",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.73",
+      "rating": "3.721",
       "description": "Drink And Taste Superdelic je první várka z naší nové řady nealkoholických single hop NEIPA. Cílem je ukázat charakter jednotlivých chmelů bez vlivů kombinací – čistě, přímo a naplno. Superdelic je moderní novozélandská odrůda známá svým intenzivním aromatickým profilem. V pivu se projevuje výraznými tóny tropického ovoce, červených bobulí a lehce citrusovým dozvukem. I bez alkoholu si drží plnost, šťavnatost a výraznou chmelovou stopu. Tohle je nealko, které není o kompromisu, ale o chuti. A o tom poznat jeden chmel opravdu do detailu.",
       "containers": [
         {
@@ -815,7 +769,7 @@
       "url": "https://untappd.com/b/brewski-talk-to-me-goose/6515493",
       "style": "Cider - Other Fruit",
       "abv": "4.5%",
-      "rating": "3.718",
+      "rating": "3.724",
       "description": "Apple cider with gooseberry and elderflower. Made with our friends at Kullamust!",
       "containers": [
         {
@@ -841,7 +795,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.866",
+      "rating": "3.868",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -919,7 +873,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.222",
+      "rating": "3.223",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1354,7 +1308,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.104",
+      "rating": "4.103",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1370,7 +1324,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.111",
+      "rating": "4.109",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1480,7 +1434,7 @@
       "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
       "style": "Stout - Imperial / Double",
       "abv": "13.3%",
-      "rating": "4.329",
+      "rating": "4.327",
       "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
       "containers": [
         {
@@ -1496,7 +1450,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coco-noir-20/6601128",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "9%",
-      "rating": "3.944",
+      "rating": "3.946",
       "description": "Coco Noir v sobě spojuje sílu, eleganci a chuťový komfort. Stylově jde o Double Oatmeal Stout, tedy silné a plné pivo s přidáním ovesných vloček, které přidávají tělu krémovost a hladkost. Výsledkem je hutná, sametová struktura, která pivo drží pohromadě a zároveň ho dělá mimořádně pitelným i při vyšším obsahu alkoholu. Základ sladového základu byla přidána kombinace tmavých sladů, které přinášejí tóny hořké čokolády a pražené kávy – přesně to, co od poctivého stoutu čekáš. Ale tím to nekončí. To, co dělá Coco Noir výjimečným, je opravdu příjemná dávka kokosu, který jsme do piva přidali. Kokos není jen v pozadí – je tu naplno, krémový, voňavý, trochu sladký a krásně kontrastní k hořkosti a praženosti základu.",
       "containers": [
         {
@@ -1573,7 +1527,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.173",
+      "rating": "4.176",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1684,7 +1638,7 @@
       "url": "https://untappd.com/b/drunken-bros-dee-dee/6393720",
       "style": "IPA - New England / Hazy",
       "abv": "6.7%",
-      "rating": "3.742",
+      "rating": "3.738",
       "description": "OJO a esta EURO HAZY IPA, ¿Euro? Siiiiii , hemos utilizado lúpulos frescos modernos alemanes CALLISTA Y TANGO y hemos logrado un zumo fantástico alejado de los típicos lúpulos americanos.",
       "containers": [
         {
@@ -1700,7 +1654,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-3/5775282",
       "style": "Belgian Tripel",
       "abv": "9%",
-      "rating": "3.814",
+      "rating": "3.813",
       "description": "Hoppy tripel ale brewed with the iconic black metal band 1349.",
       "containers": [
         {
@@ -1784,7 +1738,7 @@
       "url": "https://untappd.com/b/vitamin-sea-brewing-little-birdie/5433541",
       "style": "IPA - Session",
       "abv": "4.5%",
-      "rating": "4.04",
+      "rating": "4.041",
       "description": "Our sessionable hazy IPA packed with flavor and body. This one has been hopped with Strata and Strata CGX!!!  Fits perfectly in your golf bag.",
       "containers": [
         {
