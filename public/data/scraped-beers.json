@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-22T08:47:29.348Z",
-  "totalBeers": 123,
+  "scrapedAt": "2026-05-23T08:04:57.149Z",
+  "totalBeers": 124,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -122,7 +122,7 @@
       "style": "IPA - Rye",
       "abv": "6.7%",
       "ibu": "60",
-      "rating": "3.749",
+      "rating": "3.748",
       "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
       "containers": [
         {
@@ -226,7 +226,7 @@
       "style": "IPA - American",
       "abv": "5.9%",
       "ibu": "33",
-      "rating": "3.642",
+      "rating": "3.643",
       "description": "This modern IPA uses a blend of simcoe, amarillo, and citra hops. It is a bit hazy, but not like a New England IPA that is totally opaque. Rather than trying to make the richest flavor on the planet, it has a good balance between drinkability and juicy flavor, in line with all your favorite current IPAs.",
       "containers": [
         {
@@ -252,7 +252,7 @@
       "url": "https://untappd.com/b/aben-oceanic/6573932",
       "style": "IPA - Other",
       "abv": "7%",
-      "rating": "3.642",
+      "rating": "3.644",
       "description": "West Coast IPA ",
       "containers": [
         {
@@ -278,7 +278,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-lil-freeze-10/6691637",
       "style": "IPA - Cold",
       "abv": "4.1%",
-      "rating": "3.827",
+      "rating": "3.799",
       "description": "Cold IPA je moderní styl, který si bere to nejlepší z několika pivních světů najednou. Nabízí chmelovou intenzitu a aromatickou expresi IPA, ale zároveň si zachovává velmi suché, čisté a osvěžující tělo. Právě tahle kombinace z něj dělá ideální plátno pro chmely, které mají co říct, a novozélandské odrůdy tuhle disciplínu zvládají s naprostou lehkostí. \r\n\r\nLil Freeze jsme postavili na trojici chmelů Nelson Sauvin, Riwaka a Superdelic. Nelson Sauvin přináší svůj typický elegantní projev připomínající bílé hrozny a vinný charakter, Riwaka do piva posílá výraznou citrusovou linku plnou limetek a grepů a Superdelic všechno zakulacuje šťavnatou ovocností s tropickým přesahem. Výsledkem je pivo, které působí lehce a suše, ale přitom rozhodně ne nudně. Naopak, Lil Freeze je přesně ten typ piva, který vás okamžitě osvěží a pak vás donutí dát si další doušek. ",
       "containers": [
         {
@@ -332,7 +332,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.849",
+      "rating": "3.848",
       "description": "Single hop hazy IPA featuring the amazing Citra hop, double dry hopped with 20g/L. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -353,12 +353,38 @@
       ]
     },
     {
+      "name": "18. Strummer (Memorial Series)",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.4%",
+      "rating": "3.831",
+      "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "190.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "24. My Favourite Sweater",
       "brewery": "ÅBEN",
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.687",
+      "rating": "3.691",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -458,7 +484,7 @@
       "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2024/6179669",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11%",
-      "rating": "3.897",
+      "rating": "3.896",
       "containers": [
         {
           "size": "0.2L",
@@ -521,7 +547,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.123",
+      "rating": "4.12",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -589,7 +615,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.767",
+      "rating": "3.76",
       "containers": [
         {
           "size": "0.2L",
@@ -614,7 +640,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-kren/6576572",
       "style": "Sour - Other Gose",
       "abv": "5.1%",
-      "rating": "3.52",
+      "rating": "3.516",
       "description": "Křen je pivo, které si nebere servítky. Stylově vychází z německého gose, ale chuťově jde úplně vlastní cestou. Do základu jsme přidali pořádnou dávku čerstvého křenu, který přináší ostrou štiplavost, svěžest a nepřehlédnutelný charakter. Doplnili jsme ho špetkou čerstvého kopru, který pivu přidává lehce bylinný tón a spolu s typickou slaností tvoří překvapivě vyvážený a chuťově vrstevnatý celek. Kyselost drží vše hezky pohromadě a dává pivu osvěžující říz. Výsledek? Pivo jako křen. Osvěžující, výrazné, hravé – ideální pro všechny, kdo se nebojí vybočit ze zajetých pivních kolejí.",
       "containers": [
         {
@@ -640,7 +666,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-apricot-symphony/5715042",
       "style": "Sour - Smoothie / Pastry",
       "abv": "6.2%",
-      "rating": "3.845",
+      "rating": "3.841",
       "description": "Kooperace Haksna",
       "containers": [
         {
@@ -666,7 +692,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.853",
+      "rating": "3.852",
       "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
       "containers": [
         {
@@ -717,7 +743,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-taste-superdelic-o/6637121",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.722",
+      "rating": "3.725",
       "description": "Drink And Taste Superdelic je první várka z naší nové řady nealkoholických single hop NEIPA. Cílem je ukázat charakter jednotlivých chmelů bez vlivů kombinací – čistě, přímo a naplno. Superdelic je moderní novozélandská odrůda známá svým intenzivním aromatickým profilem. V pivu se projevuje výraznými tóny tropického ovoce, červených bobulí a lehce citrusovým dozvukem. I bez alkoholu si drží plnost, šťavnatost a výraznou chmelovou stopu. Tohle je nealko, které není o kompromisu, ale o chuti. A o tom poznat jeden chmel opravdu do detailu.",
       "containers": [
         {
@@ -769,7 +795,7 @@
       "url": "https://untappd.com/b/brewski-talk-to-me-goose/6515493",
       "style": "Cider - Other Fruit",
       "abv": "4.5%",
-      "rating": "3.717",
+      "rating": "3.721",
       "description": "Apple cider with gooseberry and elderflower. Made with our friends at Kullamust!",
       "containers": [
         {
@@ -985,7 +1011,7 @@
       "url": "https://untappd.com/b/aben-if-aben-and-lervig-made-a-stout/6433262",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.936",
+      "rating": "3.937",
       "description": "If ÅBEN and Lervig Made A Double Mashed Stout, this would be it. Deep black, thick and rich with layers of coffee, cacao and vanilla, topped with an espresso-like foam. Brewed together with friends from Lervig.",
       "containers": [
         {
@@ -1292,7 +1318,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.109",
+      "rating": "4.11",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1418,7 +1444,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.172",
+      "rating": "4.173",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1785,7 +1811,7 @@
       "url": "https://untappd.com/b/cascade-brewing-petite-kriek/5360908",
       "style": "Sour - Fruited",
       "abv": "6%",
-      "rating": "3.887",
+      "rating": "3.889",
       "description": "Petite Kriek features our sour golden ale aged in an oak foudre for 12 months with Oregon-grown Bing and Montmorency cherries. This blend showcases a delicate cherry aroma and flavor with the slightest hint of funk and a light ruby color.",
       "containers": [
         {
@@ -1832,7 +1858,7 @@
       "url": "https://untappd.com/b/lervig-defunked-by-rackhouse/5704997",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.97",
+      "rating": "3.969",
       "description": "A mixed fermentation sour brewed in collaboration with Nevel Wild Ales from the Netherlands. This Norwegian sour was brewed with locally foraged juniper and fermented with Kveik yeast, then aged in a Foeder for 18 months with our house mix culture. The result is a nuanced mixed fermentation sour with bright acidity, citrus fruits and wild funk.",
       "containers": [
         {
@@ -1929,7 +1955,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.485",
+      "rating": "3.489",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -2009,7 +2035,7 @@
       "style": "Wild Ale - Other",
       "abv": "6.2%",
       "ibu": "20",
-      "rating": "3.793",
+      "rating": "3.8",
       "description": "A selection of rye based hoppy mixed culture beer, aged between 3 and 16 Months in French oak Bariques and Puncheons.  Bottled with sugar for a natural carbonation.",
       "containers": [
         {
@@ -2265,7 +2291,7 @@
       "url": "https://untappd.com/b/marlobobo-schaarbee-cryo-2024/6398191",
       "style": "Mead - Melomel",
       "abv": "11%",
-      "rating": "4.763",
+      "rating": "4.764",
       "description": "A freeze-concentrated cherry mead (or ice melomel if you will).\r\n\r\nWhat happens when you take an already ultra-concentrated no-water melomel - and go even further by freeze-concentrating the cherry component, cutting its water content in half?\r\n\r\nYou get an insane saturation of pure cherry flavor, a glass-destroying lacing and an explosive acid/sweetness balance which let the flavors of pure cherry and honey linger forever.\r\n\r\nWell, that's our opinion. What's yours?\r\n\r\n\r\n------------------------------ 2024 ------------------------------\r\n\r\n\r\n*159 bottles made*\r\n\r\nHoney variety:\r\nWildflower from Tønsberg and Lillesand\r\n\r\nCherry variety:\r\nSchaarbeekse cherries from Lindheim, Telemark.\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
