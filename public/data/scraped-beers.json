@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-26T09:33:28.162Z",
-  "totalBeers": 123,
+  "scrapedAt": "2026-05-27T08:59:05.868Z",
+  "totalBeers": 125,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -58,6 +58,32 @@
         {
           "size": "Flights of 5/10",
           "price": "60.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "39. Neo 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-neo-12/6709535",
+      "style": "Lager - IPL (India Pale Lager)",
+      "abv": "5.1%",
+      "rating": "3.758",
+      "description": "Voňavý ležák s moderními americkými chmely Loral a Idaho 7. Chmelová pecka v čistém ležákovém těle. Citrusy, lehká bylinnost a suchý, extrémně pitelný profil.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "40.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "75.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "30.00",
           "currency": "CZK"
         }
       ]
@@ -306,7 +332,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.85",
+      "rating": "3.851",
       "description": "Single hop hazy IPA featuring the amazing Citra hop, double dry hopped with 20g/L. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -358,7 +384,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.691",
+      "rating": "3.68",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -432,12 +458,38 @@
       ]
     },
     {
+      "name": "34. Veni Vidi Peacharine 10",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-peacharine-10/6709563",
+      "style": "IPA - Session New England / Hazy",
+      "abv": "4.1%",
+      "rating": "3.799",
+      "description": "Jednochmelová Session NEIPA, která dává naplno vyniknout novozélandské odrůdě Peacharine. Ta je známá svojí výraznou ovocností, kde dominují tóny broskví, nektarinek a dalších peckovin, doplněné o lehké citrusy a tropické ovoce. \r\n\r\nDíky nižšímu alkoholu zůstává pivo lehké, svěží a skvěle pitelné, ale zároveň si drží plný aromatický projev. Jemné tělo, nízká hořkost a důraz na šťavnatost dělají z tohohle kousku ideálního společníka na delší pití.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "40.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "75.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "30.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "1. Rosetta (Memorial Series)",
       "brewery": "Drunken Bros",
       "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
       "style": "Stout - Imperial / Double",
       "abv": "11%",
-      "rating": "3.998",
+      "rating": "3.999",
       "description": "Imperial Stout con Haba Tonka.",
       "containers": [
         {
@@ -521,7 +573,7 @@
       "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
       "style": "Stout - Imperial / Double",
       "abv": "10.5%",
-      "rating": "4.123",
+      "rating": "4.124",
       "description": "Imperial Stout Aged in Scotch Whisky Barrels",
       "containers": [
         {
@@ -563,7 +615,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.562",
+      "rating": "3.563",
       "containers": [
         {
           "size": "0.2L",
@@ -588,7 +640,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.764",
+      "rating": "3.763",
       "containers": [
         {
           "size": "0.2L",
@@ -613,7 +665,7 @@
       "url": "https://untappd.com/b/brewski-li/6354290",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.873",
+      "rating": "3.872",
       "description": "A tribute to our dear friend Li from Malmö Brewing who tragically passed away in an accident. Fruited sour with Papaya, Mango, Passion Fruit och Pineapple.",
       "containers": [
         {
@@ -665,7 +717,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-apricot-symphony/5715042",
       "style": "Sour - Smoothie / Pastry",
       "abv": "6.2%",
-      "rating": "3.843",
+      "rating": "3.842",
       "description": "Kooperace Haksna",
       "containers": [
         {
@@ -691,7 +743,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.823",
+      "rating": "3.822",
       "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
       "containers": [
         {
@@ -717,7 +769,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-grinebitter/6198588",
       "style": "Bitter - Extra Special / Strong (ESB)",
       "abv": "5.5%",
-      "rating": "3.564",
+      "rating": "3.563",
       "containers": [
         {
           "size": "0.2L",
@@ -742,7 +794,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-taste-superdelic-o/6637121",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.728",
+      "rating": "3.722",
       "description": "Drink And Taste Superdelic je první várka z naší nové řady nealkoholických single hop NEIPA. Cílem je ukázat charakter jednotlivých chmelů bez vlivů kombinací – čistě, přímo a naplno. Superdelic je moderní novozélandská odrůda známá svým intenzivním aromatickým profilem. V pivu se projevuje výraznými tóny tropického ovoce, červených bobulí a lehce citrusovým dozvukem. I bez alkoholu si drží plnost, šťavnatost a výraznou chmelovou stopu. Tohle je nealko, které není o kompromisu, ale o chuti. A o tom poznat jeden chmel opravdu do detailu.",
       "containers": [
         {
@@ -856,7 +908,7 @@
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.399",
+      "rating": "3.401",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -872,7 +924,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.218",
+      "rating": "3.217",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1463,7 +1515,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.28",
+      "rating": "4.281",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1640,7 +1692,7 @@
       "style": "IPA - Triple",
       "abv": "9.8%",
       "ibu": "80",
-      "rating": "3.986",
+      "rating": "3.985",
       "description": "Extra Lush is triple the tropical treat from the Pacific Northwest. Brewed with three times the amount of hand-selected malts and tropical hops. Live the Extra Lush Life!\r\n\r\nDown & Dirty: 2-Row Pale malt with Citra, Mosaic, Citra Cryo, Mosaic Quantum Brite, and Citra Quantum Brite hops.\r\n\r\nColor: Light orange\r\nAroma: Citrusy aromas of orange and grapefruit, resinous pine, stone fruit, and pineapple.\r\nFlavor: Gently sweet, mildly bitter, no saltiness and no sourness.                                                                                                                                             \r\n\r\nAvailability: Year-Round\r\n",
       "containers": [
         {
@@ -1720,7 +1772,7 @@
       "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
       "style": "Sour - Fruited Gose",
       "abv": "4.7%",
-      "rating": "3.535",
+      "rating": "3.536",
       "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
       "containers": [
         {
@@ -1992,7 +2044,7 @@
       "url": "https://untappd.com/b/wild-nation-azkarai/5699823",
       "style": "Wild Ale - Other",
       "abv": "7.5%",
-      "rating": "3.895",
+      "rating": "3.894",
       "containers": [
         {
           "size": "0.75L Bottle",
@@ -2074,7 +2126,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2021/5010424",
       "style": "Barleywine - English",
       "abv": "13.4%",
-      "rating": "4.122",
+      "rating": "4.123",
       "containers": [
         {
           "size": "0.33L Bottle",
