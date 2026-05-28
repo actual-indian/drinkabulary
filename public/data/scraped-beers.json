@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-27T08:59:05.868Z",
-  "totalBeers": 125,
+  "scrapedAt": "2026-05-28T09:42:37.465Z",
+  "totalBeers": 128,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -10,7 +10,7 @@
       "style": "Pilsner - Czech / Bohemian",
       "abv": "4.6%",
       "ibu": "40",
-      "rating": "3.519",
+      "rating": "3.52",
       "description": "Klasický spodně kvašený jedenáctistupňový ležák plzeňského typu z nejkvalitnějších sladů. Receptura je postavena na chmelu Harmonie. Příjemnou hořkostí vyzývá k opětovnému napití.\r\n\r\nClassic bottom-fermented eleven-degree lager of the Pilsen type made of the highest quality malts. The recipe is based on Harmonie hops. With a pleasant bitterness, it calls for re-drinking.",
       "containers": [
         {
@@ -68,7 +68,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-neo-12/6709535",
       "style": "Lager - IPL (India Pale Lager)",
       "abv": "5.1%",
-      "rating": "3.758",
+      "rating": "3.729",
       "description": "Voňavý ležák s moderními americkými chmely Loral a Idaho 7. Chmelová pecka v čistém ležákovém těle. Citrusy, lehká bylinnost a suchý, extrémně pitelný profil.",
       "containers": [
         {
@@ -142,39 +142,12 @@
       ]
     },
     {
-      "name": "12. Galerna",
-      "brewery": "La Grúa",
-      "url": "https://untappd.com/b/la-grua-galerna/1281308",
-      "style": "IPA - Rye",
-      "abv": "6.7%",
-      "ibu": "60",
-      "rating": "3.749",
-      "description": "Galerna Rye IPA es una edición limitada de una cerveza de centeno, que aporta toques especiados y picantes y resalta los aromas frutales del lúpulos. \r\nLúpulos Dr. Rudi, Columbus, Simmit y Cascade hacen de esta cerveza una american IPA donde predominan los aromas frutales y herbaceos con un toque diferente de malta rye.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "120.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "190.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "21. La Grúa Session IPA",
       "brewery": "La Grúa",
       "url": "https://untappd.com/b/la-grua-la-grua-session-ipa/3384257",
       "style": "IPA - Session",
       "abv": "4.5%",
-      "rating": "3.377",
+      "rating": "3.378",
       "containers": [
         {
           "size": "0.2L",
@@ -332,7 +305,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.851",
+      "rating": "3.852",
       "description": "Single hop hazy IPA featuring the amazing Citra hop, double dry hopped with 20g/L. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -358,7 +331,7 @@
       "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
       "style": "IPA - New England / Hazy",
       "abv": "6.4%",
-      "rating": "3.834",
+      "rating": "3.83",
       "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
       "containers": [
         {
@@ -384,7 +357,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.68",
+      "rating": "3.671",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -463,7 +436,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-peacharine-10/6709563",
       "style": "IPA - Session New England / Hazy",
       "abv": "4.1%",
-      "rating": "3.799",
+      "rating": "3.835",
       "description": "Jednochmelová Session NEIPA, která dává naplno vyniknout novozélandské odrůdě Peacharine. Ta je známá svojí výraznou ovocností, kde dominují tóny broskví, nektarinek a dalších peckovin, doplněné o lehké citrusy a tropické ovoce. \r\n\r\nDíky nižšímu alkoholu zůstává pivo lehké, svěží a skvěle pitelné, ale zároveň si drží plný aromatický projev. Jemné tělo, nízká hořkost a důraz na šťavnatost dělají z tohohle kousku ideálního společníka na delší pití.",
       "containers": [
         {
@@ -615,7 +588,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.563",
+      "rating": "3.565",
       "containers": [
         {
           "size": "0.2L",
@@ -640,7 +613,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.763",
+      "rating": "3.762",
       "containers": [
         {
           "size": "0.2L",
@@ -691,7 +664,7 @@
       "url": "https://untappd.com/b/friends-company-dark-vibes/6447826",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.594",
+      "rating": "3.595",
       "description": "Smoothie Sour Gose with Blackcurrant, Mango and a touch of Coconut.",
       "containers": [
         {
@@ -743,7 +716,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.822",
+      "rating": "3.831",
       "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
       "containers": [
         {
@@ -769,7 +742,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-grinebitter/6198588",
       "style": "Bitter - Extra Special / Strong (ESB)",
       "abv": "5.5%",
-      "rating": "3.563",
+      "rating": "3.564",
       "containers": [
         {
           "size": "0.2L",
@@ -794,7 +767,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-taste-superdelic-o/6637121",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.722",
+      "rating": "3.707",
       "description": "Drink And Taste Superdelic je první várka z naší nové řady nealkoholických single hop NEIPA. Cílem je ukázat charakter jednotlivých chmelů bez vlivů kombinací – čistě, přímo a naplno. Superdelic je moderní novozélandská odrůda známá svým intenzivním aromatickým profilem. V pivu se projevuje výraznými tóny tropického ovoce, červených bobulí a lehce citrusovým dozvukem. I bez alkoholu si drží plnost, šťavnatost a výraznou chmelovou stopu. Tohle je nealko, které není o kompromisu, ale o chuti. A o tom poznat jeden chmel opravdu do detailu.",
       "containers": [
         {
@@ -924,7 +897,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.217",
+      "rating": "3.218",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1026,6 +999,23 @@
         {
           "size": "0.44L Can",
           "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "None the Wiser",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-none-the-wiser/6637585",
+      "style": "Stout - Imperial / Double Coffee",
+      "abv": "13%",
+      "ibu": "20",
+      "rating": "4.207",
+      "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "285.00",
           "currency": "CZK"
         }
       ]
@@ -1469,7 +1459,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.171",
+      "rating": "4.172",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1530,7 +1520,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.174",
+      "rating": "4.176",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1583,6 +1573,54 @@
         {
           "size": "0.375L Bottle",
           "price": "410.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Illegal Cargo",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-illegal-cargo/6514623",
+      "style": "IPA - Imperial / Double",
+      "abv": "7.9%",
+      "rating": "3.91",
+      "description": "Illegal Cargo\r\nIPA – Imperial / Double\r\n7,9% - 70 IBU\r\n\r\ndescription:\r\nDry hopped West Coast Double IPA with Mosaic, Riwaka, Chinook, Columbus.\r\nCollaboration with our West-Coast-is-the-Best-Coast pals from Aalborg, Denmark.\r\nContains barley, wheat.",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "170.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Once Upon A Time In Eternia (2026)",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-once-upon-a-time-in-eternia-2026/6606419",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "rating": "4.046",
+      "description": "Hazy IPA with Citra, Simcoe, Centennial.\r\n\r\nContains barley, wheat.\r\n",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "210.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "The Divine Jobless",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.5%",
+      "rating": "4.012",
+      "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "210.00",
           "currency": "CZK"
         }
       ]
@@ -1703,22 +1741,6 @@
       ]
     },
     {
-      "name": "Lumber For Ale (2025)",
-      "brewery": "Badlands Brewing Company",
-      "url": "https://untappd.com/b/badlands-brewing-company-lumber-for-ale-2025/6445189",
-      "style": "IPA - American",
-      "abv": "6.5%",
-      "rating": "4.256",
-      "description": "Did we trade beer for a sweet, wood stained table? Yes, yes we did. This was the beer we exchanged in a true throwback to a time before currency; where things such as lumber and ale ruled supreme.\r\n\r\nYou can still find this table in the beer bus to the left side of the bar/serving area. It is beautiful and was built by Mike's brother in law, Shavin. We appreciate him.\r\n\r\nThis years version of Lumber for Ale features a heavy dosing of Simcoe hops with an accent of Motueka. We taste dense notes of orange citrus, pineapple, and tropical fruit.",
-      "containers": [
-        {
-          "size": "0.5L Can",
-          "price": "360.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Mingle (October 2025)",
       "brewery": "Badlands Brewing Company",
       "url": "https://untappd.com/b/badlands-brewing-company-mingle-october-2025/6451462",
@@ -1762,6 +1784,23 @@
         {
           "size": "0.5L Can",
           "price": "500.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Blåbärsoppa",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-blabarsoppa/6683054",
+      "style": "Sour - Fruited",
+      "abv": "5%",
+      "ibu": "8",
+      "rating": "4.195",
+      "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "260.00",
           "currency": "CZK"
         }
       ]
