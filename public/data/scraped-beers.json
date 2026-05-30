@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-05-29T09:32:07.049Z",
-  "totalBeers": 128,
+  "scrapedAt": "2026-05-30T08:14:36.484Z",
+  "totalBeers": 127,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -299,13 +299,13 @@
       ]
     },
     {
-      "name": "07. Amnesia Haze",
+      "name": "7. Amnesia Haze",
       "brewery": "La Grúa",
       "url": "https://untappd.com/b/la-grua-amnesia-haze/2355600",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
       "ibu": "43",
-      "rating": "3.899",
+      "rating": "3.897",
       "description": "Reeditamos nuestra primera DDH NEIPA con lúpulos CITRA, MOSAIC y AMARILLO y un generoso doble dry hopping. Más cítrica, más potente y mas equilibrada que nunca!",
       "containers": [
         {
@@ -332,7 +332,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "30",
-      "rating": "3.852",
+      "rating": "3.851",
       "description": "Single hop hazy IPA featuring the amazing Citra hop, double dry hopped with 20g/L. Malt base: Extra Pale Maris Otter, Malted & Flaked Oats, Wheat.",
       "containers": [
         {
@@ -384,7 +384,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.667",
+      "rating": "3.663",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -463,7 +463,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-peacharine-10/6709563",
       "style": "IPA - Session New England / Hazy",
       "abv": "4.1%",
-      "rating": "3.825",
+      "rating": "3.807",
       "description": "Jednochmelová Session NEIPA, která dává naplno vyniknout novozélandské odrůdě Peacharine. Ta je známá svojí výraznou ovocností, kde dominují tóny broskví, nektarinek a dalších peckovin, doplněné o lehké citrusy a tropické ovoce. \r\n\r\nDíky nižšímu alkoholu zůstává pivo lehké, svěží a skvěle pitelné, ale zároveň si drží plný aromatický projev. Jemné tělo, nízká hořkost a důraz na šťavnatost dělají z tohohle kousku ideálního společníka na delší pití.",
       "containers": [
         {
@@ -479,6 +479,33 @@
         {
           "size": "Flights of 5/10",
           "price": "30.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "40. Nectar of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153",
+      "style": "IPA - New England / Hazy",
+      "abv": "7%",
+      "ibu": "60",
+      "rating": "3.988",
+      "description": "Nejprodávanější new england ipa pivovaru. V chuti i vůni výrazné tóny ananasu, manga a žlutého melounu.\r\n\r\nV půlce roku 2019 vyhlášeno serverem Untappd.com nejlepším pivem v České republice.\r\n\r\nJedná se o námi zamilovaný styl NEIPA, pro který je typické extrémní množství použitého aromatického chmele v pozdních fázích výroby, to z důvodu, abychom dosáhli maximální možné ovocitosti ve vůni i v chuti, ale hořkost stále drželi na uzdě. Dále se používají ovesné vločky, které zjemní strukturu těla a pivo je pak krásně sametové. A v neposlední řadě, hraje významnou roli speciální kmen kvasnic.\r\n___\r\n\r\nThe brewery's best selling New England IPA. In taste and aroma, distinct notes of pineapple, mango and yellow melon.\r\n\r\nIn the middle of 2019, Untappd.com announced it as the best beer in the Czech Republic.\r\n\r\nThis is the NEIPA style we love, which is characterized by the extreme amount of aromatic hops used in the late stages of production, achieving maximum possible fruitiness in the aroma and taste.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "80.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "130.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "60.00",
           "currency": "CZK"
         }
       ]
@@ -510,7 +537,7 @@
       "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2024/6179669",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11%",
-      "rating": "3.897",
+      "rating": "3.895",
       "containers": [
         {
           "size": "0.2L",
@@ -530,7 +557,7 @@
       "url": "https://untappd.com/b/drunken-bros-whitney-memorial-series/6134157",
       "style": "Stout - Imperial / Double",
       "abv": "10.7%",
-      "rating": "3.956",
+      "rating": "3.96",
       "description": "Imperial Stout Speculoos & Cocoa",
       "containers": [
         {
@@ -568,33 +595,12 @@
       ]
     },
     {
-      "name": "17. WAR REQUIEM",
-      "brewery": "Laugar Brewery",
-      "url": "https://untappd.com/b/laugar-brewery-war-requiem/6608065",
-      "style": "Stout - Imperial / Double",
-      "abv": "10.5%",
-      "rating": "4.124",
-      "description": "Imperial Stout Aged in Scotch Whisky Barrels",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "240.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "180.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "36. Valhalla Barrel Aged House Stout 2025",
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.178",
+      "rating": "4.171",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -615,7 +621,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.572",
+      "rating": "3.576",
       "containers": [
         {
           "size": "0.2L",
@@ -640,7 +646,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.766",
+      "rating": "3.765",
       "containers": [
         {
           "size": "0.2L",
@@ -691,7 +697,7 @@
       "url": "https://untappd.com/b/friends-company-dark-vibes/6447826",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.597",
+      "rating": "3.599",
       "description": "Smoothie Sour Gose with Blackcurrant, Mango and a touch of Coconut.",
       "containers": [
         {
@@ -733,32 +739,6 @@
         {
           "size": "Flights of 5/10",
           "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "40. Thyme Is Now 12",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-thyme-is-now-12/6709089",
-      "style": "Sour - Fruited Gose",
-      "abv": "5.1%",
-      "rating": "3.8",
-      "description": "Gose je historický německý styl, který si v moderním craft světě našel nové místo především díky své unikátní kombinaci kyselosti a jemné slanosti. My jsme se rozhodli tenhle osvěžující základ posunout ještě dál a přidali do něj výraznou, ale stále elegantní kombinaci citronu a tymiánu.  \r\n\r\nCitron vnáší do piva výraznou, šťavnatou kyselost a okamžitý refresh, tymián pak přidává lehce kořenitou bylinnou linku. Lehké tělo, vysoká pitelnost a čistý profil. Jedno z těch piv, co zmizí dřív, než to čekáš. ",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "40.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "75.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
           "currency": "CZK"
         }
       ]
@@ -820,7 +800,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.377",
+      "rating": "3.376",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -929,7 +909,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.218",
+      "rating": "3.217",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1042,7 +1022,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.208",
+      "rating": "4.207",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1123,7 +1103,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.101",
+      "rating": "4.102",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1491,7 +1471,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.172",
+      "rating": "4.166",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1507,7 +1487,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.945",
+      "rating": "3.943",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1522,7 +1502,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.287",
+      "rating": "4.29",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1552,7 +1532,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.176",
+      "rating": "4.177",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1647,7 +1627,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.012",
+      "rating": "4.01",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -1827,7 +1807,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.187",
+      "rating": "4.184",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -2051,7 +2031,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.494",
+      "rating": "3.491",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -2148,7 +2128,7 @@
       "style": "Wild Ale - Other",
       "abv": "10%",
       "ibu": "15",
-      "rating": "3.968",
+      "rating": "3.969",
       "description": "Rigs and Ratlines is a blend of wild fermented vintages matured on oak with raspberry added before bottling. This gives a semi-dry and balanced acidity with a full mouthfeel and ﬂavors of raspberries, cloudberries, citrus, sour apricot and grapes.",
       "containers": [
         {
@@ -2197,7 +2177,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2021/5010424",
       "style": "Barleywine - English",
       "abv": "13.4%",
-      "rating": "4.123",
+      "rating": "4.122",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -2275,7 +2255,7 @@
       "url": "https://untappd.com/b/marlobobo-stevnsberry-2024/6365785",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.58",
+      "rating": "4.579",
       "description": "Stevnsbær, single variety cherry mead.\r\n\r\nThe Stevns variety is known for its small size, deep red/burgundy color and its distinctively complex flavor. It shouldn't be taken lightly that it has been named \"Nordic Grape\" by many.\r\n\r\nExpect a cherry forward, semi-sweet mead with a lingering finish of honey, cherries, and notes of almond, cinnamon and vanilla. The well integrated tannins from cherry skins and oak ties it all together.\r\n\r\n-------------------------- 2024 --------------------------\r\n\r\nThis vintage is a blend of two threads. One that has aged in stainless steel and one that has conditioned on oak staves for about 6 months, adding some extra volume, structure and vanilla notes to the final blend.\r\n\r\nHoney variety:\r\nWildflower from Konnerud\r\n\r\nCherry variety:\r\nStevnsbær from Svelvik\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
