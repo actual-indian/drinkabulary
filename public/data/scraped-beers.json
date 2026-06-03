@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-02T10:00:11.104Z",
-  "totalBeers": 125,
+  "scrapedAt": "2026-06-03T10:31:20.864Z",
+  "totalBeers": 119,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -68,7 +68,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-neo-12/6709535",
       "style": "Lager - IPL (India Pale Lager)",
       "abv": "5.1%",
-      "rating": "3.722",
+      "rating": "3.719",
       "description": "Voňavý ležák s moderními americkými chmely Loral a Idaho 7. Chmelová pecka v čistém ležákovém těle. Citrusy, lehká bylinnost a suchý, extrémně pitelný profil.",
       "containers": [
         {
@@ -198,7 +198,7 @@
       "style": "IPA - American",
       "abv": "7.1%",
       "ibu": "45",
-      "rating": "3.655",
+      "rating": "3.65",
       "containers": [
         {
           "size": "0.2L",
@@ -224,7 +224,7 @@
       "style": "IPA - American",
       "abv": "5.9%",
       "ibu": "33",
-      "rating": "3.643",
+      "rating": "3.644",
       "description": "This modern IPA uses a blend of simcoe, amarillo, and citra hops. It is a bit hazy, but not like a New England IPA that is totally opaque. Rather than trying to make the richest flavor on the planet, it has a good balance between drinkability and juicy flavor, in line with all your favorite current IPAs.",
       "containers": [
         {
@@ -250,7 +250,7 @@
       "url": "https://untappd.com/b/aben-oceanic/6573932",
       "style": "IPA - Other",
       "abv": "7%",
-      "rating": "3.685",
+      "rating": "3.679",
       "description": "West Coast IPA ",
       "containers": [
         {
@@ -271,40 +271,13 @@
       ]
     },
     {
-      "name": "2. Organic Hazy IPA",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-organic-hazy-ipa/6203379",
-      "style": "IPA - New England / Hazy",
-      "abv": "6.5%",
-      "ibu": "30",
-      "rating": "3.663",
-      "description": "Our Organic Hazy IPA showcases the best organic malts and hops carefully selected by our brewers. The hop blend is a mix of German Amira, Cascade, Callista and Hallertauer Blanc plus some exciting Pacific Gem from New Zealand. This fruity/juicy combo pairs well with the malt bill designed for some gorgeous haze. Crafted to be a fuller bodied, sweet and delicious IPA. For those who tried our organic IPA in 2024, this is a very different beer.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "110.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "180.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "7. Amnesia Haze",
       "brewery": "La Grúa",
       "url": "https://untappd.com/b/la-grua-amnesia-haze/2355600",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
       "ibu": "43",
-      "rating": "3.899",
+      "rating": "3.901",
       "description": "Reeditamos nuestra primera DDH NEIPA con lúpulos CITRA, MOSAIC y AMARILLO y un generoso doble dry hopping. Más cítrica, más potente y mas equilibrada que nunca!",
       "containers": [
         {
@@ -330,7 +303,7 @@
       "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
       "style": "IPA - New England / Hazy",
       "abv": "6.4%",
-      "rating": "3.834",
+      "rating": "3.835",
       "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
       "containers": [
         {
@@ -382,7 +355,7 @@
       "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.761",
+      "rating": "3.763",
       "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
       "containers": [
         {
@@ -408,7 +381,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-double-riri/6397119",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.2%",
-      "rating": "4.379",
+      "rating": "4.377",
       "description": "Everything you know and love about RIRI, but double! \r\n\r\nWe are obsessed with Riwaka here at Badlands and Riri is our love letter to this fascinating, shapeshifter of a hop.\r\n\r\nRiwaka is a delicious New Zealand hop varietal that presents a complex blend of mixed citrus with this killer dank note that we love. We hope you love it as much as we do!",
       "containers": [
         {
@@ -434,7 +407,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-peacharine-10/6709563",
       "style": "IPA - Session New England / Hazy",
       "abv": "4.1%",
-      "rating": "3.77",
+      "rating": "3.753",
       "description": "Jednochmelová Session NEIPA, která dává naplno vyniknout novozélandské odrůdě Peacharine. Ta je známá svojí výraznou ovocností, kde dominují tóny broskví, nektarinek a dalších peckovin, doplněné o lehké citrusy a tropické ovoce. \r\n\r\nDíky nižšímu alkoholu zůstává pivo lehké, svěží a skvěle pitelné, ale zároveň si drží plný aromatický projev. Jemné tělo, nízká hořkost a důraz na šťavnatost dělají z tohohle kousku ideálního společníka na delší pití.",
       "containers": [
         {
@@ -487,7 +460,7 @@
       "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
       "style": "Stout - Imperial / Double",
       "abv": "11%",
-      "rating": "4",
+      "rating": "3.999",
       "description": "Imperial Stout con Haba Tonka.",
       "containers": [
         {
@@ -623,7 +596,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.764",
+      "rating": "3.765",
       "containers": [
         {
           "size": "0.2L",
@@ -674,7 +647,7 @@
       "url": "https://untappd.com/b/friends-company-dark-vibes/6447826",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.599",
+      "rating": "3.6",
       "description": "Smoothie Sour Gose with Blackcurrant, Mango and a touch of Coconut.",
       "containers": [
         {
@@ -803,7 +776,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.858",
+      "rating": "3.857",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -829,7 +802,7 @@
       "url": "https://untappd.com/b/marlobobo-pulpo-fiction-2022/5704401",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.305",
+      "rating": "4.311",
       "description": "Blend of wildberry mead and bourbon barrel-aged imperial stout with Ugandan vanilla and Spanish squid ink.\r\n\r\nAn experimental braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a strawberry-forward wildberry mead with our bourbon BA vanilla imperial stout (Golden Tears). The blend surprised us with some subtle umami notes that we wanted to highlight with a small dose of umami-rich squid ink.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -870,7 +843,7 @@
       "brewery": "Rodinný pivovar Zichovec",
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.399",
+      "rating": "3.4",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -886,7 +859,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.211",
+      "rating": "3.21",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -925,21 +898,6 @@
         {
           "size": "33cl Can",
           "price": "115.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Fresh Hop",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-fresh-hop-beer/6449081",
-      "style": "Lager - Other",
-      "abv": "4.8%",
-      "rating": "3.508",
-      "containers": [
-        {
-          "size": "0.44L Can",
-          "price": "130.00",
           "currency": "CZK"
         }
       ]
@@ -1289,7 +1247,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.103",
+      "rating": "4.102",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1462,7 +1420,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.288",
+      "rating": "4.287",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1767,7 +1725,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.171",
+      "rating": "4.173",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -2007,7 +1965,7 @@
       "url": "https://untappd.com/b/wild-nation-sandamendi/4895898",
       "style": "Wild Ale - Other",
       "abv": "5.3%",
-      "rating": "3.939",
+      "rating": "3.94",
       "description": "Mixed fermentation wild ale",
       "containers": [
         {
@@ -2137,7 +2095,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2021/5010424",
       "style": "Barleywine - English",
       "abv": "13.4%",
-      "rating": "4.12",
+      "rating": "4.121",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -2226,22 +2184,6 @@
       ]
     },
     {
-      "name": "Fanal Free Jazz (2023)",
-      "brewery": "Marlobobo",
-      "url": "https://untappd.com/b/marlobobo-fanal-free-jazz-2023/5716140",
-      "style": "Mead - Melomel",
-      "abv": "11%",
-      "rating": "4.52",
-      "description": "Fanal, single variety cherry mead (Spontaneously fermented and terroir-driven).\r\n\r\nNo added water or yeast. Solely fermented from the yeast and bacteria naturally present on the cherries. The cherries had 14 days of skin contact, before only free-run juice was collected.\r\n\r\n------------------------- 2023 --------------------------\r\n\r\nHoney variety:\r\nLate-harvested wildflower honey that was exceptionally dark, caramelly and complex.\r\n\r\nCherry variety:\r\nFanal\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "1440.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Kokemomo (2023)",
       "brewery": "Marlobobo",
       "url": "https://untappd.com/b/marlobobo-kokemomo-2023/6151420",
@@ -2258,22 +2200,6 @@
       ]
     },
     {
-      "name": "Omniversal Escapism (2022)",
-      "brewery": "Marlobobo",
-      "url": "https://untappd.com/b/marlobobo-omniversal-escapism-2022/5826663",
-      "style": "Mead - Melomel",
-      "abv": "14.5%",
-      "rating": "4.491",
-      "description": "Raspberry mead aged in old Plantation rum barrels for 11 months.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nBarrel origin:\r\nVery old Plantation rum from Barbados (11 months aging)\r\n*These barrels originates from around the 90's. They were used to make whiskey by Willowbank Distillery before they were shipped to Barbados to further age rum. Willowbank ceased operation all the way back in 1997!*\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nRaspberry variety:\r\nGlen Ample\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "1735.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Philanthropic Typographer (2022)",
       "brewery": "Marlobobo",
       "url": "https://untappd.com/b/marlobobo-philanthropic-typographer-2022/5943851",
@@ -2285,38 +2211,6 @@
         {
           "size": "375ml Bottle",
           "price": "1565.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Fanal CRYO Ugandan Vanilla (2024)",
-      "brewery": "Marlobobo",
-      "url": "https://untappd.com/b/marlobobo-fanal-cryo-ugandan-vanilla-2024/6318517",
-      "style": "Mead - Melomel",
-      "abv": "11.5%",
-      "rating": "4.775",
-      "description": "A freeze-concentrated cherry mead (or ice melomel if you will). Aged on a serious amount of Ugandan vanilla beans.\r\n\r\nWhat happens when you take an already ultra-concentrated no-water melomel - and go even further by freeze-concentrating the cherry component, cutting its water content in half?\r\n\r\nYou get an insane saturation of pure cherry flavor, a glass-destroying lacing and an explosive acid/sweetness balance which let the flavors of pure cherry and honey linger forever.\r\n\r\nWell, that's our opinion. What's yours?\r\n\r\n\r\n------------------------------ 2024 ------------------------------\r\n\r\n\r\n*276 bottles made*\r\n\r\nHoney variety:\r\nWildflower from Lillesand and Konnerud\r\n\r\nCherry variety:\r\nFanal from Svelvik\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "2750.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "SCHAARBEE CRYO (2024)",
-      "brewery": "Marlobobo",
-      "url": "https://untappd.com/b/marlobobo-schaarbee-cryo-2024/6398191",
-      "style": "Mead - Melomel",
-      "abv": "11%",
-      "rating": "4.755",
-      "description": "A freeze-concentrated cherry mead (or ice melomel if you will).\r\n\r\nWhat happens when you take an already ultra-concentrated no-water melomel - and go even further by freeze-concentrating the cherry component, cutting its water content in half?\r\n\r\nYou get an insane saturation of pure cherry flavor, a glass-destroying lacing and an explosive acid/sweetness balance which let the flavors of pure cherry and honey linger forever.\r\n\r\nWell, that's our opinion. What's yours?\r\n\r\n\r\n------------------------------ 2024 ------------------------------\r\n\r\n\r\n*159 bottles made*\r\n\r\nHoney variety:\r\nWildflower from Tønsberg and Lillesand\r\n\r\nCherry variety:\r\nSchaarbeekse cherries from Lindheim, Telemark.\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
-      "containers": [
-        {
-          "size": "375ml Bottle",
-          "price": "2965.00",
           "currency": "CZK"
         }
       ]
