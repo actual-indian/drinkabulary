@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-03T10:31:20.864Z",
-  "totalBeers": 119,
+  "scrapedAt": "2026-06-04T09:41:26.643Z",
+  "totalBeers": 116,
   "beers": [
     {
       "name": "32. Krahulík 11",
@@ -58,32 +58,6 @@
         {
           "size": "Flights of 5/10",
           "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "39. Neo 12",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-neo-12/6709535",
-      "style": "Lager - IPL (India Pale Lager)",
-      "abv": "5.1%",
-      "rating": "3.719",
-      "description": "Voňavý ležák s moderními americkými chmely Loral a Idaho 7. Chmelová pecka v čistém ležákovém těle. Citrusy, lehká bylinnost a suchý, extrémně pitelný profil.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "40.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "75.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
           "currency": "CZK"
         }
       ]
@@ -167,31 +141,6 @@
       ]
     },
     {
-      "name": "21. La Grúa Session IPA",
-      "brewery": "La Grúa",
-      "url": "https://untappd.com/b/la-grua-la-grua-session-ipa/3384257",
-      "style": "IPA - Session",
-      "abv": "4.5%",
-      "rating": "3.379",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "145.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "65.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "23. Hop Beauty Control",
       "brewery": "To Øl CPH",
       "url": "https://untappd.com/b/to-ol-cph-hop-beauty-control/6433321",
@@ -213,6 +162,31 @@
         {
           "size": "Flights of 5/10",
           "price": "85.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "24. La Grúa Session IPA",
+      "brewery": "La Grúa",
+      "url": "https://untappd.com/b/la-grua-la-grua-session-ipa/3384257",
+      "style": "IPA - Session",
+      "abv": "4.5%",
+      "rating": "3.379",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "85.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "145.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "65.00",
           "currency": "CZK"
         }
       ]
@@ -240,32 +214,6 @@
         {
           "size": "Flights of 5/10",
           "price": "45.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "26. Oceanic",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-oceanic/6573932",
-      "style": "IPA - Other",
-      "abv": "7%",
-      "rating": "3.679",
-      "description": "West Coast IPA ",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "115.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "185.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
           "currency": "CZK"
         }
       ]
@@ -303,7 +251,7 @@
       "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
       "style": "IPA - New England / Hazy",
       "abv": "6.4%",
-      "rating": "3.835",
+      "rating": "3.834",
       "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
       "containers": [
         {
@@ -319,32 +267,6 @@
         {
           "size": "Flights of 5/10",
           "price": "90.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "24. My Favourite Sweater",
-      "brewery": "ÅBEN",
-      "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
-      "style": "IPA - Imperial / Double",
-      "abv": "6.1%",
-      "rating": "3.659",
-      "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "105.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "175.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "80.00",
           "currency": "CZK"
         }
       ]
@@ -571,7 +493,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.574",
+      "rating": "3.575",
       "containers": [
         {
           "size": "0.2L",
@@ -621,7 +543,7 @@
       "url": "https://untappd.com/b/brewski-li/6354290",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.871",
+      "rating": "3.87",
       "description": "A tribute to our dear friend Li from Malmö Brewing who tragically passed away in an accident. Fruited sour with Papaya, Mango, Passion Fruit och Pineapple.",
       "containers": [
         {
@@ -647,7 +569,7 @@
       "url": "https://untappd.com/b/friends-company-dark-vibes/6447826",
       "style": "Sour - Fruited Gose",
       "abv": "5.6%",
-      "rating": "3.6",
+      "rating": "3.601",
       "description": "Smoothie Sour Gose with Blackcurrant, Mango and a touch of Coconut.",
       "containers": [
         {
@@ -673,7 +595,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-apricot-symphony/5715042",
       "style": "Sour - Smoothie / Pastry",
       "abv": "6.2%",
-      "rating": "3.843",
+      "rating": "3.842",
       "description": "Kooperace Haksna",
       "containers": [
         {
@@ -776,7 +698,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.857",
+      "rating": "3.856",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -1054,7 +976,7 @@
       "url": "https://untappd.com/b/drunken-bros-black-and-deep/1254820",
       "style": "Stout - Russian Imperial",
       "abv": "11.3%",
-      "rating": "4.121",
+      "rating": "4.12",
       "description": "Ultima edición 2022.\r\nRussian Imperial Stout con café de Colombia y envejecida con astillas de barrica de Whisky escocés.\r\nIlustración Antonio Bravo.\r\n\r\n",
       "containers": [
         {
@@ -1247,7 +1169,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.102",
+      "rating": "4.103",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1263,7 +1185,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.111",
+      "rating": "4.112",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1420,7 +1342,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.287",
+      "rating": "4.285",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1435,7 +1357,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.274",
+      "rating": "4.263",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1725,7 +1647,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.173",
+      "rating": "4.179",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1949,7 +1871,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.485",
+      "rating": "3.488",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
