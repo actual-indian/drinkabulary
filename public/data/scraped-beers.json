@@ -1,8 +1,217 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-04T09:41:26.643Z",
-  "totalBeers": 116,
+  "scrapedAt": "2026-06-05T09:26:47.218Z",
+  "totalBeers": 123,
   "beers": [
+    {
+      "name": "2. Dolly Don‘t Dance",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-dolly-don-t-dance/6399387",
+      "style": "Sour - Fruited",
+      "abv": "4.8%",
+      "rating": "3.519",
+      "description": "DOLLY DON’T DANCE\r\nSour Ale w/ hibiscus and grapefruit – 4,8%\r\n \r\nAll Hallow’s Eve and the Wild Wild West? Sign us up ???\r\n \r\nWith Summer of Savage @suddendeathbrewpub underway this weekend, we’ve got a fresher-than-fresh Sour coming your way.\r\n \r\nDolly Don’t Dance was conditioned on a mountain of hibiscus flowers and grapefruit peel, and kissed with a little more sea salt than usual.\r\n \r\nIf you’re an OG and remember when Sours clean and crisp, this is your beer.\r\n\r\nFruity, tart, and refreshing.\r\n \r\nadjuncts: hibiscus, grapefruit peel, sea salt.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "115.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "185.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "85.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "5. Dockside",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-dockside/6606464",
+      "style": "Stout - English",
+      "abv": "4%",
+      "rating": "3.672",
+      "description": "Stout hopped with Challenger.\r\n\r\nContains barley.\r\n\r\n\r\n",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "225.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "12. The Fabulous Fruits of Doom",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-the-fabulous-fruits-of-doom/6637586",
+      "style": "Sour - Smoothie / Pastry",
+      "abv": "5%",
+      "ibu": "8",
+      "rating": "4.183",
+      "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "210.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "160.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "14. Pilsener Program v.01 - Canadian Pilsner",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-pilsener-program-v-01-canadian-pilsner/6698916",
+      "style": "Pilsner - American",
+      "abv": "5.2%",
+      "ibu": "30",
+      "rating": "3.729",
+      "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "130.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "210.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "95.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "15. Brick By Brick",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-brick-by-brick/6683048",
+      "style": "Red Ale - Other",
+      "abv": "5.2%",
+      "ibu": "42",
+      "rating": "3.655",
+      "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "130.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "210.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "95.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "20. Alchemy of Faith",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-alchemy-of-faith/6709763",
+      "style": "Pale Ale - New England / Hazy",
+      "abv": "5.5%",
+      "ibu": "24",
+      "rating": "4.233",
+      "description": "Our tribute to and interpretation of Northern Monk's Faith.\r\n\r\nBrian - Northern Monk co-founder - kindly shared his memories of the recipe circa 2016-2018, while implementing his own twist inspired by the Alchemist (Vermont, USA) in our version.\r\n\r\nDry hopped with Citra, Columbus, Mosaic, Simcoe\r\n\r\ncontains: barley, wheat, oats",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "125.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "205.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "95.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "21. Daily Greens",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-daily-greens/6717709",
+      "style": "Pale Ale - American",
+      "abv": "6%",
+      "ibu": "42",
+      "rating": "4.135",
+      "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "125.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "205.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "95.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "28. Let's Order A Pizza (2026)",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-let-s-order-a-pizza-2026/6665238",
+      "style": "IPA - Triple New England / Hazy",
+      "abv": "9.5%",
+      "ibu": "10",
+      "rating": "4.211",
+      "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "170.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "285.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
     {
       "name": "32. Krahulík 11",
       "brewery": "Rodinný pivovar Zichovec",
@@ -136,6 +345,32 @@
         {
           "size": "Flights of 5/10",
           "price": "75.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "22. Narangi",
+      "brewery": "O/O Brewing ",
+      "url": "https://untappd.com/b/o-o-brewing-narangi/1692471",
+      "style": "IPA - American",
+      "abv": "6.8%",
+      "rating": "3.897",
+      "description": "Mosaic",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "70.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "55.00",
           "currency": "CZK"
         }
       ]
@@ -303,7 +538,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-double-riri/6397119",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.2%",
-      "rating": "4.377",
+      "rating": "4.375",
       "description": "Everything you know and love about RIRI, but double! \r\n\r\nWe are obsessed with Riwaka here at Badlands and Riri is our love letter to this fascinating, shapeshifter of a hop.\r\n\r\nRiwaka is a delicious New Zealand hop varietal that presents a complex blend of mixed citrus with this killer dank note that we love. We hope you love it as much as we do!",
       "containers": [
         {
@@ -319,32 +554,6 @@
         {
           "size": "Flights of 5/10",
           "price": "145.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "34. Veni Vidi Peacharine 10",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-peacharine-10/6709563",
-      "style": "IPA - Session New England / Hazy",
-      "abv": "4.1%",
-      "rating": "3.753",
-      "description": "Jednochmelová Session NEIPA, která dává naplno vyniknout novozélandské odrůdě Peacharine. Ta je známá svojí výraznou ovocností, kde dominují tóny broskví, nektarinek a dalších peckovin, doplněné o lehké citrusy a tropické ovoce. \r\n\r\nDíky nižšímu alkoholu zůstává pivo lehké, svěží a skvěle pitelné, ale zároveň si drží plný aromatický projev. Jemné tělo, nízká hořkost a důraz na šťavnatost dělají z tohohle kousku ideálního společníka na delší pití.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "40.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "75.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
           "currency": "CZK"
         }
       ]
@@ -372,27 +581,6 @@
         {
           "size": "Flights of 5/10",
           "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "1. Rosetta (Memorial Series)",
-      "brewery": "Drunken Bros",
-      "url": "https://untappd.com/b/drunken-bros-rosetta-memorial-series/6050684",
-      "style": "Stout - Imperial / Double",
-      "abv": "11%",
-      "rating": "3.999",
-      "description": "Imperial Stout con Haba Tonka.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "170.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "130.00",
           "currency": "CZK"
         }
       ]
@@ -446,7 +634,7 @@
       "style": "Stout - Russian Imperial",
       "abv": "12%",
       "ibu": "92",
-      "rating": "4.057",
+      "rating": "4.056",
       "description": "Una cerveza que no olvidarás, una vez la pruebes soñarás con enrolarte en el oscuro ejército tovarisch. De profundo color negro opaco de cuerpo medio alto y cremoso. Marcado aroma tostado y torrefacto que se envuelve en toques licorosos y de frutos secos. Contundente y compleja en sabor con predominio de notas a café y chocolate con un amargor ligero y sutil en retrogusto.",
       "containers": [
         {
@@ -472,7 +660,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.172",
+      "rating": "4.175",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -493,7 +681,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.575",
+      "rating": "3.577",
       "containers": [
         {
           "size": "0.2L",
@@ -621,7 +809,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-grinebitter/6198588",
       "style": "Bitter - Extra Special / Strong (ESB)",
       "abv": "5.5%",
-      "rating": "3.565",
+      "rating": "3.563",
       "containers": [
         {
           "size": "0.2L",
@@ -698,7 +886,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.856",
+      "rating": "3.857",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -781,7 +969,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.21",
+      "rating": "3.211",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -862,7 +1050,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-humlesus-lite/6137098",
       "style": "Pale Ale - Other",
       "abv": "4.3%",
-      "rating": "3.159",
+      "rating": "3.158",
       "description": "Humlesus Lite er en Glutenfri, lys, leskende og lettdrikkelig pale ale. Med et sus av tropiske frukter og en snert av forfriskende bitterhet. Ølet har 30% færre kalorier og 70% færre karbohydrater enn klassisk Humlesus. Den avstemte bitterheten og den humledrevne aromaen gjør det til et godt valg til pizza og varianter av taco. Serveres på 2-5 grader.",
       "containers": [
         {
@@ -992,7 +1180,7 @@
       "url": "https://untappd.com/b/goose-island-beer-co-big-news-2025/6504795",
       "style": "Stout - Imperial / Double Oatmeal",
       "abv": "14.4%",
-      "rating": "4.284",
+      "rating": "4.283",
       "containers": [
         {
           "size": "0.33L Bottle",
@@ -1087,7 +1275,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-dark-inception-3-salty-caramel-edition/5669764",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "12%",
-      "rating": "4.015",
+      "rating": "4.014",
       "description": "Dark Inception 3 salty caramel edition, is a bourbon barrel aged stout with salty caramel, and coffee from the Varghese family farm in the south of India. The coffee adds flavour to an already complex aroma with notes of salty caramel, chocolate, cocoa, and molasses.",
       "containers": [
         {
@@ -1311,7 +1499,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.167",
+      "rating": "4.168",
       "description": "Imperial Stout aged in Woodford Reserve barrels",
       "containers": [
         {
@@ -1327,7 +1515,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.945",
+      "rating": "3.947",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1342,7 +1530,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.285",
+      "rating": "4.286",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1467,7 +1655,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.009",
+      "rating": "4.008",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -1565,7 +1753,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
       "ibu": "15",
-      "rating": "4.071",
+      "rating": "4.072",
       "description": "Brand new juicy double New England IPA. The beer is brewed with a lot of oats and wheat for a fluffy mouthfeel. Dry hopped in two stage with the new harvest of Peacharine and Nelson Sauvin from Freestyle Hops, together with Citra cryo and the flowable potent Hyperboost Krush. All the hops together will bring out flavors of peaches, grapes, bubblegum and some dankness.",
       "containers": [
         {
@@ -1647,7 +1835,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.179",
+      "rating": "4.175",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1871,7 +2059,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.488",
+      "rating": "3.491",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -1968,7 +2156,7 @@
       "style": "Wild Ale - Other",
       "abv": "10%",
       "ibu": "15",
-      "rating": "3.972",
+      "rating": "3.969",
       "description": "Rigs and Ratlines is a blend of wild fermented vintages matured on oak with raspberry added before bottling. This gives a semi-dry and balanced acidity with a full mouthfeel and ﬂavors of raspberries, cloudberries, citrus, sour apricot and grapes.",
       "containers": [
         {
