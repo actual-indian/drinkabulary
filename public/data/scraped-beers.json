@@ -1,6 +1,6 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-06T08:22:18.767Z",
+  "scrapedAt": "2026-06-07T08:43:04.114Z",
   "totalBeers": 120,
   "beers": [
     {
@@ -62,7 +62,7 @@
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.184",
+      "rating": "4.175",
       "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -84,7 +84,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.734",
+      "rating": "3.697",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -111,7 +111,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.654",
+      "rating": "3.66",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -138,7 +138,7 @@
       "style": "Pale Ale - New England / Hazy",
       "abv": "5.5%",
       "ibu": "24",
-      "rating": "4.201",
+      "rating": "4.19",
       "description": "Our tribute to and interpretation of Northern Monk's Faith.\r\n\r\nBrian - Northern Monk co-founder - kindly shared his memories of the recipe circa 2016-2018, while implementing his own twist inspired by the Alchemist (Vermont, USA) in our version.\r\n\r\nDry hopped with Citra, Columbus, Mosaic, Simcoe\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -165,7 +165,7 @@
       "style": "Pale Ale - American",
       "abv": "6%",
       "ibu": "42",
-      "rating": "4.133",
+      "rating": "4.094",
       "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -192,7 +192,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.208",
+      "rating": "4.206",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -356,7 +356,7 @@
       "style": "IPA - American",
       "abv": "7.1%",
       "ibu": "45",
-      "rating": "3.65",
+      "rating": "3.655",
       "containers": [
         {
           "size": "0.2L",
@@ -459,7 +459,7 @@
       "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.766",
+      "rating": "3.767",
       "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
       "containers": [
         {
@@ -485,7 +485,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-double-riri/6397119",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.2%",
-      "rating": "4.37",
+      "rating": "4.369",
       "description": "Everything you know and love about RIRI, but double! \r\n\r\nWe are obsessed with Riwaka here at Badlands and Riri is our love letter to this fascinating, shapeshifter of a hop.\r\n\r\nRiwaka is a delicious New Zealand hop varietal that presents a complex blend of mixed citrus with this killer dank note that we love. We hope you love it as much as we do!",
       "containers": [
         {
@@ -559,7 +559,7 @@
       "style": "Bock - Doppelbock",
       "abv": "10.6%",
       "ibu": "20",
-      "rating": "3.779",
+      "rating": "3.78",
       "description": "This beer is actually in the triple bock style. It has lots of flavorful malts (munich, caramunich, double roasted crystal) and a little roasted malt for color. Aged for 365 days in calvados and cognac barrels in our lagering cellar.",
       "containers": [
         {
@@ -607,7 +607,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.175",
+      "rating": "4.182",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -628,7 +628,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.574",
+      "rating": "3.573",
       "containers": [
         {
           "size": "0.2L",
@@ -704,7 +704,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-apricot-symphony/5715042",
       "style": "Sour - Smoothie / Pastry",
       "abv": "6.2%",
-      "rating": "3.841",
+      "rating": "3.845",
       "description": "Kooperace Haksna",
       "containers": [
         {
@@ -730,7 +730,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-grinebitter/6198588",
       "style": "Bitter - Extra Special / Strong (ESB)",
       "abv": "5.5%",
-      "rating": "3.563",
+      "rating": "3.564",
       "containers": [
         {
           "size": "0.2L",
@@ -755,7 +755,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-drive-o/5640863",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.512",
+      "rating": "3.513",
       "description": "Pro naše druhé nealko jsme vyslechli vaše prosby a našli způsob jak pasterovat plechovky, můžete se tak těšit na naše první plechovkové nealko. Pro tuto verzi jsme si vybrali styl, který je nám nejblíž, kalnou voňavou IPA s chmely Cryo Pop a Citra Spectrum. Tak ochutnejte a buďte zodpovědní!\r\n\r\nFor our second non-alcoholic beer we listened to your requests and found a way to pasteurize the cans, so you can look forward to our first canned AF beer. For this release we chose the style that is closest to our hearts, a hazy fragrant IPA with Cryo Pop and Citra Spectrum hops. So give it a taste and stay resposible!",
       "containers": [
         {
@@ -807,7 +807,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
       "style": "Mead - Braggot",
       "abv": "4.3%",
-      "rating": "3.856",
+      "rating": "3.857",
       "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
       "containers": [
         {
@@ -833,7 +833,7 @@
       "url": "https://untappd.com/b/marlobobo-pulpo-fiction-2022/5704401",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.311",
+      "rating": "4.312",
       "description": "Blend of wildberry mead and bourbon barrel-aged imperial stout with Ugandan vanilla and Spanish squid ink.\r\n\r\nAn experimental braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a strawberry-forward wildberry mead with our bourbon BA vanilla imperial stout (Golden Tears). The blend surprised us with some subtle umami notes that we wanted to highlight with a small dose of umami-rich squid ink.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -890,7 +890,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.212",
+      "rating": "3.211",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -906,7 +906,7 @@
       "url": "https://untappd.com/b/bad-flash-proste-lezak-12/1578149",
       "style": "Pilsner - Czech / Bohemian",
       "abv": "4.8%",
-      "rating": "3.476",
+      "rating": "3.475",
       "description": "Chmel ŽPC a Harmonie\r\nOd 12/2021 vařen ve vlastním pivovaru v Kobylisích nejspíš.",
       "containers": [
         {
@@ -939,7 +939,7 @@
       "url": "https://untappd.com/b/aben-aecht/5064000",
       "style": "Smoked Beer",
       "abv": "5.2%",
-      "rating": "3.401",
+      "rating": "3.398",
       "description": "A smokey, round and dark Rauch Bier. Brewed with 80% beech wood smoked malt to give it its delicate smokieness.",
       "containers": [
         {
@@ -988,7 +988,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.214",
+      "rating": "4.218",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1054,7 +1054,7 @@
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
       "ibu": "50",
-      "rating": "3.922",
+      "rating": "3.923",
       "containers": [
         {
           "size": "0.33L Can",
@@ -1069,7 +1069,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.103",
+      "rating": "4.101",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1180,7 +1180,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-amargeddon/6581587",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.992",
+      "rating": "3.993",
       "description": "AMARgeddon, a bond forged in malt.\r\nSome friendships are measured in years; ours is measured in shared brews. For this reunion with our dear friends at Amager (pronounced \"Amar\" just like this beer) we have created Amargeddon. This 12% imperial stout is a tribute to our shared history, brewed with Norwegian forest honey and tucked away for 14 months in aquavit barrels.",
       "containers": [
         {
@@ -1212,7 +1212,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-dark-inception-4/6254625",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "12.5%",
-      "rating": "3.901",
+      "rating": "3.902",
       "description": "Dark Inception 4 is a bourbon barrel-aged espresso stout.",
       "containers": [
         {
@@ -1245,7 +1245,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.073",
+      "rating": "4.072",
       "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
@@ -1278,7 +1278,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.103",
+      "rating": "4.1",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1294,7 +1294,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.112",
+      "rating": "4.11",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1451,7 +1451,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.286",
+      "rating": "4.285",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1544,7 +1544,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-illegal-cargo/6514623",
       "style": "IPA - Imperial / Double",
       "abv": "7.9%",
-      "rating": "3.907",
+      "rating": "3.908",
       "description": "Illegal Cargo\r\nIPA – Imperial / Double\r\n7,9% - 70 IBU\r\n\r\ndescription:\r\nDry hopped West Coast Double IPA with Mosaic, Riwaka, Chinook, Columbus.\r\nCollaboration with our West-Coast-is-the-Best-Coast pals from Aalborg, Denmark.\r\nContains barley, wheat.",
       "containers": [
         {
@@ -1560,7 +1560,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-once-upon-a-time-in-eternia-2026/6606419",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.045",
+      "rating": "4.043",
       "description": "Hazy IPA with Citra, Simcoe, Centennial.\r\n\r\nContains barley, wheat.\r\n",
       "containers": [
         {
@@ -1576,7 +1576,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.007",
+      "rating": "4.008",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -1640,7 +1640,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-3/5775282",
       "style": "Belgian Tripel",
       "abv": "9%",
-      "rating": "3.814",
+      "rating": "3.812",
       "description": "Hoppy tripel ale brewed with the iconic black metal band 1349.",
       "containers": [
         {
@@ -1723,7 +1723,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-fwd-hbc-638/6451468",
       "style": "IPA - Other",
       "abv": "6.5%",
-      "rating": "4.141",
+      "rating": "4.14",
       "description": "A single hop beer brewed in collaboration with Yakima Chief Ranches and their FWD program. \r\n\r\nFWD was created as a two-way innovation channel, where products are trialed by the intended users (us the brewers) and feedback is collected and utilized (from YOU, the drinker), which safeguards the investment of farmer partners and provides brewers with tools to expand and evolve their products. Basically it's a hop research program and it's delicious and you get to try it before anyone else!\r\n\r\nThis FWD beer was dry hopped exclusively with a brand new, still unnamed hop, called HBC 638. Let us know what you think!",
       "containers": [
         {
@@ -1756,7 +1756,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.174",
+      "rating": "4.172",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1772,7 +1772,7 @@
       "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
       "style": "Sour - Fruited Gose",
       "abv": "4.7%",
-      "rating": "3.537",
+      "rating": "3.536",
       "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
       "containers": [
         {
@@ -1804,7 +1804,7 @@
       "url": "https://untappd.com/b/cascade-brewing-figaro-2022/5139785",
       "style": "Sour - Fruited",
       "abv": "9.5%",
-      "rating": "4.078",
+      "rating": "4.081",
       "description": "The 2022 release of Figaro features our sour triple blond ales aged in oak barrels for up to 15 months with dried white figs, bergamot peel, and lemon peel. Elegant and complex, Figaro showcases flavors of dried figs with delicate hints of citrus fruit and a crisp, clean finish.",
       "containers": [
         {
@@ -1980,7 +1980,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.491",
+      "rating": "3.492",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
