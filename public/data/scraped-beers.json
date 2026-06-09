@@ -1,6 +1,6 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-08T10:14:21.014Z",
+  "scrapedAt": "2026-06-09T08:57:11.955Z",
   "totalBeers": 118,
   "beers": [
     {
@@ -10,7 +10,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.697",
+      "rating": "3.698",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -123,7 +123,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.641",
+      "rating": "3.636",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -175,7 +175,7 @@
       "style": "Pale Ale - American",
       "abv": "6%",
       "ibu": "42",
-      "rating": "4.1",
+      "rating": "4.093",
       "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -228,7 +228,7 @@
       "style": "IPA - American",
       "abv": "7.1%",
       "ibu": "45",
-      "rating": "3.656",
+      "rating": "3.655",
       "containers": [
         {
           "size": "0.2L",
@@ -412,7 +412,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.2",
+      "rating": "4.197",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -438,7 +438,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-double-riri/6397119",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.2%",
-      "rating": "4.369",
+      "rating": "4.366",
       "description": "Everything you know and love about RIRI, but double! \r\n\r\nWe are obsessed with Riwaka here at Badlands and Riri is our love letter to this fascinating, shapeshifter of a hop.\r\n\r\nRiwaka is a delicious New Zealand hop varietal that presents a complex blend of mixed citrus with this killer dank note that we love. We hope you love it as much as we do!",
       "containers": [
         {
@@ -586,7 +586,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.174",
+      "rating": "4.175",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -607,7 +607,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-dolly-don-t-dance/6399387",
       "style": "Sour - Fruited",
       "abv": "4.8%",
-      "rating": "3.522",
+      "rating": "3.524",
       "description": "DOLLY DON’T DANCE\r\nSour Ale w/ hibiscus and grapefruit – 4,8%\r\n \r\nAll Hallow’s Eve and the Wild Wild West? Sign us up ???\r\n \r\nWith Summer of Savage @suddendeathbrewpub underway this weekend, we’ve got a fresher-than-fresh Sour coming your way.\r\n \r\nDolly Don’t Dance was conditioned on a mountain of hibiscus flowers and grapefruit peel, and kissed with a little more sea salt than usual.\r\n \r\nIf you’re an OG and remember when Sours clean and crisp, this is your beer.\r\n\r\nFruity, tart, and refreshing.\r\n \r\nadjuncts: hibiscus, grapefruit peel, sea salt.",
       "containers": [
         {
@@ -684,7 +684,7 @@
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.174",
+      "rating": "4.18",
       "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -726,12 +726,38 @@
       ]
     },
     {
+      "name": "34. Guilty Banana 18",
+      "brewery": "Rodinný pivovar Zichovec",
+      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-guilty-banana-18/6728501",
+      "style": "Sour - Smoothie / Pastry",
+      "abv": "5%",
+      "rating": "4.27",
+      "description": "Pastry sour bez laktózy, ale s plnou chutí. Základ stojí na kombinaci banánu a skořice, která evokuje čerstvě upečený banana bread, kompletně bez živočišných složek. \r\n\r\nMísto laktózy jsme použili veganský zmrzlinový prášek, který dodává krémovost i sladkost, ale zůstává lehký a přístupný. Banán přináší plný, sladší ovocný charakter, skořice pak jemně kořeněný dozvuk. \r\n\r\nVýsledkem je sladkokyselý, hutnější sour s výrazným dezertním profilem a hladkou texturou. ",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "40.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "75.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "30.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "8. Grinebitter",
       "brewery": "HaandBryggeriet",
       "url": "https://untappd.com/b/haandbryggeriet-grinebitter/6198588",
       "style": "Bitter - Extra Special / Strong (ESB)",
       "abv": "5.5%",
-      "rating": "3.565",
+      "rating": "3.564",
       "containers": [
         {
           "size": "0.2L",
@@ -803,32 +829,6 @@
       ]
     },
     {
-      "name": "33. Winter Affair Gossip: Tiny Hill",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-winter-affair-gossip-tiny-hill/6621574",
-      "style": "Mead - Braggot",
-      "abv": "4.3%",
-      "rating": "3.859",
-      "description": "Už třetím rokem pořádáme mezinárodní degustační festival Winter Affair a stejně dlouho při té příležitosti vaříme společné várky s některými zúčastněnými pivovary. Je to jedinečná příležitost, jak se navzájem lépe poznat, předat si zajímavé postřehy a spojit své know-how. Piva vznikající v rámci série Winter Affair Gossip jsou výsledkem těchto setkání – spojují pivní světy, unikátní receptury a lásku k řemeslu napříč státy i kontinenty. \r\n\r\nS dánským pivovarem Tiny Hill, který se věnuje moderním medovinám, jsme se pustili do stylu, který u nás jen tak nepotkáš – braggotu, tedy hybridu mezi pivem a medovinou. Vzniklo pivo s nižším obsahem alkoholu, ale plnou chutí a standardním řízem. \r\n\r\nZáklad tvoří kvalitní med, který dodává jemnou sladkost, květinové tóny a zaoblené tělo. Mučenka přináší šťavnatou kyselkavost, kokos tropickou hebkost a vanilka vše propojuje do dezertně laděného, ale osvěžujícího celku.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "80.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "130.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "PULPO FICTION (2022)",
       "brewery": "Marlobobo",
       "url": "https://untappd.com/b/marlobobo-pulpo-fiction-2022/5704401",
@@ -855,7 +855,7 @@
       "url": "https://untappd.com/b/marlobobo-misanthropic-topographer-2022/5258596",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.356",
+      "rating": "4.357",
       "description": "Blackberry and strawberry mead.\r\n\r\nA blackberry mead and strawberry mead were fermented separately, and thoughtfully blended to what we felt was the perfect expression of both berry varieties together.\r\n\r\nA thick and velvety concoction of fresh, jammy blackberries, strawberries and wildflower honey.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nBlackberry variety:\r\nLoch Ness\r\n\r\nStrawberry variety:\r\nPolka\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -989,7 +989,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.205",
+      "rating": "4.207",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1055,7 +1055,7 @@
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
       "ibu": "50",
-      "rating": "3.923",
+      "rating": "3.924",
       "containers": [
         {
           "size": "0.33L Can",
@@ -1693,7 +1693,7 @@
       "url": "https://untappd.com/b/badlands-brewing-company-mingle-october-2025/6451462",
       "style": "IPA - American",
       "abv": "6.5%",
-      "rating": "4.052",
+      "rating": "4.053",
       "description": "Mingle is our series of beers where we blend whatever hops we feel like to see if they have chemistry with each other.\r\n\r\nIt’s been a minute since we’ve done a mingle and that’s largely because we’d been through most hop blends we found novel and interesting…. Until now! \r\n\r\nHopped with the explosive trio of Sabro, Dolcita, and Talus this is one of those beers that doesn’t quite taste like any other. All three hops are somewhat related to one another (Talus being the daughter of Sabro and dolcita basically being Sabro adjacent in flavor terms) and come together to make a monster beer replete with notes of fuzzy peach, coconut, ruby red grapefruit and juicy tangerine. ",
       "containers": [
         {
@@ -2047,7 +2047,7 @@
       "style": "Wild Ale - Other",
       "abv": "10%",
       "ibu": "15",
-      "rating": "3.963",
+      "rating": "3.961",
       "description": "Rigs and Ratlines is a blend of wild fermented vintages matured on oak with raspberry added before bottling. This gives a semi-dry and balanced acidity with a full mouthfeel and ﬂavors of raspberries, cloudberries, citrus, sour apricot and grapes.",
       "containers": [
         {
@@ -2080,7 +2080,7 @@
       "style": "Wild Ale - Other",
       "abv": "6.8%",
       "ibu": "35",
-      "rating": "3.869",
+      "rating": "3.868",
       "description": "A collaboration of Belgian tradition and modern mixed culture brewing. After a visit to our much admired friends at Oud Beersel in Belgium, a plan was hatched to blend our two beers together. Comprising 33% Lambic, 33% of our oak aged wild ale, and the rest being hoppy 3 month old Saison. The character of both breweries shines equally well. Packaged with raw honey in green glass bottles for a natural carbonation.",
       "containers": [
         {
