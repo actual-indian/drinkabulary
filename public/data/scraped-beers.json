@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-09T08:57:11.955Z",
-  "totalBeers": 118,
+  "scrapedAt": "2026-06-10T09:38:38.455Z",
+  "totalBeers": 120,
   "beers": [
     {
       "name": "14. Pilsener Program v.01 - Canadian Pilsner",
@@ -10,7 +10,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.698",
+      "rating": "3.694",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -123,7 +123,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.636",
+      "rating": "3.637",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -175,7 +175,7 @@
       "style": "Pale Ale - American",
       "abv": "6%",
       "ibu": "42",
-      "rating": "4.093",
+      "rating": "4.102",
       "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -300,6 +300,60 @@
       ]
     },
     {
+      "name": "26. Hop Ripper - Cascade",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-hop-ripper-cascade/6698922",
+      "style": "IPA - American",
+      "abv": "6.7%",
+      "ibu": "67",
+      "rating": "3.937",
+      "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "125.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "205.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "95.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "1. Space Mycelium DDH",
+      "brewery": "Friends Company",
+      "url": "https://untappd.com/b/friends-company-space-mycelium-ddh/6382908",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "7.5%",
+      "ibu": "30",
+      "rating": "3.78",
+      "description": "This collab with our friends at Forager and Humble Forager featured the incredible hop Nectaron, with a 20g/L double dry hop. Malt base is extra pale maris otter, malted oats, flaked oats and flaked wheat. Enjoy!",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "240.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "7. Amnesia Haze",
       "brewery": "La Grúa",
       "url": "https://untappd.com/b/la-grua-amnesia-haze/2355600",
@@ -359,7 +413,7 @@
       "style": "Pale Ale - New England / Hazy",
       "abv": "5.5%",
       "ibu": "24",
-      "rating": "4.109",
+      "rating": "4.105",
       "description": "Our tribute to and interpretation of Northern Monk's Faith.\r\n\r\nBrian - Northern Monk co-founder - kindly shared his memories of the recipe circa 2016-2018, while implementing his own twist inspired by the Alchemist (Vermont, USA) in our version.\r\n\r\nDry hopped with Citra, Columbus, Mosaic, Simcoe\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -586,7 +640,7 @@
       "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.175",
+      "rating": "4.174",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -633,7 +687,7 @@
       "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.579",
+      "rating": "3.581",
       "containers": [
         {
           "size": "0.2L",
@@ -658,7 +712,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.765",
+      "rating": "3.766",
       "containers": [
         {
           "size": "0.2L",
@@ -684,7 +738,7 @@
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.18",
+      "rating": "4.179",
       "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -808,7 +862,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.375",
+      "rating": "3.374",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -1279,7 +1333,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.102",
+      "rating": "4.101",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1577,7 +1631,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.009",
+      "rating": "4.01",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -2096,7 +2150,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2021/5010424",
       "style": "Barleywine - English",
       "abv": "13.4%",
-      "rating": "4.121",
+      "rating": "4.12",
       "containers": [
         {
           "size": "0.33L Bottle",
