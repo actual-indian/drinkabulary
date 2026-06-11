@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-10T09:38:38.455Z",
-  "totalBeers": 120,
+  "scrapedAt": "2026-06-11T10:02:29.132Z",
+  "totalBeers": 116,
   "beers": [
     {
       "name": "14. Pilsener Program v.01 - Canadian Pilsner",
@@ -10,7 +10,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.694",
+      "rating": "3.685",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -32,8 +32,8 @@
     },
     {
       "name": "32. Krahulík 11",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-krahulik-11/2483912",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-krahulik-11/2483912",
       "style": "Pilsner - Czech / Bohemian",
       "abv": "4.6%",
       "ibu": "40",
@@ -123,7 +123,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.637",
+      "rating": "3.634",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -175,7 +175,7 @@
       "style": "Pale Ale - American",
       "abv": "6%",
       "ibu": "42",
-      "rating": "4.102",
+      "rating": "4.096",
       "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -306,7 +306,7 @@
       "style": "IPA - American",
       "abv": "6.7%",
       "ibu": "67",
-      "rating": "3.937",
+      "rating": "3.944",
       "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -333,7 +333,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "7.5%",
       "ibu": "30",
-      "rating": "3.78",
+      "rating": "3.781",
       "description": "This collab with our friends at Forager and Humble Forager featured the incredible hop Nectaron, with a 20g/L double dry hop. Malt base is extra pale maris otter, malted oats, flaked oats and flaked wheat. Enjoy!",
       "containers": [
         {
@@ -413,7 +413,7 @@
       "style": "Pale Ale - New England / Hazy",
       "abv": "5.5%",
       "ibu": "24",
-      "rating": "4.105",
+      "rating": "4.106",
       "description": "Our tribute to and interpretation of Northern Monk's Faith.\r\n\r\nBrian - Northern Monk co-founder - kindly shared his memories of the recipe circa 2016-2018, while implementing his own twist inspired by the Alchemist (Vermont, USA) in our version.\r\n\r\nDry hopped with Citra, Columbus, Mosaic, Simcoe\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -439,7 +439,7 @@
       "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.768",
+      "rating": "3.774",
       "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
       "containers": [
         {
@@ -487,35 +487,9 @@
       ]
     },
     {
-      "name": "30. Double Riri",
-      "brewery": "Badlands Brewing Company",
-      "url": "https://untappd.com/b/badlands-brewing-company-double-riri/6397119",
-      "style": "IPA - Imperial / Double New England / Hazy",
-      "abv": "8.2%",
-      "rating": "4.366",
-      "description": "Everything you know and love about RIRI, but double! \r\n\r\nWe are obsessed with Riwaka here at Badlands and Riri is our love letter to this fascinating, shapeshifter of a hop.\r\n\r\nRiwaka is a delicious New Zealand hop varietal that presents a complex blend of mixed citrus with this killer dank note that we love. We hope you love it as much as we do!",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "190.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "370.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "145.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "40. Nectar of Happiness 17",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-nectar-of-happiness-17/3079153",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
       "ibu": "60",
@@ -565,7 +539,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-dockside/6606464",
       "style": "Stout - English",
       "abv": "4%",
-      "rating": "3.679",
+      "rating": "3.681",
       "description": "Stout hopped with Challenger.\r\n\r\nContains barley.\r\n\r\n\r\n",
       "containers": [
         {
@@ -636,11 +610,11 @@
     },
     {
       "name": "36. Valhalla Barrel Aged House Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-valhalla-barrel-aged-house-stout-2025/6487565",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.174",
+      "rating": "4.173",
       "description": "Limitovaná várka připravená výhradně pro hospodu Valhalla. Tento stout zrál přes dva roky v sudu po bourbonu Woodford Reserve Double Oak.\r\nDlouhé zrání přineslo plnost, jemné tóny dřeva a vyzrálý charakter, který dělá z každého doušku malou odměnu.\r\nPlněn v 1/2023, stočen v 11/2025.",
       "containers": [
         {
@@ -677,31 +651,6 @@
         {
           "size": "Flights of 5/10",
           "price": "85.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "3. Peruvian Snow",
-      "brewery": "Brewski",
-      "url": "https://untappd.com/b/brewski-peruvian-snow/6588555",
-      "style": "Sour - Fruited",
-      "abv": "5%",
-      "rating": "3.581",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "115.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "225.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
           "currency": "CZK"
         }
       ]
@@ -781,11 +730,11 @@
     },
     {
       "name": "34. Guilty Banana 18",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-guilty-banana-18/6728501",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-guilty-banana-18/6728501",
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
-      "rating": "4.27",
+      "rating": "4.244",
       "description": "Pastry sour bez laktózy, ale s plnou chutí. Základ stojí na kombinaci banánu a skořice, která evokuje čerstvě upečený banana bread, kompletně bez živočišných složek. \r\n\r\nMísto laktózy jsme použili veganský zmrzlinový prášek, který dodává krémovost i sladkost, ale zůstává lehký a přístupný. Banán přináší plný, sladší ovocný charakter, skořice pak jemně kořeněný dozvuk. \r\n\r\nVýsledkem je sladkokyselý, hutnější sour s výrazným dezertním profilem a hladkou texturou. ",
       "containers": [
         {
@@ -801,6 +750,31 @@
         {
           "size": "Flights of 5/10",
           "price": "30.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "38. Sour ALE -  Plum & cranberry & ginger",
+      "brewery": "Hradecký Klenot",
+      "url": "https://untappd.com/b/hradecky-klenot-sour-ale-plum-and-cranberry-and-ginger/5859332",
+      "style": "Sour - Fruited",
+      "abv": "4.1%",
+      "rating": "3.881",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "80.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "135.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "60.00",
           "currency": "CZK"
         }
       ]
@@ -832,8 +806,8 @@
     },
     {
       "name": "35. Drink and Drive Ø",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-drive-o/5640863",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-drink-and-drive-o/5640863",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
       "rating": "3.513",
@@ -888,7 +862,7 @@
       "url": "https://untappd.com/b/marlobobo-pulpo-fiction-2022/5704401",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.312",
+      "rating": "4.313",
       "description": "Blend of wildberry mead and bourbon barrel-aged imperial stout with Ugandan vanilla and Spanish squid ink.\r\n\r\nAn experimental braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a strawberry-forward wildberry mead with our bourbon BA vanilla imperial stout (Golden Tears). The blend surprised us with some subtle umami notes that we wanted to highlight with a small dose of umami-rich squid ink.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -926,10 +900,10 @@
     },
     {
       "name": "Drink And Buď! Fuck Cancer",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-fuck-cancer/6582421",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-drink-and-bud-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.392",
+      "rating": "3.393",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -945,7 +919,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.21",
+      "rating": "3.211",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1235,7 +1209,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-amargeddon/6581587",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.995",
+      "rating": "3.996",
       "description": "AMARgeddon, a bond forged in malt.\r\nSome friendships are measured in years; ours is measured in shared brews. For this reunion with our dear friends at Amager (pronounced \"Amar\" just like this beer) we have created Amargeddon. This 12% imperial stout is a tribute to our shared history, brewed with Norwegian forest honey and tucked away for 14 months in aquavit barrels.",
       "containers": [
         {
@@ -1300,7 +1274,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.073",
+      "rating": "4.072",
       "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
@@ -1333,7 +1307,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.101",
+      "rating": "4.102",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1459,7 +1433,7 @@
       "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
       "style": "Stout - Imperial / Double",
       "abv": "13.3%",
-      "rating": "4.325",
+      "rating": "4.326",
       "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
       "containers": [
         {
@@ -1471,8 +1445,8 @@
     },
     {
       "name": "Stout Woodford 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-stout-woodford-2025/6134698",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-stout-woodford-2025/6134698",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
       "rating": "4.168",
@@ -1487,8 +1461,8 @@
     },
     {
       "name": "Cocoa Vanilla Cardamom Sea Salt Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
       "rating": "3.95",
@@ -1502,11 +1476,11 @@
     },
     {
       "name": "Coconut Tonka Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-tonka-stout-2025/6411120",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.285",
+      "rating": "4.284",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1517,8 +1491,8 @@
     },
     {
       "name": "Coconut Vanilla Cocoa Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-coconut-vanilla-cocoa-stout-2025/6410914",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
       "rating": "4.265",
@@ -1532,8 +1506,8 @@
     },
     {
       "name": "Mexican Hot Chocolate Stout 2025",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
       "rating": "4.177",
@@ -1631,7 +1605,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.01",
+      "rating": "4.009",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -2004,7 +1978,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.492",
+      "rating": "3.494",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -2047,22 +2021,6 @@
       ]
     },
     {
-      "name": "Beraskola",
-      "brewery": "Wild Nation",
-      "url": "https://untappd.com/b/wild-nation-beraskola/4895931",
-      "style": "Wild Ale - Other",
-      "abv": "6.5%",
-      "rating": "3.855",
-      "description": "Moscatel wine barrels fermented wild ale",
-      "containers": [
-        {
-          "size": "0.75L Bottle",
-          "price": "490.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Azkarai",
       "brewery": "Wild Nation",
       "url": "https://untappd.com/b/wild-nation-azkarai/5699823",
@@ -2073,23 +2031,6 @@
         {
           "size": "0.75L Bottle",
           "price": "490.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Fragments of A Universe",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-fragments-of-a-universe/5050335",
-      "style": "Wild Ale - Other",
-      "abv": "6.2%",
-      "ibu": "20",
-      "rating": "3.794",
-      "description": "A selection of rye based hoppy mixed culture beer, aged between 3 and 16 Months in French oak Bariques and Puncheons.  Bottled with sugar for a natural carbonation.",
-      "containers": [
-        {
-          "size": "0.75L Bottle",
-          "price": "520.00",
           "currency": "CZK"
         }
       ]
@@ -2113,8 +2054,8 @@
     },
     {
       "name": "Grains & Grapes 2022",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-grains-and-grapes-2022/5011341",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-grains-and-grapes-2022/5011341",
       "style": "Wild Ale - American",
       "abv": "8.7%",
       "rating": "4.03",
@@ -2123,23 +2064,6 @@
         {
           "size": "0.75L Bottle",
           "price": "580.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "Ratio of Exchange",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-ratio-of-exchange/5050358",
-      "style": "Wild Ale - Other",
-      "abv": "6.8%",
-      "ibu": "35",
-      "rating": "3.868",
-      "description": "A collaboration of Belgian tradition and modern mixed culture brewing. After a visit to our much admired friends at Oud Beersel in Belgium, a plan was hatched to blend our two beers together. Comprising 33% Lambic, 33% of our oak aged wild ale, and the rest being hoppy 3 month old Saison. The character of both breweries shines equally well. Packaged with raw honey in green glass bottles for a natural carbonation.",
-      "containers": [
-        {
-          "size": "0.75L Bottle",
-          "price": "670.00",
           "currency": "CZK"
         }
       ]
@@ -2192,8 +2116,8 @@
     },
     {
       "name": "Choco Orange Jelly Wheat Wine 2024",
-      "brewery": "Rodinný pivovar Zichovec",
-      "url": "https://untappd.com/b/rodinny-pivovar-zichovec-choco-orange-jelly-wheat-wine-2024/5971828",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-choco-orange-jelly-wheat-wine-2024/5971828",
       "style": "Wheat Beer - Wheat Wine",
       "abv": "11%",
       "rating": "4.184",
