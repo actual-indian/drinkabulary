@@ -1,8 +1,34 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-11T10:02:29.132Z",
-  "totalBeers": 116,
+  "scrapedAt": "2026-06-12T09:54:50.194Z",
+  "totalBeers": 122,
   "beers": [
+    {
+      "name": "03. 1866 Vienna Lager",
+      "brewery": "HaandBryggeriet",
+      "url": "https://untappd.com/b/haandbryggeriet-1866-vienna-lager/5011409",
+      "style": "Lager - Vienna",
+      "abv": "5.5%",
+      "rating": "3.488",
+      "description": "1866 Vienna Lager henter navnet sitt fra bybrannen i Drammen i 1866, hvorpå byen ble gjennoppbygd etter mønster fra europeiske storbyer som Wien. Ølet har en søtlig aroma fra kornet. Smaken følger aromaen med en lett balansert bitterhet.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "80.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "60.00",
+          "currency": "CZK"
+        }
+      ]
+    },
     {
       "name": "14. Pilsener Program v.01 - Canadian Pilsner",
       "brewery": "Sudden Death Brewing Co.",
@@ -10,7 +36,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.685",
+      "rating": "3.681",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -26,38 +52,6 @@
         {
           "size": "Flights of 5/10",
           "price": "95.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "32. Krahulík 11",
-      "brewery": "Pivovar ZICHOVEC",
-      "url": "https://untappd.com/b/pivovar-zichovec-krahulik-11/2483912",
-      "style": "Pilsner - Czech / Bohemian",
-      "abv": "4.6%",
-      "ibu": "40",
-      "rating": "3.521",
-      "description": "Klasický spodně kvašený jedenáctistupňový ležák plzeňského typu z nejkvalitnějších sladů. Receptura je postavena na chmelu Harmonie. Příjemnou hořkostí vyzývá k opětovnému napití.\r\n\r\nClassic bottom-fermented eleven-degree lager of the Pilsen type made of the highest quality malts. The recipe is based on Harmonie hops. With a pleasant bitterness, it calls for re-drinking.",
-      "containers": [
-        {
-          "size": "0.3L",
-          "price": "50.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.5L",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.5L Can",
-          "price": "85.00",
           "currency": "CZK"
         }
       ]
@@ -117,13 +111,39 @@
       ]
     },
     {
+      "name": "11. My Favourite Sweater",
+      "brewery": "ÅBEN",
+      "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
+      "style": "IPA - Imperial / Double",
+      "abv": "6.1%",
+      "rating": "3.674",
+      "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "105.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "175.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "80.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "15. Brick By Brick",
       "brewery": "Sudden Death Brewing Co.",
       "url": "https://untappd.com/b/sudden-death-brewing-co-brick-by-brick/6683048",
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.634",
+      "rating": "3.64",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -149,7 +169,7 @@
       "url": "https://untappd.com/b/laugar-brewery-bitxia/4748034",
       "style": "Pale Ale - American",
       "abv": "4.5%",
-      "rating": "3.444",
+      "rating": "3.445",
       "containers": [
         {
           "size": "0.2L",
@@ -169,13 +189,39 @@
       ]
     },
     {
+      "name": "19. Snublejuice",
+      "brewery": "To Øl",
+      "url": "https://untappd.com/b/to-ol-snublejuice/3250670",
+      "style": "IPA - Session",
+      "abv": "4.5%",
+      "rating": "3.51",
+      "description": "Gluten Free Session IPA\r\n\r\n“Snuble” means “stumble” “Juice” means “highly aromatic irresistible refreshing liquid”. We’ve fallen head over heels for this beer. We know you will too. An India Pale Ale Dry Hopped with El Dorado, Mosaic and Simcoe. Oh, and it’s Gluten Free.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "65.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "110.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flight of 5",
+          "price": "50.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "21. Daily Greens",
       "brewery": "Sudden Death Brewing Co.",
       "url": "https://untappd.com/b/sudden-death-brewing-co-daily-greens/6717709",
       "style": "Pale Ale - American",
       "abv": "6%",
       "ibu": "42",
-      "rating": "4.096",
+      "rating": "4.1",
       "description": "American Pale Ale dry hopped with Mosaic, Columbus.\r\n\r\nInspired by Sierra Nevada Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -228,7 +274,7 @@
       "style": "IPA - American",
       "abv": "7.1%",
       "ibu": "45",
-      "rating": "3.655",
+      "rating": "3.654",
       "containers": [
         {
           "size": "0.2L",
@@ -253,7 +299,7 @@
       "url": "https://untappd.com/b/la-grua-la-grua-session-ipa/3384257",
       "style": "IPA - Session",
       "abv": "4.5%",
-      "rating": "3.38",
+      "rating": "3.378",
       "containers": [
         {
           "size": "0.2L",
@@ -306,7 +352,7 @@
       "style": "IPA - American",
       "abv": "6.7%",
       "ibu": "67",
-      "rating": "3.944",
+      "rating": "3.934",
       "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -333,7 +379,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "7.5%",
       "ibu": "30",
-      "rating": "3.781",
+      "rating": "3.779",
       "description": "This collab with our friends at Forager and Humble Forager featured the incredible hop Nectaron, with a 20g/L double dry hop. Malt base is extra pale maris otter, malted oats, flaked oats and flaked wheat. Enjoy!",
       "containers": [
         {
@@ -386,7 +432,7 @@
       "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
       "style": "IPA - New England / Hazy",
       "abv": "6.4%",
-      "rating": "3.837",
+      "rating": "3.836",
       "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
       "containers": [
         {
@@ -413,7 +459,7 @@
       "style": "Pale Ale - New England / Hazy",
       "abv": "5.5%",
       "ibu": "24",
-      "rating": "4.106",
+      "rating": "4.112",
       "description": "Our tribute to and interpretation of Northern Monk's Faith.\r\n\r\nBrian - Northern Monk co-founder - kindly shared his memories of the recipe circa 2016-2018, while implementing his own twist inspired by the Alchemist (Vermont, USA) in our version.\r\n\r\nDry hopped with Citra, Columbus, Mosaic, Simcoe\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -439,7 +485,7 @@
       "url": "https://untappd.com/b/aben-look-what-the-cat-dragged-in/6526039",
       "style": "IPA - New England / Hazy",
       "abv": "6%",
-      "rating": "3.774",
+      "rating": "3.772",
       "description": "Bright tropical fruits like passionfruit and guava, candied pineapple and pomelo. Weedy/dank undertones finish with the faintest whiff off diesel and sticky berries.\r\n\r\nBrewed using an experimental hop from the New Zealand Hop Breeding Program. Coming from a Riwaka parentage this hop is set to be something truly special with heaps of tropical fruits and bright citrus with some southern hemisphere funk.",
       "containers": [
         {
@@ -466,7 +512,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.197",
+      "rating": "4.195",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -482,6 +528,32 @@
         {
           "size": "Flights of 5/10",
           "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "31. Lemmy (Memorial Series)",
+      "brewery": "Drunken Bros",
+      "url": "https://untappd.com/b/drunken-bros-lemmy-memorial-series/3191894",
+      "style": "IPA - Triple New England / Hazy",
+      "abv": "10%",
+      "rating": "3.81",
+      "description": "Version 3.0 año 2023\r\n40g de lúpulo por litro y 10% abv",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "240.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "115.00",
           "currency": "CZK"
         }
       ]
@@ -519,7 +591,7 @@
       "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2024/6179669",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11%",
-      "rating": "3.895",
+      "rating": "3.896",
       "containers": [
         {
           "size": "0.2L",
@@ -539,7 +611,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-dockside/6606464",
       "style": "Stout - English",
       "abv": "4%",
-      "rating": "3.681",
+      "rating": "3.68",
       "description": "Stout hopped with Challenger.\r\n\r\nContains barley.\r\n\r\n\r\n",
       "containers": [
         {
@@ -566,7 +638,7 @@
       "style": "Bock - Doppelbock",
       "abv": "10.6%",
       "ibu": "20",
-      "rating": "3.78",
+      "rating": "3.781",
       "description": "This beer is actually in the triple bock style. It has lots of flavorful malts (munich, caramunich, double roasted crystal) and a little roasted malt for color. Aged for 365 days in calvados and cognac barrels in our lagering cellar.",
       "containers": [
         {
@@ -630,6 +702,31 @@
       ]
     },
     {
+      "name": "39. The Irish Black 11",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-the-irish-black-11/5091343",
+      "style": "Stout - Irish Dry",
+      "abv": "4.6%",
+      "rating": "3.577",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "65.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "50.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "2. Dolly Don‘t Dance",
       "brewery": "Sudden Death Brewing Co.",
       "url": "https://untappd.com/b/sudden-death-brewing-co-dolly-don-t-dance/6399387",
@@ -687,7 +784,7 @@
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.179",
+      "rating": "4.177",
       "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -708,7 +805,7 @@
       "url": "https://untappd.com/b/brewski-li/6354290",
       "style": "Sour - Fruited",
       "abv": "5%",
-      "rating": "3.871",
+      "rating": "3.87",
       "description": "A tribute to our dear friend Li from Malmö Brewing who tragically passed away in an accident. Fruited sour with Papaya, Mango, Passion Fruit och Pineapple.",
       "containers": [
         {
@@ -729,12 +826,38 @@
       ]
     },
     {
+      "name": "33. This Mango Bites Back 12",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-this-mango-bites-back-12/6645644",
+      "style": "Sour - Fruited Gose",
+      "abv": "5.1%",
+      "rating": "3.749",
+      "description": "Mango Bites Back je gose, která si hraje s kontrasty. Základ tvoří lehce kyselé, osvěžující tělo s jemnou slaností typickou pro styl. Do něj jsme přidali poctivou dávku manga, které pivu dává plnou, sladší ovocnou chuť, a limetku, která všechno zvedne svěží kyselou linkou. \r\n\r\nPak přichází habanero. Ne jako samoúčelný extrém, ale jako koření. Pálivost nastupuje až v dozvuku – nejdřív cítíte šťavnaté mango a citrus, teprve potom se objeví hřejivé, lehce štiplavé zakončení, které zůstane na patře a vybídne k dalšímu napití. \r\n\r\nVýsledkem je vyvážené, výrazné a velmi pitelné pivo. Nejdřív sladkokyselé osvěžení, pak jemné kousnutí. Přesně tak, jak název slibuje.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "85.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "150.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "65.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "34. Guilty Banana 18",
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-guilty-banana-18/6728501",
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
-      "rating": "4.244",
+      "rating": "4.239",
       "description": "Pastry sour bez laktózy, ale s plnou chutí. Základ stojí na kombinaci banánu a skořice, která evokuje čerstvě upečený banana bread, kompletně bez živočišných složek. \r\n\r\nMísto laktózy jsme použili veganský zmrzlinový prášek, který dodává krémovost i sladkost, ale zůstává lehký a přístupný. Banán přináší plný, sladší ovocný charakter, skořice pak jemně kořeněný dozvuk. \r\n\r\nVýsledkem je sladkokyselý, hutnější sour s výrazným dezertním profilem a hladkou texturou. ",
       "containers": [
         {
@@ -760,7 +883,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-ale-plum-and-cranberry-and-ginger/5859332",
       "style": "Sour - Fruited",
       "abv": "4.1%",
-      "rating": "3.881",
+      "rating": "3.88",
       "containers": [
         {
           "size": "0.2L",
@@ -903,7 +1026,7 @@
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-drink-and-bud-fuck-cancer/6582421",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.393",
+      "rating": "3.398",
       "description": "V Zichovci vaříme pivo, které lidi spojuje. A když vidíme téma, které má skutečný dopad, chceme být jeho součástí. Ne jako moralizující značka, ale jako někdo, kdo stojí vedle lidí – v běžném životě.\r\n\r\nPrevence pro nás není strašení ani povinnost. Je to péče o sebe, o rodinu a o komunitu kolem nás.\r\nProto jsme se spojili s BUĎ! FUCK CANCER a uvařili nealkoholické pivo, které má připomínat to podstatné: zdraví má přednost. Vždycky.",
       "containers": [
         {
@@ -919,12 +1042,29 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.211",
+      "rating": "3.214",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
           "size": "0.33L Can",
           "price": "90.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Krahulík 11",
+      "brewery": "Pivovar ZICHOVEC",
+      "url": "https://untappd.com/b/pivovar-zichovec-krahulik-11/2483912",
+      "style": "Pilsner - Czech / Bohemian",
+      "abv": "4.6%",
+      "ibu": "40",
+      "rating": "3.521",
+      "description": "Klasický spodně kvašený jedenáctistupňový ležák plzeňského typu z nejkvalitnějších sladů. Receptura je postavena na chmelu Harmonie. Příjemnou hořkostí vyzývá k opětovnému napití.\r\n\r\nClassic bottom-fermented eleven-degree lager of the Pilsen type made of the highest quality malts. The recipe is based on Harmonie hops. With a pleasant bitterness, it calls for re-drinking.",
+      "containers": [
+        {
+          "size": "0.5L Can",
+          "price": "85.00",
           "currency": "CZK"
         }
       ]
@@ -1017,7 +1157,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.207",
+      "rating": "4.209",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1193,7 +1333,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-the-space-between-the-stars/5669814",
       "style": "Stout - Imperial / Double",
       "abv": "14%",
-      "rating": "4.157",
+      "rating": "4.158",
       "description": "A refined  blend of 3 year old Bourbon Barrel aged stout (70%) and three year old Bourbon barrel aged barley wine (30%). The space between the stars refers to the interstellar space between star systems and their atmoshpheres  in a galaxy, and not the intergalactic void.",
       "containers": [
         {
@@ -1307,7 +1447,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.102",
+      "rating": "4.101",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1339,7 +1479,7 @@
       "url": "https://untappd.com/b/lervig-midnight-snack/6456575",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.149",
+      "rating": "4.148",
       "description": "Because self-control is overrated. Midnight Snack is a rich, velvety dessert stout loaded with chocolate, caramel, and a big hit of peanut butter. It’s thick, sweet, and unapologetically over the top — like raiding the cupboard after hours and finding everything you ever wanted in one sip.",
       "containers": [
         {
@@ -1510,7 +1650,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-mexican-hot-chocolate-stout-2025/6410876",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "14.5%",
-      "rating": "4.177",
+      "rating": "4.179",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1605,7 +1745,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.009",
+      "rating": "4.01",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -1622,7 +1762,7 @@
       "style": "Gluten-Free",
       "abv": "6%",
       "ibu": "57",
-      "rating": "3.474",
+      "rating": "3.475",
       "description": "Lanzamos nuestra nueva cerveza American IPA con lúpulos Citra y Cascade además de SIN GLUTEN. Esta Ipa con aromas cítricos y un amargor balanceado se convertirá rápidamente en una de tus favoritas de la marca.",
       "containers": [
         {
@@ -1705,7 +1845,7 @@
       "style": "IPA - Triple",
       "abv": "9.8%",
       "ibu": "80",
-      "rating": "3.983",
+      "rating": "3.982",
       "description": "Extra Lush is triple the tropical treat from the Pacific Northwest. Brewed with three times the amount of hand-selected malts and tropical hops. Live the Extra Lush Life!\r\n\r\nDown & Dirty: 2-Row Pale malt with Citra, Mosaic, Citra Cryo, Mosaic Quantum Brite, and Citra Quantum Brite hops.\r\n\r\nColor: Light orange\r\nAroma: Citrusy aromas of orange and grapefruit, resinous pine, stone fruit, and pineapple.\r\nFlavor: Gently sweet, mildly bitter, no saltiness and no sourness.                                                                                                                                             \r\n\r\nAvailability: Year-Round\r\n",
       "containers": [
         {
@@ -1754,7 +1894,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.17",
+      "rating": "4.171",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1770,7 +1910,7 @@
       "url": "https://untappd.com/b/brewski-grandmother-gose/4755175",
       "style": "Sour - Fruited Gose",
       "abv": "4.7%",
-      "rating": "3.536",
+      "rating": "3.535",
       "description": "A bigger version of an old favorite. A gose with mango and lime, a touch of salt, and to give it an edge: spicy habanero.\r\nShe is a deceptive lady; fruity and tart to start, then the heat creeps up on you,\r\neach sip a little hotter. \r\n",
       "containers": [
         {
@@ -1978,7 +2118,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.494",
+      "rating": "3.495",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
