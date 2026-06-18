@@ -1,6 +1,6 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-17T10:23:28.002Z",
+  "scrapedAt": "2026-06-18T10:03:14.833Z",
   "totalBeers": 118,
   "beers": [
     {
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-1866-vienna-lager/5011409",
       "style": "Lager - Vienna",
       "abv": "5.5%",
-      "rating": "3.489",
+      "rating": "3.488",
       "description": "1866 Vienna Lager henter navnet sitt fra bybrannen i Drammen i 1866, hvorpå byen ble gjennoppbygd etter mønster fra europeiske storbyer som Wien. Ølet har en søtlig aroma fra kornet. Smaken følger aromaen med en lett balansert bitterhet.",
       "containers": [
         {
@@ -95,7 +95,7 @@
       "style": "Lager - American Amber / Red",
       "abv": "5.7%",
       "ibu": "30",
-      "rating": "3.61",
+      "rating": "3.609",
       "description": "Plato: 13°\r\nChmel: Simcoe, Citra, Mosaic\r\nSlad: plzeňský, mnichovský, caramunich, carapils\r\nSpodně kvašeno W95",
       "containers": [
         {
@@ -105,7 +105,7 @@
         },
         {
           "size": "0.4L",
-          "price": "75.00",
+          "price": "85.00",
           "currency": "CZK"
         },
         {
@@ -148,7 +148,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.68",
+      "rating": "3.693",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -175,7 +175,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.633",
+      "rating": "3.632",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -279,7 +279,7 @@
       "style": "IPA - American",
       "abv": "7.1%",
       "ibu": "45",
-      "rating": "3.654",
+      "rating": "3.655",
       "containers": [
         {
           "size": "0.2L",
@@ -357,7 +357,7 @@
       "style": "IPA - American",
       "abv": "6.7%",
       "ibu": "67",
-      "rating": "3.932",
+      "rating": "3.929",
       "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -383,7 +383,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-midnight-sun-15/6709536",
       "style": "IPA - Other",
       "abv": "7%",
-      "rating": "3.847",
+      "rating": "3.864",
       "description": "Po naší první Northern IPA inspirované polární září přichází její protipól – Midnight Sun. Pivo, které odkazuje na nekončící dny severu a staví na výrazném, moderním chmelení. \r\n\r\nKombinace Citra, Strata a Nectaron přináší komplexní ovocný profil. Citra dodává šťavnaté citrusy, Strata přidává marakuju a lehce “dank” rostlinný charakter, Nectaron pak celé spektrum zakulacuje tóny tropického ovoce a peckovin. \r\n\r\nTo vše na čistém, sušším základu, který nechává chmely naplno vyniknout. Výsledkem je svěží, aromatická IPA s plným tělem a vysokou pitelností.",
       "containers": [
         {
@@ -437,7 +437,7 @@
       "style": "IPA - New England / Hazy",
       "abv": "6%",
       "ibu": "43",
-      "rating": "3.901",
+      "rating": "3.9",
       "description": "Reeditamos nuestra primera DDH NEIPA con lúpulos CITRA, MOSAIC y AMARILLO y un generoso doble dry hopping. Más cítrica, más potente y mas equilibrada que nunca!",
       "containers": [
         {
@@ -463,7 +463,7 @@
       "url": "https://untappd.com/b/drunken-bros-strummer-memorial-series/5707258",
       "style": "IPA - New England / Hazy",
       "abv": "6.4%",
-      "rating": "3.835",
+      "rating": "3.833",
       "description": "Colaboración con Mumbo Jumbo.\r\nA tope de Galaxy y Citra.",
       "containers": [
         {
@@ -484,39 +484,12 @@
       ]
     },
     {
-      "name": "28. Let's Order A Pizza (2026)",
-      "brewery": "Sudden Death Brewing Co.",
-      "url": "https://untappd.com/b/sudden-death-brewing-co-let-s-order-a-pizza-2026/6665238",
-      "style": "IPA - Triple New England / Hazy",
-      "abv": "9.5%",
-      "ibu": "10",
-      "rating": "4.186",
-      "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "170.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "285.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "130.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "31. Lemmy (Memorial Series)",
+      "name": "27. Lemmy (Memorial Series)",
       "brewery": "Drunken Bros",
       "url": "https://untappd.com/b/drunken-bros-lemmy-memorial-series/3191894",
       "style": "IPA - Triple New England / Hazy",
       "abv": "10%",
-      "rating": "3.808",
+      "rating": "3.809",
       "description": "Version 3.0 año 2023\r\n40g de lúpulo por litro y 10% abv",
       "containers": [
         {
@@ -532,6 +505,33 @@
         {
           "size": "Flights of 5/10",
           "price": "115.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "28. Let's Order A Pizza (2026)",
+      "brewery": "Sudden Death Brewing Co.",
+      "url": "https://untappd.com/b/sudden-death-brewing-co-let-s-order-a-pizza-2026/6665238",
+      "style": "IPA - Triple New England / Hazy",
+      "abv": "9.5%",
+      "ibu": "10",
+      "rating": "4.184",
+      "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "170.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "285.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "130.00",
           "currency": "CZK"
         }
       ]
@@ -616,7 +616,7 @@
       "style": "Bock - Doppelbock",
       "abv": "10.6%",
       "ibu": "20",
-      "rating": "3.782",
+      "rating": "3.783",
       "description": "This beer is actually in the triple bock style. It has lots of flavorful malts (munich, caramunich, double roasted crystal) and a little roasted malt for color. Aged for 365 days in calvados and cognac barrels in our lagering cellar.",
       "containers": [
         {
@@ -710,7 +710,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-dolly-don-t-dance/6399387",
       "style": "Sour - Fruited",
       "abv": "4.8%",
-      "rating": "3.519",
+      "rating": "3.518",
       "description": "DOLLY DON’T DANCE\r\nSour Ale w/ hibiscus and grapefruit – 4,8%\r\n \r\nAll Hallow’s Eve and the Wild Wild West? Sign us up ???\r\n \r\nWith Summer of Savage @suddendeathbrewpub underway this weekend, we’ve got a fresher-than-fresh Sour coming your way.\r\n \r\nDolly Don’t Dance was conditioned on a mountain of hibiscus flowers and grapefruit peel, and kissed with a little more sea salt than usual.\r\n \r\nIf you’re an OG and remember when Sours clean and crisp, this is your beer.\r\n\r\nFruity, tart, and refreshing.\r\n \r\nadjuncts: hibiscus, grapefruit peel, sea salt.",
       "containers": [
         {
@@ -736,7 +736,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.77",
+      "rating": "3.771",
       "containers": [
         {
           "size": "0.2L",
@@ -762,7 +762,7 @@
       "style": "Sour - Smoothie / Pastry",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.175",
+      "rating": "4.168",
       "description": "Heavily fruited Smoothie Sour with peach, passionfruit, banana, coconut, honey\r\n\r\ncontains: barley, wheat, oats, honey, lactose\r\n\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -783,7 +783,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-this-mango-bites-back-12/6645644",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.753",
+      "rating": "3.742",
       "description": "Mango Bites Back je gose, která si hraje s kontrasty. Základ tvoří lehce kyselé, osvěžující tělo s jemnou slaností typickou pro styl. Do něj jsme přidali poctivou dávku manga, které pivu dává plnou, sladší ovocnou chuť, a limetku, která všechno zvedne svěží kyselou linkou. \r\n\r\nPak přichází habanero. Ne jako samoúčelný extrém, ale jako koření. Pálivost nastupuje až v dozvuku – nejdřív cítíte šťavnaté mango a citrus, teprve potom se objeví hřejivé, lehce štiplavé zakončení, které zůstane na patře a vybídne k dalšímu napití. \r\n\r\nVýsledkem je vyvážené, výrazné a velmi pitelné pivo. Nejdřív sladkokyselé osvěžení, pak jemné kousnutí. Přesně tak, jak název slibuje.",
       "containers": [
         {
@@ -809,7 +809,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-ale-plum-and-cranberry-and-ginger/5859332",
       "style": "Sour - Fruited",
       "abv": "4.1%",
-      "rating": "3.875",
+      "rating": "3.874",
       "containers": [
         {
           "size": "0.2L",
@@ -859,7 +859,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-drink-and-drive-o/5640863",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.513",
+      "rating": "3.512",
       "description": "Pro naše druhé nealko jsme vyslechli vaše prosby a našli způsob jak pasterovat plechovky, můžete se tak těšit na naše první plechovkové nealko. Pro tuto verzi jsme si vybrali styl, který je nám nejblíž, kalnou voňavou IPA s chmely Cryo Pop a Citra Spectrum. Tak ochutnejte a buďte zodpovědní!\r\n\r\nFor our second non-alcoholic beer we listened to your requests and found a way to pasteurize the cans, so you can look forward to our first canned AF beer. For this release we chose the style that is closest to our hearts, a hazy fragrant IPA with Cryo Pop and Citra Spectrum hops. So give it a taste and stay resposible!",
       "containers": [
         {
@@ -911,7 +911,7 @@
       "url": "https://untappd.com/b/marlobobo-pulpo-fiction-2022/5704401",
       "style": "Mead - Braggot",
       "abv": "13%",
-      "rating": "4.318",
+      "rating": "4.315",
       "description": "Blend of wildberry mead and bourbon barrel-aged imperial stout with Ugandan vanilla and Spanish squid ink.\r\n\r\nAn experimental braggot that came to life after trying different blends of mead and barrel-aged beer. For this release we ended up blending a strawberry-forward wildberry mead with our bourbon BA vanilla imperial stout (Golden Tears). The blend surprised us with some subtle umami notes that we wanted to highlight with a small dose of umami-rich squid ink.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nFruit varieties:\r\nStrawberry (Polka)\r\nWild blueberry (bilberries)\r\nAronia\r\nApple (Discovery)\r\nPlum (Jubileum)\r\nPear (Celina)\r\n\r\nThe strawberry, wild blueberry and aronia is supported by a blend of apple, plum and pear juice that was used instead of water.\r\n\r\n\r\n*The vintage year refers to the harvest year of the honey and fruit*\r\n\r\n",
       "containers": [
         {
@@ -932,7 +932,7 @@
       "url": "https://untappd.com/b/marlobobo-misanthropic-topographer-2022/5258596",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.353",
+      "rating": "4.352",
       "description": "Blackberry and strawberry mead.\r\n\r\nA blackberry mead and strawberry mead were fermented separately, and thoughtfully blended to what we felt was the perfect expression of both berry varieties together.\r\n\r\nA thick and velvety concoction of fresh, jammy blackberries, strawberries and wildflower honey.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nBlackberry variety:\r\nLoch Ness\r\n\r\nStrawberry variety:\r\nPolka\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -952,7 +952,7 @@
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-drink-and-razz-o/6724346",
       "style": "Non-Alcoholic - Sour",
-      "rating": "3.71",
+      "rating": "3.698",
       "description": "Drink And Razz je nealko, které si drží všechno, co od souru čekáš, jen bez alkoholu. Příjemná kyselost, šťavnaté maliny a lehké tělo, které tě nebude brzdit. \r\n\r\nMaliny dodávají svěží ovocnost s jemnou sladkostí, která vyvažuje kyselý základ. Výsledek je čistý, osvěžující a překvapivě plný i bez alkoholu. ",
       "containers": [
         {
@@ -983,7 +983,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.211",
+      "rating": "3.209",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1048,7 +1048,7 @@
       "url": "https://untappd.com/b/lervig-oak-aged-pilsner-by-rackhouse/5953834",
       "style": "Pilsner - Other",
       "abv": "5.8%",
-      "rating": "3.652",
+      "rating": "3.651",
       "description": "With a love for wood aged beer in Rackhouse we decided to age our Pilsner in one of our foeders for 6 months which has resulted in a rustic wood aged Pilsner that is refreshing yet complex. With a balanced malt character, dry finish and a slight funk edge from the wood aging. We are excited to experiment more with this style.",
       "containers": [
         {
@@ -1081,7 +1081,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.199",
+      "rating": "4.197",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1289,7 +1289,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-dark-inception-3-salty-caramel-edition/5669764",
       "style": "Stout - Imperial / Double Coffee",
       "abv": "12%",
-      "rating": "4.014",
+      "rating": "4.015",
       "description": "Dark Inception 3 salty caramel edition, is a bourbon barrel aged stout with salty caramel, and coffee from the Varghese family farm in the south of India. The coffee adds flavour to an already complex aroma with notes of salty caramel, chocolate, cocoa, and molasses.",
       "containers": [
         {
@@ -1403,7 +1403,7 @@
       "url": "https://untappd.com/b/lervig-midnight-snack/6456575",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.147",
+      "rating": "4.148",
       "description": "Because self-control is overrated. Midnight Snack is a rich, velvety dessert stout loaded with chocolate, caramel, and a big hit of peanut butter. It’s thick, sweet, and unapologetically over the top — like raiding the cupboard after hours and finding everything you ever wanted in one sip.",
       "containers": [
         {
@@ -1529,7 +1529,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.951",
+      "rating": "3.953",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1544,7 +1544,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-coconut-tonka-stout-2025/6411120",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "4.288",
+      "rating": "4.289",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1769,7 +1769,7 @@
       "style": "IPA - Triple",
       "abv": "9.8%",
       "ibu": "80",
-      "rating": "3.982",
+      "rating": "3.981",
       "description": "Extra Lush is triple the tropical treat from the Pacific Northwest. Brewed with three times the amount of hand-selected malts and tropical hops. Live the Extra Lush Life!\r\n\r\nDown & Dirty: 2-Row Pale malt with Citra, Mosaic, Citra Cryo, Mosaic Quantum Brite, and Citra Quantum Brite hops.\r\n\r\nColor: Light orange\r\nAroma: Citrusy aromas of orange and grapefruit, resinous pine, stone fruit, and pineapple.\r\nFlavor: Gently sweet, mildly bitter, no saltiness and no sourness.                                                                                                                                             \r\n\r\nAvailability: Year-Round\r\n",
       "containers": [
         {
@@ -1802,7 +1802,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.173",
+      "rating": "4.178",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1882,7 +1882,7 @@
       "url": "https://untappd.com/b/cascade-brewing-petite-kriek/5360908",
       "style": "Sour - Fruited",
       "abv": "6%",
-      "rating": "3.886",
+      "rating": "3.888",
       "description": "Petite Kriek features our sour golden ale aged in an oak foudre for 12 months with Oregon-grown Bing and Montmorency cherries. This blend showcases a delicate cherry aroma and flavor with the slightest hint of funk and a light ruby color.",
       "containers": [
         {
