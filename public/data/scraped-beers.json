@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-22T11:31:07.963Z",
-  "totalBeers": 107,
+  "scrapedAt": "2026-06-23T08:56:00.910Z",
+  "totalBeers": 106,
   "beers": [
     {
       "name": "14. Pilsener Program v.01 - Canadian Pilsner",
@@ -10,7 +10,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.638",
+      "rating": "3.642",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -95,7 +95,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.671",
+      "rating": "3.676",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -122,7 +122,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.617",
+      "rating": "3.615",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -304,7 +304,7 @@
       "style": "IPA - American",
       "abv": "6.7%",
       "ibu": "67",
-      "rating": "3.91",
+      "rating": "3.912",
       "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -330,7 +330,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-open-air-10/6755952",
       "style": "Pale Ale - American",
       "abv": "4.1%",
-      "rating": "3.721",
+      "rating": "3.749",
       "description": "Open Air je lehký Ale uvařený přesně na chvíle, kdy se pije venku. Lehké, svěží a maximálně pitelný – přesně tak, jak si žádá začínající festivalová sezóna. \r\n\r\nChmelová kombinace Citra a Galaxy přináší výraznou citrusovou linku s jemným tropickým přesahem, která krásně sedí na lehkém, suchém těle. Díky tomu působí pivo čistě, osvěžujícím dojmem a přirozeně vybízí k dalšímu napití. \r\n\r\nAť už stojíte pod pódiem, sedíte v trávě nebo jen trávíte den venku, Open Air funguje přesně tak, jak má. Pivo, které vás podrží od prvního koncertu až po poslední přídavek. ",
       "containers": [
         {
@@ -378,39 +378,12 @@
       ]
     },
     {
-      "name": "7. Amnesia Haze",
-      "brewery": "La Grúa",
-      "url": "https://untappd.com/b/la-grua-amnesia-haze/2355600",
-      "style": "IPA - New England / Hazy",
-      "abv": "6%",
-      "ibu": "43",
-      "rating": "3.896",
-      "description": "Reeditamos nuestra primera DDH NEIPA con lúpulos CITRA, MOSAIC y AMARILLO y un generoso doble dry hopping. Más cítrica, más potente y mas equilibrada que nunca!",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "120.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "190.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "90.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "20. Neo-Zoulou",
       "brewery": "À La Dérive Brasserie Artisanale",
       "url": "https://untappd.com/b/a-la-derive-brasserie-artisanale-neo-zoulou/6587552",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
-      "rating": "4.074",
+      "rating": "4.067",
       "description": "Le peuple de la Nouvelle-Zélande nous cache un énorme secret depuis la nuit des temps et il ne s’agit pas de leur capacité à produire des houblons exceptionnellement juteux! Il existe dans ce pays un animal de compagnie qui ressemble beaucoup à un chien, à part ses zébrures mauve et rouge ainsi que ses sabots bleu poudre! Cette Double IPA est brassée avec du Motueka tardif de la ferme Garston hops qui lui confère des notes de tarte à la lime, de mangue, d’orange sucrée, avec une finale herbacée qui vient équilibrer le tout!",
       "containers": [
         {
@@ -489,7 +462,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-nothing-but-strata-17-deg/6753971",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "4.076",
+      "rating": "4.039",
       "description": "Jednochmelová NEIPA, která dává naplno vyniknout americké odrůdě Strata – a to jak v klasické, tak v cryo podobě. Díky tomu je projev chmele ještě intenzivnější, čistší a víc zaměřený na aroma. Strata je známá svojí výraznou ovocností, kde dominují jahody, marakuja, citrusy a tropické ovoce, doplněné o typickou bylinnou a lehce “dank” rostlinnou linku. Právě tahle kombinace dává pivu charakter, který je šťavnatý, ale zároveň má hloubku. \r\n Plné, krémové tělo, nízká hořkost a maximální aromatika. Nic než Strata! ",
       "containers": [
         {
@@ -515,7 +488,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-chariot-of-sol-16/6682919",
       "style": "IPA - New England / Hazy",
       "abv": "6.8%",
-      "rating": "3.882",
+      "rating": "3.883",
       "description": "Po Eye of Odin se vracíme do severské mytologie s dalším Vallhalovým pivem. Tentokrát vzdáváme hold bohyni Sól, která podle legendy brázdila oblohu na svém slunečním voze. A přesně takhle má působit i tohle pivo – zářivě, energicky a nespoutaně. \r\n\r\nZáklad tvoří New England IPA, kterou jsme prokvasili norskými kveik kvasnicemi. To pivu dodává lehce rustikální charakter a zároveň podporuje ovocnost celého profilu. Do toho jsme přidali pomeranče v několika podobách – jak šťávu, tak i kůru – což se propisuje do výrazné, šťavnaté citrusové linky s lehce nahořklým, kůrovým dozvukem. \r\n\r\nChmelová kombinace Citra Dynaboost, Krush a Amarillo pak celé pivo posouvá ještě dál. Přináší vrstvy citrusů, sladkého ovoce a jemné pryskyřičnosti, které se krásně doplňují s pomerančovou linkou. Výsledkem je plné, aromatické pivo s lehce divokým charakterem, které vás sveze stejně nekompromisně jako sluneční vůz bohyně Sól. ",
       "containers": [
         {
@@ -663,7 +636,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-the-irish-black-11/5091343",
       "style": "Stout - Irish Dry",
       "abv": "4.6%",
-      "rating": "3.577",
+      "rating": "3.578",
       "containers": [
         {
           "size": "0.2L",
@@ -735,7 +708,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.776",
+      "rating": "3.779",
       "containers": [
         {
           "size": "0.2L",
@@ -786,7 +759,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-tropiq-fizz-11/6709537",
       "style": "Sour - Fruited Gose",
       "abv": "4.6%",
-      "rating": "3.827",
+      "rating": "3.823",
       "description": "Lehký gose, který tě hodí rovnou do tropů. Kombinace manga, marakuji a guavy přináší šťavnatý, výrazně ovocný profil, který perfektně sedí na jemně kyselém a lehce slaném základu. \r\n\r\nMango dodává plnost a sladší tropickou linku, marakuja výraznou kyselost a svěžest, guava pak jemnější, kulatější ovocný charakter. Společně vytváří vyvážený, šťavnatý a extrémně pitelný profil. \r\n\r\nLehké tělo, vysoká pitelnost a osvěžení, které vás nepustí.",
       "containers": [
         {
@@ -838,7 +811,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-ale-plum-and-cranberry-and-ginger/5859332",
       "style": "Sour - Fruited",
       "abv": "4.1%",
-      "rating": "3.86",
+      "rating": "3.853",
       "containers": [
         {
           "size": "0.2L",
@@ -863,7 +836,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.373",
+      "rating": "3.372",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -926,7 +899,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.208",
+      "rating": "3.207",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -1024,7 +997,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.185",
+      "rating": "4.186",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1105,7 +1078,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.106",
+      "rating": "4.107",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1168,7 +1141,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-dark-force/14945",
       "style": "Stout - Russian Imperial",
       "abv": "8.5%",
-      "rating": "3.891",
+      "rating": "3.89",
       "description": "From a country far, far away, comes the only imperial Wheat stout in the known universe. This Imperial really strikes back. Made with wheat malt and wheat yeast. ",
       "containers": [
         {
@@ -1281,7 +1254,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.068",
+      "rating": "4.069",
       "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
@@ -1314,7 +1287,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.098",
+      "rating": "4.097",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1424,7 +1397,7 @@
       "url": "https://untappd.com/b/revolution-brewing-cocoa-vanilla-deth/6426096",
       "style": "Stout - Imperial / Double",
       "abv": "13.3%",
-      "rating": "4.325",
+      "rating": "4.324",
       "description": "Barreling forth from the same French-oak-augmented blend of stout used in 2025 Vanilla Deth, this super-accessible rendition features Mexican cocoa nibs from our buds at Sleep Walk Chocolateria (by Dark Matter Coffee). With so much of the vanilla character coming from oak rather than just hand-split beans, you’ll also want to experience this beer at cellaring temp before the full breadth of aromatics presents itself. Far from any sort of adjunct bomb, a patient drinker will be rewarded with a dynamic sipping experience hitting on a wide range of familiar and comforting flavors and aromas as it warms - never letting any one dominate.⁠",
       "containers": [
         {
@@ -1533,7 +1506,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-illegal-cargo/6514623",
       "style": "IPA - Imperial / Double",
       "abv": "7.9%",
-      "rating": "3.907",
+      "rating": "3.908",
       "description": "Illegal Cargo\r\nIPA – Imperial / Double\r\n7,9% - 70 IBU\r\n\r\ndescription:\r\nDry hopped West Coast Double IPA with Mosaic, Riwaka, Chinook, Columbus.\r\nCollaboration with our West-Coast-is-the-Best-Coast pals from Aalborg, Denmark.\r\nContains barley, wheat.",
       "containers": [
         {
@@ -1632,7 +1605,7 @@
       "style": "IPA - Triple",
       "abv": "9.8%",
       "ibu": "80",
-      "rating": "3.982",
+      "rating": "3.981",
       "description": "Extra Lush is triple the tropical treat from the Pacific Northwest. Brewed with three times the amount of hand-selected malts and tropical hops. Live the Extra Lush Life!\r\n\r\nDown & Dirty: 2-Row Pale malt with Citra, Mosaic, Citra Cryo, Mosaic Quantum Brite, and Citra Quantum Brite hops.\r\n\r\nColor: Light orange\r\nAroma: Citrusy aromas of orange and grapefruit, resinous pine, stone fruit, and pineapple.\r\nFlavor: Gently sweet, mildly bitter, no saltiness and no sourness.                                                                                                                                             \r\n\r\nAvailability: Year-Round\r\n",
       "containers": [
         {
