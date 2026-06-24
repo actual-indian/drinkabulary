@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-23T08:56:00.910Z",
-  "totalBeers": 106,
+  "scrapedAt": "2026-06-24T08:51:18.854Z",
+  "totalBeers": 107,
   "beers": [
     {
       "name": "14. Pilsener Program v.01 - Canadian Pilsner",
@@ -10,7 +10,7 @@
       "style": "Pilsner - American",
       "abv": "5.2%",
       "ibu": "30",
-      "rating": "3.642",
+      "rating": "3.64",
       "description": "Introducing the Pilsener Program - ever-evolving and finely-tuned small batches of Pilsener beer ready for drinking.\r\n\r\nThe very first iteration - v.01 - is a Canadian-style Pilsner.\r\n\r\ncontains: barley",
       "containers": [
         {
@@ -122,7 +122,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.615",
+      "rating": "3.614",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -298,39 +298,12 @@
       ]
     },
     {
-      "name": "26. Hop Ripper - Cascade",
-      "brewery": "Sudden Death Brewing Co.",
-      "url": "https://untappd.com/b/sudden-death-brewing-co-hop-ripper-cascade/6698922",
-      "style": "IPA - American",
-      "abv": "6.7%",
-      "ibu": "67",
-      "rating": "3.912",
-      "description": "West Coast IPA dry hopped with 100% Cascade.\r\n\r\ninspired by Green Flash Brewing Co. (California, USA)\r\n\r\ncontains: barley",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "125.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "205.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "95.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "37. Open Air 10",
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-open-air-10/6755952",
       "style": "Pale Ale - American",
       "abv": "4.1%",
-      "rating": "3.749",
+      "rating": "3.725",
       "description": "Open Air je lehký Ale uvařený přesně na chvíle, kdy se pije venku. Lehké, svěží a maximálně pitelný – přesně tak, jak si žádá začínající festivalová sezóna. \r\n\r\nChmelová kombinace Citra a Galaxy přináší výraznou citrusovou linku s jemným tropickým přesahem, která krásně sedí na lehkém, suchém těle. Díky tomu působí pivo čistě, osvěžujícím dojmem a přirozeně vybízí k dalšímu napití. \r\n\r\nAť už stojíte pod pódiem, sedíte v trávě nebo jen trávíte den venku, Open Air funguje přesně tak, jak má. Pivo, které vás podrží od prvního koncertu až po poslední přídavek. ",
       "containers": [
         {
@@ -357,7 +330,7 @@
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "7.5%",
       "ibu": "30",
-      "rating": "3.78",
+      "rating": "3.779",
       "description": "This collab with our friends at Forager and Humble Forager featured the incredible hop Nectaron, with a 20g/L double dry hop. Malt base is extra pale maris otter, malted oats, flaked oats and flaked wheat. Enjoy!",
       "containers": [
         {
@@ -383,7 +356,7 @@
       "url": "https://untappd.com/b/a-la-derive-brasserie-artisanale-neo-zoulou/6587552",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
-      "rating": "4.067",
+      "rating": "4.062",
       "description": "Le peuple de la Nouvelle-Zélande nous cache un énorme secret depuis la nuit des temps et il ne s’agit pas de leur capacité à produire des houblons exceptionnellement juteux! Il existe dans ce pays un animal de compagnie qui ressemble beaucoup à un chien, à part ses zébrures mauve et rouge ainsi que ses sabots bleu poudre! Cette Double IPA est brassée avec du Motueka tardif de la ferme Garston hops qui lui confère des notes de tarte à la lime, de mangue, d’orange sucrée, avec une finale herbacée qui vient équilibrer le tout!",
       "containers": [
         {
@@ -436,7 +409,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.176",
+      "rating": "4.174",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -462,7 +435,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-nothing-but-strata-17-deg/6753971",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "4.039",
+      "rating": "4.047",
       "description": "Jednochmelová NEIPA, která dává naplno vyniknout americké odrůdě Strata – a to jak v klasické, tak v cryo podobě. Díky tomu je projev chmele ještě intenzivnější, čistší a víc zaměřený na aroma. Strata je známá svojí výraznou ovocností, kde dominují jahody, marakuja, citrusy a tropické ovoce, doplněné o typickou bylinnou a lehce “dank” rostlinnou linku. Právě tahle kombinace dává pivu charakter, který je šťavnatý, ale zároveň má hloubku. \r\n Plné, krémové tělo, nízká hořkost a maximální aromatika. Nic než Strata! ",
       "containers": [
         {
@@ -488,7 +461,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-chariot-of-sol-16/6682919",
       "style": "IPA - New England / Hazy",
       "abv": "6.8%",
-      "rating": "3.883",
+      "rating": "3.882",
       "description": "Po Eye of Odin se vracíme do severské mytologie s dalším Vallhalovým pivem. Tentokrát vzdáváme hold bohyni Sól, která podle legendy brázdila oblohu na svém slunečním voze. A přesně takhle má působit i tohle pivo – zářivě, energicky a nespoutaně. \r\n\r\nZáklad tvoří New England IPA, kterou jsme prokvasili norskými kveik kvasnicemi. To pivu dodává lehce rustikální charakter a zároveň podporuje ovocnost celého profilu. Do toho jsme přidali pomeranče v několika podobách – jak šťávu, tak i kůru – což se propisuje do výrazné, šťavnaté citrusové linky s lehce nahořklým, kůrovým dozvukem. \r\n\r\nChmelová kombinace Citra Dynaboost, Krush a Amarillo pak celé pivo posouvá ještě dál. Přináší vrstvy citrusů, sladkého ovoce a jemné pryskyřičnosti, které se krásně doplňují s pomerančovou linkou. Výsledkem je plné, aromatické pivo s lehce divokým charakterem, které vás sveze stejně nekompromisně jako sluneční vůz bohyně Sól. ",
       "containers": [
         {
@@ -661,7 +634,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-valhalla-ba-house-stout-vanilla-infused/6755925",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.138",
+      "rating": "4.163",
       "description": "Zichovec beer night special Vanilla Infusion ",
       "containers": [
         {
@@ -708,7 +681,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.779",
+      "rating": "3.783",
       "containers": [
         {
           "size": "0.2L",
@@ -733,7 +706,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-ayran-gose/6755941",
       "style": "Sour - Other Gose",
       "abv": "4.5%",
-      "rating": "4.071",
+      "rating": "4.028",
       "description": "Gose with Yogurt ",
       "containers": [
         {
@@ -759,7 +732,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-tropiq-fizz-11/6709537",
       "style": "Sour - Fruited Gose",
       "abv": "4.6%",
-      "rating": "3.823",
+      "rating": "3.834",
       "description": "Lehký gose, který tě hodí rovnou do tropů. Kombinace manga, marakuji a guavy přináší šťavnatý, výrazně ovocný profil, který perfektně sedí na jemně kyselém a lehce slaném základu. \r\n\r\nMango dodává plnost a sladší tropickou linku, marakuja výraznou kyselost a svěžest, guava pak jemnější, kulatější ovocný charakter. Společně vytváří vyvážený, šťavnatý a extrémně pitelný profil. \r\n\r\nLehké tělo, vysoká pitelnost a osvěžení, které vás nepustí.",
       "containers": [
         {
@@ -785,7 +758,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-this-mango-bites-back-12/6645644",
       "style": "Sour - Fruited Gose",
       "abv": "5.1%",
-      "rating": "3.752",
+      "rating": "3.75",
       "description": "Mango Bites Back je gose, která si hraje s kontrasty. Základ tvoří lehce kyselé, osvěžující tělo s jemnou slaností typickou pro styl. Do něj jsme přidali poctivou dávku manga, které pivu dává plnou, sladší ovocnou chuť, a limetku, která všechno zvedne svěží kyselou linkou. \r\n\r\nPak přichází habanero. Ne jako samoúčelný extrém, ale jako koření. Pálivost nastupuje až v dozvuku – nejdřív cítíte šťavnaté mango a citrus, teprve potom se objeví hřejivé, lehce štiplavé zakončení, které zůstane na patře a vybídne k dalšímu napití. \r\n\r\nVýsledkem je vyvážené, výrazné a velmi pitelné pivo. Nejdřív sladkokyselé osvěžení, pak jemné kousnutí. Přesně tak, jak název slibuje.",
       "containers": [
         {
@@ -811,7 +784,7 @@
       "url": "https://untappd.com/b/hradecky-klenot-sour-ale-plum-and-cranberry-and-ginger/5859332",
       "style": "Sour - Fruited",
       "abv": "4.1%",
-      "rating": "3.853",
+      "rating": "3.851",
       "containers": [
         {
           "size": "0.2L",
@@ -836,7 +809,7 @@
       "url": "https://untappd.com/b/f-h-prager-f-h-prager-cider-11/3061812",
       "style": "Cider - Traditional / Apfelwein",
       "abv": "4.5%",
-      "rating": "3.372",
+      "rating": "3.371",
       "description": "Jedenáctka je naše vlajková loď – charakterem nejpřístupnější varianta pro každého fanouška ciderů. Je polosuchá a jemnější. Obsah alkoholu je 4,5%",
       "containers": [
         {
@@ -883,7 +856,7 @@
       "url": "https://untappd.com/b/marlobobo-misanthropic-topographer-2022/5258596",
       "style": "Mead - Melomel",
       "abv": "12%",
-      "rating": "4.351",
+      "rating": "4.35",
       "description": "Blackberry and strawberry mead.\r\n\r\nA blackberry mead and strawberry mead were fermented separately, and thoughtfully blended to what we felt was the perfect expression of both berry varieties together.\r\n\r\nA thick and velvety concoction of fresh, jammy blackberries, strawberries and wildflower honey.\r\n\r\n-------------------------- 2022 --------------------------\r\n\r\nHoney variety:\r\nWildflower\r\n\r\nBlackberry variety:\r\nLoch Ness\r\n\r\nStrawberry variety:\r\nPolka\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -899,7 +872,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-handsfree-alcohol-free-ipa/5822583",
       "style": "Non-Alcoholic - IPA",
       "abv": "0.5%",
-      "rating": "3.207",
+      "rating": "3.205",
       "description": "Alcohol Free Session IPA\r\n\r\nHandsfree is a hoppy, refreshing beer. Packed with flavor and just 0,5% alcohol, Handsfree is a beer designed for easy living. \r\n\r\nKilling the buzz without being a buzzkill!",
       "containers": [
         {
@@ -932,7 +905,7 @@
       "style": "Gluten-Free",
       "abv": "6%",
       "ibu": "50",
-      "rating": "3.7",
+      "rating": "3.701",
       "description": "IPA with piney hops.",
       "containers": [
         {
@@ -970,6 +943,38 @@
         {
           "size": "375ml Bottle",
           "price": "340.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Death of Barbie",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-death-of-barbie/5478823",
+      "style": "IPA - American",
+      "abv": "7%",
+      "rating": "3.589",
+      "description": "Jump in. The sea is plastic, it's fantastic. Drink me here, find me everywhere. CA elixir, Strata, Chinook & Columbus.",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "130.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "Neon Baby",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-neon-baby/4375447",
+      "style": "Pale Ale - New England / Hazy",
+      "abv": "5.5%",
+      "rating": "3.69",
+      "description": "Citric beauty isn't everything, it's the only thing. Born from a divine beast to rule and conquer the mortal world. Obey this all-Citra hopped NEPA.",
+      "containers": [
+        {
+          "size": "0.44L Can",
+          "price": "130.00",
           "currency": "CZK"
         }
       ]
@@ -1189,7 +1194,7 @@
       "url": "https://untappd.com/b/haandbryggeriet-amargeddon/6581587",
       "style": "Stout - Imperial / Double",
       "abv": "12%",
-      "rating": "3.998",
+      "rating": "3.999",
       "description": "AMARgeddon, a bond forged in malt.\r\nSome friendships are measured in years; ours is measured in shared brews. For this reunion with our dear friends at Amager (pronounced \"Amar\" just like this beer) we have created Amargeddon. This 12% imperial stout is a tribute to our shared history, brewed with Norwegian forest honey and tucked away for 14 months in aquavit barrels.",
       "containers": [
         {
@@ -1303,7 +1308,7 @@
       "url": "https://untappd.com/b/lervig-trouble-maker/6456576",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.111",
+      "rating": "4.112",
       "description": "Toasty, nutty, and just the right amount of wrong. Trouble Maker layers candied pecan and golden graham cracker over deep roasted malt for a full-bodied stout that’s both sweet and mischievous. You know you shouldn’t, but you just can’t help yourself. Rules are for other people anyway.",
       "containers": [
         {
@@ -1429,7 +1434,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-cocoa-vanilla-cardamom-sea-salt-stout-2025/6411123",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "13.5%",
-      "rating": "3.953",
+      "rating": "3.951",
       "containers": [
         {
           "size": "0.375L Bottle",
@@ -1538,7 +1543,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-the-divine-jobless/6606443",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.012",
+      "rating": "4.011",
       "description": "Double dry hopped Hazy IPA with Citra, Strata, Nectaron.\r\n\r\nContains barley, wheat, oats.\r\n",
       "containers": [
         {
@@ -1622,7 +1627,7 @@
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.173",
+      "rating": "4.174",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1765,7 +1770,7 @@
       "url": "https://untappd.com/b/lervig-vin-santo-sour-by-rackhouse/5681784",
       "style": "Wild Ale - Other",
       "abv": "9.5%",
-      "rating": "4.011",
+      "rating": "4.012",
       "description": "A Rackhouse sour aged for 2 years in Vin Santo dessert wine barrels from Italy. The result is vibrant sour notes froum our house mixed culture, vinous oak, honey and sweet dried fuits. A truly sacred Rackhouse sour.",
       "containers": [
         {
