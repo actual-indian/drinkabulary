@@ -52,6 +52,10 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
         body: JSON.stringify({ message: userMessage, beers }),
       });
 
+      if (!chatRes.ok) {
+        throw new Error(`API error ${chatRes.status}`);
+      }
+
       const data = await chatRes.json();
       setMessages((prev) => [...prev, {
         role: 'assistant',
