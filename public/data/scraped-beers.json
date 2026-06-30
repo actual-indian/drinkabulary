@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-29T10:18:48.831Z",
-  "totalBeers": 110,
+  "scrapedAt": "2026-06-30T08:53:58.481Z",
+  "totalBeers": 108,
   "beers": [
     {
       "name": "3. Flamingonaut",
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-flamingonaut/6722083",
       "style": "Pilsner - Other",
       "abv": "5%",
-      "rating": "3.383",
+      "rating": "3.385",
       "description": "Flamingonaut, the intergalactic pool floater. A lounge lizard favourite.\r\nFruity pilsner with thiol unlocking yeast SH-45 & Saaz hops.",
       "containers": [
         {
@@ -35,7 +35,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-ghost-sharks/6675137",
       "style": "Pale Ale - New England / Hazy",
       "abv": "5.2%",
-      "rating": "3.621",
+      "rating": "3.622",
       "containers": [
         {
           "size": "0.2L",
@@ -60,7 +60,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-liquid-claw/6680819",
       "style": "IPA - New England / Hazy",
       "abv": "6.7%",
-      "rating": "3.738",
+      "rating": "3.739",
       "description": "Salama Brewing Co. 2026 anniversary NEIPA. A celebration of extravagant\r\nhop moments created past & present. Hops: Eclipse, Nectaron and Idaho 7.",
       "containers": [
         {
@@ -103,6 +103,11 @@
           "size": "Flights of 5/10",
           "price": "85.00",
           "currency": "CZK"
+        },
+        {
+          "size": "0.44L Can",
+          "price": "220.00",
+          "currency": "CZK"
         }
       ]
     },
@@ -112,7 +117,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-nectar-of-doom/6728278",
       "style": "IPA - American",
       "abv": "6.8%",
-      "rating": "3.598",
+      "rating": "3.603",
       "description": "Nectar of doom canʼt be reasoned with. It doesnʼt feel pity, fear or remorse. \r\nEnd of days hops: Elani, Nelson Sauvin & Columbus.",
       "containers": [
         {
@@ -163,7 +168,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-not-dead-yet/6680820",
       "style": "IPA - Triple New England / Hazy",
       "abv": "10%",
-      "rating": "3.929",
+      "rating": "3.933",
       "description": "Salama Brewing Co. 2026 anniversary Triple NEIPA. A celebration of insane\r\nhop charges created past & present. Hops: Enigma, Nelson Sauvin & Dolcita.",
       "containers": [
         {
@@ -190,7 +195,7 @@
       "style": "Stout - Imperial / Double",
       "abv": "11.5%",
       "ibu": "80",
-      "rating": "3.819",
+      "rating": "3.822",
       "description": "Hagström Thunder is an imperial stout made without any adjuncts. Very full-bodied taste has intense roastiness with coffee and dark chocolate aromas. Also some lightly spicy and soft fruity nuances. Bitterness, the usual Hagström trademark, is still noticeable, even in these conditions.  The beer was made at Salama Brewing in Kerava.",
       "containers": [
         {
@@ -212,7 +217,7 @@
       "style": "Pilsner - Czech / Bohemian",
       "abv": "4.6%",
       "ibu": "40",
-      "rating": "3.521",
+      "rating": "3.522",
       "description": "Klasický spodně kvašený jedenáctistupňový ležák plzeňského typu z nejkvalitnějších sladů. Receptura je postavena na chmelu Harmonie. Příjemnou hořkostí vyzývá k opětovnému napití.\r\n\r\nClassic bottom-fermented eleven-degree lager of the Pilsen type made of the highest quality malts. The recipe is based on Harmonie hops. With a pleasant bitterness, it calls for re-drinking.",
       "containers": [
         {
@@ -324,7 +329,7 @@
       "style": "Red Ale - Other",
       "abv": "5.2%",
       "ibu": "42",
-      "rating": "3.59",
+      "rating": "3.586",
       "description": "Brick by Brick is our series of beers made for easy drinking.\r\n\r\nRed Rye Pale Ale with Centennial, Chinook.\r\n\r\ncontains: barley, rye",
       "containers": [
         {
@@ -480,7 +485,7 @@
       "url": "https://untappd.com/b/drunken-bros-lemmy-memorial-series/3191894",
       "style": "IPA - Triple New England / Hazy",
       "abv": "10%",
-      "rating": "3.81",
+      "rating": "3.809",
       "description": "Version 3.0 año 2023\r\n40g de lúpulo por litro y 10% abv",
       "containers": [
         {
@@ -507,7 +512,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.164",
+      "rating": "4.165",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -779,7 +784,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.785",
+      "rating": "3.786",
       "containers": [
         {
           "size": "0.2L",
@@ -830,7 +835,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-tropiq-fizz-11/6709537",
       "style": "Sour - Fruited Gose",
       "abv": "4.6%",
-      "rating": "3.836",
+      "rating": "3.844",
       "description": "Lehký gose, který tě hodí rovnou do tropů. Kombinace manga, marakuji a guavy přináší šťavnatý, výrazně ovocný profil, který perfektně sedí na jemně kyselém a lehce slaném základu. \r\n\r\nMango dodává plnost a sladší tropickou linku, marakuja výraznou kyselost a svěžest, guava pak jemnější, kulatější ovocný charakter. Společně vytváří vyvážený, šťavnatý a extrémně pitelný profil. \r\n\r\nLehké tělo, vysoká pitelnost a osvěžení, které vás nepustí.",
       "containers": [
         {
@@ -929,7 +934,7 @@
       "url": "https://untappd.com/b/marlobobo-kokemomo-2023/6151420",
       "style": "Mead - Melomel",
       "abv": "10%",
-      "rating": "4.385",
+      "rating": "4.383",
       "description": "Lingonberry mead aged on Ugandan vanilla beans.\r\n\r\nLingonberries are notoriously difficult to ferment due to their natural content of benzoic acid - one reason lingonberry jam keeps so well without added preservatives. Because of this, this melomel is crafted a bit differently than most of our fruit meads: water is added to help kickstart fermentation. It's still packed with fruit, though slightly less saturated with berries than our usual offerings.\r\n\r\nOver 6 months of aging on Ugandan vanilla beans not only softens the tannic grip of lingonberries, but also amplifies their tart and fruity character. Paired with honey, it reveals notes of caramel and marshmallow fluff. \r\n\r\n------------------------------ 2023 ------------------------------\r\n\r\nHoney variety:\r\nWildflower honey from Konnerud and Løten.\r\n\r\nLingonberry variety:\r\nWild lingonberries foraged from the forest (Sande and Kongsberg).\r\n\r\n\r\n*The vintage year refers to the harvest year of the ingredients*\r\n\r\n",
       "containers": [
         {
@@ -1161,7 +1166,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.104",
+      "rating": "4.105",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1337,7 +1342,7 @@
       "url": "https://untappd.com/b/laugar-brewery-dreamthief/6496965",
       "style": "Stout - Russian Imperial",
       "abv": "11%",
-      "rating": "4.07",
+      "rating": "4.069",
       "description": "Imperial stout aged in Bourbon whisky barrels",
       "containers": [
         {
@@ -1605,7 +1610,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-once-upon-a-time-in-eternia-2026/6606419",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.04",
+      "rating": "4.039",
       "description": "Hazy IPA with Citra, Simcoe, Centennial.\r\n\r\nContains barley, wheat.\r\n",
       "containers": [
         {
@@ -1699,30 +1704,13 @@
       ]
     },
     {
-      "name": "Razzie Passion",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-razzie-passion/3461071",
-      "style": "Sour - Fruited Berliner Weisse",
-      "abv": "8%",
-      "ibu": "6",
-      "rating": "3.739",
-      "description": "Imperial Berliner Weisse drowned in raspberry, cherry, passion fruit and vanilla. Delicious, crushable and comes with a Barry White-ish vibe. Feel the Salama love baby.",
-      "containers": [
-        {
-          "size": "0.44L Can",
-          "price": "220.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Blåbärsoppa",
       "brewery": "Sudden Death Brewing Co.",
       "url": "https://untappd.com/b/sudden-death-brewing-co-blabarsoppa/6683054",
       "style": "Sour - Fruited",
       "abv": "5%",
       "ibu": "8",
-      "rating": "4.181",
+      "rating": "4.182",
       "description": "Fruit sour with blueberry, cherry, banana brewed in honour of International Women's Day and the ICWBD.\r\n\r\nPlease keep cold and roll can gently before pouring.\r\n\r\ncontains: barley, wheat, oats",
       "containers": [
         {
@@ -1802,7 +1790,7 @@
       "url": "https://untappd.com/b/cascade-brewing-petite-kriek/5360908",
       "style": "Sour - Fruited",
       "abv": "6%",
-      "rating": "3.888",
+      "rating": "3.887",
       "description": "Petite Kriek features our sour golden ale aged in an oak foudre for 12 months with Oregon-grown Bing and Montmorency cherries. This blend showcases a delicate cherry aroma and flavor with the slightest hint of funk and a light ruby color.",
       "containers": [
         {
@@ -1876,23 +1864,6 @@
       ]
     },
     {
-      "name": "Gose To Hollywood",
-      "brewery": "To Øl",
-      "url": "https://untappd.com/b/to-ol-gose-to-hollywood/1147659",
-      "style": "Sour - Fruited Gose",
-      "abv": "3.8%",
-      "ibu": "17",
-      "rating": "3.596",
-      "description": "To Øl got startstruck. This is how we went to Hollywood. Salty, sour, light gose brewed with the best fruits California can offer. Best consumed on warm summer days.",
-      "containers": [
-        {
-          "size": "33cl Can",
-          "price": "115.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "Prince (Memorial Series)",
       "brewery": "Drunken Bros",
       "url": "https://untappd.com/b/drunken-bros-prince-memorial-series/5301821",
@@ -1930,7 +1901,7 @@
       "url": "https://untappd.com/b/aben-mumbo-jumbo-7/6396848",
       "style": "Sour - Fruited Gose",
       "abv": "6%",
-      "rating": "3.491",
+      "rating": "3.492",
       "description": "This beer is part of the big fruited gose series; Mumbo Jumbo. Inspired by the piña colada, this bright gose brings together pulpy pineapple, creamy coconut, zesty lime and a chef's kiss of vanilla.",
       "containers": [
         {
@@ -2041,7 +2012,7 @@
       "url": "https://untappd.com/b/o-o-brewing-long-boil-barley-wine-2022/5481369",
       "style": "Barleywine - English",
       "abv": "9%",
-      "rating": "4.028",
+      "rating": "4.029",
       "containers": [
         {
           "size": "0.33L Bottle",
