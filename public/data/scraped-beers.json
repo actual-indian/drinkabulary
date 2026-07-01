@@ -1,7 +1,7 @@
 {
   "venue": "Valhalla Beer Club",
-  "scrapedAt": "2026-06-30T08:53:58.481Z",
-  "totalBeers": 108,
+  "scrapedAt": "2026-07-01T09:26:40.234Z",
+  "totalBeers": 107,
   "beers": [
     {
       "name": "3. Flamingonaut",
@@ -9,7 +9,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-flamingonaut/6722083",
       "style": "Pilsner - Other",
       "abv": "5%",
-      "rating": "3.385",
+      "rating": "3.38",
       "description": "Flamingonaut, the intergalactic pool floater. A lounge lizard favourite.\r\nFruity pilsner with thiol unlocking yeast SH-45 & Saaz hops.",
       "containers": [
         {
@@ -25,187 +25,6 @@
         {
           "size": "Flights of 5/10",
           "price": "60.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "7. Ghost Sharks",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-ghost-sharks/6675137",
-      "style": "Pale Ale - New England / Hazy",
-      "abv": "5.2%",
-      "rating": "3.622",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "145.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "65.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "8. Liquid Claw",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-liquid-claw/6680819",
-      "style": "IPA - New England / Hazy",
-      "abv": "6.7%",
-      "rating": "3.739",
-      "description": "Salama Brewing Co. 2026 anniversary NEIPA. A celebration of extravagant\r\nhop moments created past & present. Hops: Eclipse, Nectaron and Idaho 7.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "95.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "160.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "75.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "12. Passion Razzie",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-passion-razzie/6076531",
-      "style": "Sour - Fruited Berliner Weisse",
-      "abv": "6.2%",
-      "rating": "3.449",
-      "description": "Berliner Weisse drowned in raspberry, cherry, pasion fruit and vanilla. Super delicious and crushable. Feel the Salama love baby, oh oh aah.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "120.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "195.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.44L Can",
-          "price": "220.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "13. Nectar of Doom",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-nectar-of-doom/6728278",
-      "style": "IPA - American",
-      "abv": "6.8%",
-      "rating": "3.603",
-      "description": "Nectar of doom canʼt be reasoned with. It doesnʼt feel pity, fear or remorse. \r\nEnd of days hops: Elani, Nelson Sauvin & Columbus.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "95.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "160.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "75.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "18. Kiss of Doom",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-kiss-of-doom/6675138",
-      "style": "IPA - Imperial / Double New England / Hazy",
-      "abv": "7.7%",
-      "rating": "3.78",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "155.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "260.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "120.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "21. Not Dead Yet",
-      "brewery": "Salama Brewing Company",
-      "url": "https://untappd.com/b/salama-brewing-company-not-dead-yet/6680820",
-      "style": "IPA - Triple New England / Hazy",
-      "abv": "10%",
-      "rating": "3.933",
-      "description": "Salama Brewing Co. 2026 anniversary Triple NEIPA. A celebration of insane\r\nhop charges created past & present. Hops: Enigma, Nelson Sauvin & Dolcita.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "185.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "310.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "140.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
-      "name": "26. Thunder",
-      "brewery": "Hagström",
-      "url": "https://untappd.com/b/hagstrom-thunder/6581404",
-      "style": "Stout - Imperial / Double",
-      "abv": "11.5%",
-      "ibu": "80",
-      "rating": "3.822",
-      "description": "Hagström Thunder is an imperial stout made without any adjuncts. Very full-bodied taste has intense roastiness with coffee and dark chocolate aromas. Also some lightly spicy and soft fruity nuances. Bitterness, the usual Hagström trademark, is still noticeable, even in these conditions.  The beer was made at Salama Brewing in Kerava.",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "210.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "160.00",
           "currency": "CZK"
         }
       ]
@@ -243,33 +62,6 @@
       ]
     },
     {
-      "name": "37. Zlej Blesk",
-      "brewery": "Bad Flash",
-      "url": "https://untappd.com/b/bad-flash-zlej-blesk/1155761",
-      "style": "Lager - American Amber / Red",
-      "abv": "5.7%",
-      "ibu": "30",
-      "rating": "3.604",
-      "description": "Plato: 13°\r\nChmel: Simcoe, Citra, Mosaic\r\nSlad: plzeňský, mnichovský, caramunich, carapils\r\nSpodně kvašeno W95",
-      "containers": [
-        {
-          "size": "0.2L",
-          "price": "50.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "0.4L",
-          "price": "85.00",
-          "currency": "CZK"
-        },
-        {
-          "size": "Flights of 5/10",
-          "price": "30.00",
-          "currency": "CZK"
-        }
-      ]
-    },
-    {
       "name": "6. Fyr & Flamme",
       "brewery": "HaandBryggeriet",
       "url": "https://untappd.com/b/haandbryggeriet-fyr-and-flamme/124451",
@@ -302,7 +94,7 @@
       "url": "https://untappd.com/b/aben-my-favourite-sweater/6567984",
       "style": "IPA - Imperial / Double",
       "abv": "6.1%",
-      "rating": "3.682",
+      "rating": "3.683",
       "description": "Double Dry Hopped Hazy IPA\r\n\r\nGummi bears, over ripe tropical fruits and passionfruit with an underlying candy/watermelon soda character. finishes soft and fluffy with plenty of dank/weed and grapefruit \r\n\r\nIts getting cold outside and the shift in the weather calls for warmer clothes and dusting off you favourite sweater. Cashmere hops, cashmere wool.........makes sense right?",
       "containers": [
         {
@@ -318,6 +110,32 @@
         {
           "size": "Flights of 5/10",
           "price": "80.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "13. Nectar of Doom",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-nectar-of-doom/6728278",
+      "style": "IPA - American",
+      "abv": "6.8%",
+      "rating": "3.605",
+      "description": "Nectar of doom canʼt be reasoned with. It doesnʼt feel pity, fear or remorse. \r\nEnd of days hops: Elani, Nelson Sauvin & Columbus.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "95.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "160.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "75.00",
           "currency": "CZK"
         }
       ]
@@ -454,12 +272,88 @@
       ]
     },
     {
+      "name": "7. Ghost Sharks",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-ghost-sharks/6675137",
+      "style": "Pale Ale - New England / Hazy",
+      "abv": "5.2%",
+      "rating": "3.621",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "85.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "145.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "65.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "8. Liquid Claw",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-liquid-claw/6680819",
+      "style": "IPA - New England / Hazy",
+      "abv": "6.7%",
+      "rating": "3.741",
+      "description": "Salama Brewing Co. 2026 anniversary NEIPA. A celebration of extravagant\r\nhop moments created past & present. Hops: Eclipse, Nectaron and Idaho 7.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "95.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "160.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "75.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "18. Kiss of Doom",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-kiss-of-doom/6675138",
+      "style": "IPA - Imperial / Double New England / Hazy",
+      "abv": "7.7%",
+      "rating": "3.779",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "155.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "260.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "120.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "20. Neo-Zoulou",
       "brewery": "À La Dérive Brasserie Artisanale",
       "url": "https://untappd.com/b/a-la-derive-brasserie-artisanale-neo-zoulou/6587552",
       "style": "IPA - Imperial / Double New England / Hazy",
       "abv": "8.5%",
-      "rating": "4.035",
+      "rating": "4.046",
       "description": "Le peuple de la Nouvelle-Zélande nous cache un énorme secret depuis la nuit des temps et il ne s’agit pas de leur capacité à produire des houblons exceptionnellement juteux! Il existe dans ce pays un animal de compagnie qui ressemble beaucoup à un chien, à part ses zébrures mauve et rouge ainsi que ses sabots bleu poudre! Cette Double IPA est brassée avec du Motueka tardif de la ferme Garston hops qui lui confère des notes de tarte à la lime, de mangue, d’orange sucrée, avec une finale herbacée qui vient équilibrer le tout!",
       "containers": [
         {
@@ -475,6 +369,32 @@
         {
           "size": "Flights of 5/10",
           "price": "135.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
+      "name": "21. Not Dead Yet",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-not-dead-yet/6680820",
+      "style": "IPA - Triple New England / Hazy",
+      "abv": "10%",
+      "rating": "3.932",
+      "description": "Salama Brewing Co. 2026 anniversary Triple NEIPA. A celebration of insane\r\nhop charges created past & present. Hops: Enigma, Nelson Sauvin & Dolcita.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "185.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "310.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "140.00",
           "currency": "CZK"
         }
       ]
@@ -512,7 +432,7 @@
       "style": "IPA - Triple New England / Hazy",
       "abv": "9.5%",
       "ibu": "10",
-      "rating": "4.165",
+      "rating": "4.164",
       "description": "Our most famous beer, once a year. Candied sweet citrus galore with that New Zealand ‘je-ne-sais-quoi.’ Extra hoppings by the pint, served for you, for me, for all!",
       "containers": [
         {
@@ -538,7 +458,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-nothing-but-strata-17-deg/6753971",
       "style": "IPA - New England / Hazy",
       "abv": "7%",
-      "rating": "4.019",
+      "rating": "4.022",
       "description": "Jednochmelová NEIPA, která dává naplno vyniknout americké odrůdě Strata – a to jak v klasické, tak v cryo podobě. Díky tomu je projev chmele ještě intenzivnější, čistší a víc zaměřený na aroma. Strata je známá svojí výraznou ovocností, kde dominují jahody, marakuja, citrusy a tropické ovoce, doplněné o typickou bylinnou a lehce “dank” rostlinnou linku. Právě tahle kombinace dává pivu charakter, který je šťavnatý, ale zároveň má hloubku. \r\n Plné, krémové tělo, nízká hořkost a maximální aromatika. Nic než Strata! ",
       "containers": [
         {
@@ -564,7 +484,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-chariot-of-sol-16/6682919",
       "style": "IPA - New England / Hazy",
       "abv": "6.8%",
-      "rating": "3.873",
+      "rating": "3.871",
       "description": "Po Eye of Odin se vracíme do severské mytologie s dalším Vallhalovým pivem. Tentokrát vzdáváme hold bohyni Sól, která podle legendy brázdila oblohu na svém slunečním voze. A přesně takhle má působit i tohle pivo – zářivě, energicky a nespoutaně. \r\n\r\nZáklad tvoří New England IPA, kterou jsme prokvasili norskými kveik kvasnicemi. To pivu dodává lehce rustikální charakter a zároveň podporuje ovocnost celého profilu. Do toho jsme přidali pomeranče v několika podobách – jak šťávu, tak i kůru – což se propisuje do výrazné, šťavnaté citrusové linky s lehce nahořklým, kůrovým dozvukem. \r\n\r\nChmelová kombinace Citra Dynaboost, Krush a Amarillo pak celé pivo posouvá ještě dál. Přináší vrstvy citrusů, sladkého ovoce a jemné pryskyřičnosti, které se krásně doplňují s pomerančovou linkou. Výsledkem je plné, aromatické pivo s lehce divokým charakterem, které vás sveze stejně nekompromisně jako sluneční vůz bohyně Sól. ",
       "containers": [
         {
@@ -617,7 +537,7 @@
       "url": "https://untappd.com/b/o-o-brewing-anniversary-baltic-porter-2024/6179669",
       "style": "Porter - Imperial / Double Baltic",
       "abv": "11%",
-      "rating": "3.902",
+      "rating": "3.9",
       "containers": [
         {
           "size": "0.2L",
@@ -707,12 +627,34 @@
       ]
     },
     {
+      "name": "26. Thunder",
+      "brewery": "Hagström",
+      "url": "https://untappd.com/b/hagstrom-thunder/6581404",
+      "style": "Stout - Imperial / Double",
+      "abv": "11.5%",
+      "ibu": "80",
+      "rating": "3.821",
+      "description": "Hagström Thunder is an imperial stout made without any adjuncts. Very full-bodied taste has intense roastiness with coffee and dark chocolate aromas. Also some lightly spicy and soft fruity nuances. Bitterness, the usual Hagström trademark, is still noticeable, even in these conditions.  The beer was made at Salama Brewing in Kerava.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "210.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "160.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "34. The Irish Black 11",
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-the-irish-black-11/5091343",
       "style": "Stout - Irish Dry",
       "abv": "4.6%",
-      "rating": "3.578",
+      "rating": "3.577",
       "containers": [
         {
           "size": "0.2L",
@@ -737,7 +679,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-valhalla-ba-house-stout-vanilla-infused/6755925",
       "style": "Stout - Imperial / Double",
       "abv": "13.5%",
-      "rating": "4.15",
+      "rating": "4.151",
       "description": "Zichovec beer night special Vanilla Infusion ",
       "containers": [
         {
@@ -784,7 +726,7 @@
       "url": "https://untappd.com/b/insight-cellars-meadow-rose/6196244",
       "style": "Wild Ale - Other",
       "abv": "6.5%",
-      "rating": "3.786",
+      "rating": "3.789",
       "containers": [
         {
           "size": "0.2L",
@@ -804,12 +746,43 @@
       ]
     },
     {
+      "name": "12. Passion Razzie",
+      "brewery": "Salama Brewing Company",
+      "url": "https://untappd.com/b/salama-brewing-company-passion-razzie/6076531",
+      "style": "Sour - Fruited Berliner Weisse",
+      "abv": "6.2%",
+      "rating": "3.449",
+      "description": "Berliner Weisse drowned in raspberry, cherry, pasion fruit and vanilla. Super delicious and crushable. Feel the Salama love baby, oh oh aah.",
+      "containers": [
+        {
+          "size": "0.2L",
+          "price": "120.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.4L",
+          "price": "195.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "Flights of 5/10",
+          "price": "85.00",
+          "currency": "CZK"
+        },
+        {
+          "size": "0.44L Can",
+          "price": "220.00",
+          "currency": "CZK"
+        }
+      ]
+    },
+    {
       "name": "30. Ayran Gose",
       "brewery": "Pivovar ZICHOVEC",
       "url": "https://untappd.com/b/pivovar-zichovec-ayran-gose/6755941",
       "style": "Sour - Other Gose",
       "abv": "4.5%",
-      "rating": "3.845",
+      "rating": "3.835",
       "description": "Gose with Yogurt ",
       "containers": [
         {
@@ -835,7 +808,7 @@
       "url": "https://untappd.com/b/pivovar-zichovec-tropiq-fizz-11/6709537",
       "style": "Sour - Fruited Gose",
       "abv": "4.6%",
-      "rating": "3.844",
+      "rating": "3.842",
       "description": "Lehký gose, který tě hodí rovnou do tropů. Kombinace manga, marakuji a guavy přináší šťavnatý, výrazně ovocný profil, který perfektně sedí na jemně kyselém a lehce slaném základu. \r\n\r\nMango dodává plnost a sladší tropickou linku, marakuja výraznou kyselost a svěžest, guava pak jemnější, kulatější ovocný charakter. Společně vytváří vyvážený, šťavnatý a extrémně pitelný profil. \r\n\r\nLehké tělo, vysoká pitelnost a osvěžení, které vás nepustí.",
       "containers": [
         {
@@ -1036,7 +1009,7 @@
       "url": "https://untappd.com/b/salama-brewing-company-death-of-barbie/5478823",
       "style": "IPA - American",
       "abv": "7%",
-      "rating": "3.59",
+      "rating": "3.589",
       "description": "Jump in. The sea is plastic, it's fantastic. Drink me here, find me everywhere. CA elixir, Strata, Chinook & Columbus.",
       "containers": [
         {
@@ -1085,7 +1058,7 @@
       "style": "Stout - Imperial / Double Coffee",
       "abv": "13%",
       "ibu": "20",
-      "rating": "4.172",
+      "rating": "4.171",
       "description": "None the Wiser\r\nStout – Imperial / Double Coffee\r\n13,0% - 20 IBU\r\ndescription\r\nImperial Stout conditioned on Mexican origin coffee from our neighbours Cycle Roasters, as well as whole\r\nMadagascar vanilla beans\r\ncontains: barley, oats, coffee, lactose\r\nsuitable for vegetarians",
       "containers": [
         {
@@ -1166,7 +1139,7 @@
       "url": "https://untappd.com/b/brewski-dan/6387218",
       "style": "Stout - Imperial / Double",
       "abv": "11.2%",
-      "rating": "4.105",
+      "rating": "4.103",
       "description": "Imperial stout aged on American whiskey barrels",
       "containers": [
         {
@@ -1375,7 +1348,7 @@
       "url": "https://untappd.com/b/lervig-sweet-tooth/6456580",
       "style": "Stout - Imperial / Double Pastry",
       "abv": "11%",
-      "rating": "4.098",
+      "rating": "4.097",
       "description": "A liquid treat for those who never skip dessert. Sweet Tooth swirls creamy coconut and soft vanilla into a thick, silky stout that’s all about indulgence. Sweet dreams are made of this.",
       "containers": [
         {
@@ -1610,7 +1583,7 @@
       "url": "https://untappd.com/b/sudden-death-brewing-co-once-upon-a-time-in-eternia-2026/6606419",
       "style": "IPA - New England / Hazy",
       "abv": "6.5%",
-      "rating": "4.039",
+      "rating": "4.04",
       "description": "Hazy IPA with Citra, Simcoe, Centennial.\r\n\r\nContains barley, wheat.\r\n",
       "containers": [
         {
@@ -2027,7 +2000,7 @@
       "url": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890",
       "style": "Fruit Beer",
       "abv": "8%",
-      "rating": "3.593",
+      "rating": "3.594",
       "description": "Kasteel Rouge is a strong, ruby red beer brewed from Kasteel Donker and featuring Oblacinska cherries. With a deliciously velvety mouthfeel, its subtle acidity ensures that the sweetness of the cherries does not overpower the beer. The balance of flavors allows us to experience depth and complexity with every sip. With its distinctive dry finish, the beer is eminently drinkable. Ready for ‘la vie en Rouge’?",
       "containers": [
         {
