@@ -1,10 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenerativeAI, SchemaType } from '@google/generative-ai';
-
-export const maxDuration = 30;
 import type { Beer } from '@/types/beer';
 import fs from 'fs';
 import path from 'path';
+
+export const maxDuration = 30;
 
 export async function POST(request: NextRequest) {
   try {
@@ -25,7 +25,7 @@ export async function POST(request: NextRequest) {
     const systemPrompt = fs.readFileSync(promptPath, 'utf-8').trim();
 
     const model = genAI.getGenerativeModel({
-      model: 'gemini-2.5-flash-lite',
+      model: 'gemini-2.5-flash',
       systemInstruction: systemPrompt,
       generationConfig: {
         responseMimeType: 'application/json',
@@ -93,11 +93,19 @@ export async function POST(request: NextRequest) {
       return parts.join(' | ');
     }).join('\n');
 
-    const result = await chat.sendMessage(
-      `Available menu items:\n${beerCatalog}\n\nUser message: ${message}`
-    );
+    const userPrompt = `Available menu items:\n${beerCatalog}\n\nUser message: ${message}`;
 
-    const rawResponse = result.response.text();
+    let rawResponse = '';
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      try {
+        const result = await chat.sendMessage(userPrompt);
+        rawResponse = result.response.text();
+        break;
+      } catch (err) {
+        if (attempt === 3) throw err;
+        await new Promise(res => setTimeout(res, 500 * attempt));
+      }
+    }
 
     let chatMessage = '';
     let recommendedBeers: Beer[] = [];
