@@ -25,10 +25,11 @@ export async function POST(request: NextRequest) {
     const systemPrompt = fs.readFileSync(promptPath, 'utf-8').trim();
 
     const model = genAI.getGenerativeModel({
-      model: 'gemini-2.5-flash',
+      model: 'gemini-3.1-flash-lite',
       systemInstruction: systemPrompt,
       generationConfig: {
         responseMimeType: 'application/json',
+        thinkingConfig: { thinkingBudget: 1024 },
         responseSchema: {
           type: SchemaType.OBJECT,
           properties: {
