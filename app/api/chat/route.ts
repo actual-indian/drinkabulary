@@ -18,20 +18,16 @@ export async function POST(request: NextRequest) {
     const { message, beers, history } = body as { message: string; beers: Beer[]; history: Array<{ role: 'user' | 'assistant'; content: string }> };
 
     const genAI = new GoogleGenerativeAI(apiKey);
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite' });
 
     const promptPath = path.join(process.cwd(), 'app', 'prompts', 'system-prompt.md');
     const systemPrompt = fs.readFileSync(promptPath, 'utf-8').trim();
 
-    const model = genAI.getGenerativeModel({
-      model: 'gemini-2.5-flash-lite',
-      systemInstruction: systemPrompt,
-      generationConfig: {
-        responseMimeType: 'application/json',
-      },
-    });
-
-    // Build chat history from previous messages
-    const chatHistory: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [];
+    // Build chat history: system prompt injection + all previous messages
+    const chatHistory: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [
+      { role: 'user', parts: [{ text: systemPrompt }] },
+      { role: 'model', parts: [{ text: 'Understood. I will follow all instructions and always respond with valid JSON.' }] },
+    ];
 
     for (const msg of (history ?? [])) {
       chatHistory.push({
