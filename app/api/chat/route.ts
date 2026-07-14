@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { GoogleGenerativeAI, SchemaType } from '@google/generative-ai';
+
+export const maxDuration = 30;
 import type { Beer } from '@/types/beer';
 import fs from 'fs';
 import path from 'path';
