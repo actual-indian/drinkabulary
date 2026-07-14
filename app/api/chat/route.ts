@@ -15,8 +15,7 @@ export async function POST(request: NextRequest) {
     }
 
     const body = await request.json();
-    const { message, beers } = body as { message: string; beers: Beer[] };
-
+    const { message, beers, history } = body as { message: string; beers: Beer[]; history: Array<{ role: 'user' | 'assistant'; content: string }> };
 
     const genAI = new GoogleGenerativeAI(apiKey);
     const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite' });
@@ -24,18 +23,20 @@ export async function POST(request: NextRequest) {
     const promptPath = path.join(process.cwd(), 'app', 'prompts', 'system-prompt.md');
     const systemPrompt = fs.readFileSync(promptPath, 'utf-8').trim();
 
-    const chat = model.startChat({
-      history: [
-        {
-          role: 'user',
-          parts: [{ text: systemPrompt }],
-        },
-        {
-          role: 'model',
-          parts: [{ text: 'Got it, I will follow the instructions in the system prompt.' }],
-        },
-      ],
-    });
+    // Build chat history: system prompt injection + all previous messages
+    const chatHistory: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [
+      { role: 'user', parts: [{ text: systemPrompt }] },
+      { role: 'model', parts: [{ text: 'Understood. I will follow all instructions and always respond with valid JSON.' }] },
+    ];
+
+    for (const msg of (history ?? [])) {
+      chatHistory.push({
+        role: msg.role === 'assistant' ? 'model' : 'user',
+        parts: [{ text: msg.content }],
+      });
+    }
+
+    const chat = model.startChat({ history: chatHistory });
 
     // Format beer catalog for context with rich metadata
     const beerCatalog = beers.map(beer => {
@@ -74,8 +75,15 @@ export async function POST(request: NextRequest) {
 
     let rawResponse = result.response.text();
 
-    // Remove markdown code blocks if present
+    // Strip markdown code fences if present
     rawResponse = rawResponse.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
+
+    // If the model prepended prose before the JSON object, extract the JSON portion
+    const jsonStart = rawResponse.indexOf('{');
+    const jsonEnd = rawResponse.lastIndexOf('}');
+    if (jsonStart > 0 && jsonEnd > jsonStart) {
+      rawResponse = rawResponse.slice(jsonStart, jsonEnd + 1);
+    }
 
     let chatMessage = '';
     let recommendedBeers: Beer[] = [];

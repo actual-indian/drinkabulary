@@ -45,15 +45,15 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
     onAnimationStateChange('thinking'); // Switch to thinking animation
 
     try {
-      // Send chat message with cached beers
+      // Send chat message with cached beers and full conversation history
       const chatRes = await fetch('/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: userMessage, beers }),
+        body: JSON.stringify({ message: userMessage, beers, history: messages }),
       });
 
       if (!chatRes.ok) {
-        throw new Error(`API error ${chatRes.status}`);
+        throw new Error(chatRes.status >= 500 ? 'service_down' : 'request_failed');
       }
 
       const data = await chatRes.json();
@@ -71,11 +71,14 @@ export default function ChatBox({ onAnimationStateChange }: ChatBoxProps) {
         onAnimationStateChange('idle');
       }, 2000);
     } catch (error) {
+      const isServiceDown = error instanceof Error && error.message === 'service_down';
       setMessages((prev) => [
         ...prev,
         {
           role: 'assistant',
-          content: 'Sorry, I encountered an error. Please try again.',
+          content: isServiceDown
+            ? 'Sorry, the model is currently unavailable. Please try again in a moment.'
+            : 'Something went wrong on our end. Please try again.',
         },
       ]);
       onAnimationStateChange('idle');
