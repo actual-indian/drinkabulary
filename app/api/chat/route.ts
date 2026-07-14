@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenerativeAI, SchemaType } from '@google/generative-ai';
 import type { Beer } from '@/types/beer';
 import fs from 'fs';
 import path from 'path';
@@ -18,16 +18,38 @@ export async function POST(request: NextRequest) {
     const { message, beers, history } = body as { message: string; beers: Beer[]; history: Array<{ role: 'user' | 'assistant'; content: string }> };
 
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite' });
 
     const promptPath = path.join(process.cwd(), 'app', 'prompts', 'system-prompt.md');
     const systemPrompt = fs.readFileSync(promptPath, 'utf-8').trim();
 
-    // Build chat history: system prompt injection + all previous messages
-    const chatHistory: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [
-      { role: 'user', parts: [{ text: systemPrompt }] },
-      { role: 'model', parts: [{ text: 'Understood. I will follow all instructions and always respond with valid JSON.' }] },
-    ];
+    const model = genAI.getGenerativeModel({
+      model: 'gemini-2.5-flash-lite',
+      systemInstruction: systemPrompt,
+      generationConfig: {
+        responseMimeType: 'application/json',
+        responseSchema: {
+          type: SchemaType.OBJECT,
+          properties: {
+            message: { type: SchemaType.STRING },
+            recommendations: {
+              type: SchemaType.ARRAY,
+              items: {
+                type: SchemaType.OBJECT,
+                properties: {
+                  id:     { type: SchemaType.STRING },
+                  reason: { type: SchemaType.STRING },
+                },
+                required: ['id', 'reason'],
+              },
+            },
+          },
+          required: ['message', 'recommendations'],
+        },
+      },
+    });
+
+    // Build chat history from previous messages
+    const chatHistory: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [];
 
     for (const msg of (history ?? [])) {
       chatHistory.push({
@@ -73,17 +95,7 @@ export async function POST(request: NextRequest) {
       `Available menu items:\n${beerCatalog}\n\nUser message: ${message}`
     );
 
-    let rawResponse = result.response.text();
-
-    // Strip markdown code fences if present
-    rawResponse = rawResponse.replace(/```json\s*/g, '').replace(/```\s*/g, '').trim();
-
-    // If the model prepended prose before the JSON object, extract the JSON portion
-    const jsonStart = rawResponse.indexOf('{');
-    const jsonEnd = rawResponse.lastIndexOf('}');
-    if (jsonStart > 0 && jsonEnd > jsonStart) {
-      rawResponse = rawResponse.slice(jsonStart, jsonEnd + 1);
-    }
+    const rawResponse = result.response.text();
 
     let chatMessage = '';
     let recommendedBeers: Beer[] = [];
