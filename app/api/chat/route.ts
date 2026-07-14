@@ -29,7 +29,6 @@ export async function POST(request: NextRequest) {
       systemInstruction: systemPrompt,
       generationConfig: {
         responseMimeType: 'application/json',
-        thinkingConfig: { thinkingBudget: 1024 },
         responseSchema: {
           type: SchemaType.OBJECT,
           properties: {
